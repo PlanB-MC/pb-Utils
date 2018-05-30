@@ -185,7 +185,6 @@ crafting_table: Crafting Table
 wheat: Wheat Crops
 furnace: Furnace
 sign: Sign
-wall_sign: Wall Sign
 ladder: Ladder
 rail: Rail
 powered_rail: Powered Rail
@@ -207,7 +206,6 @@ heavy_weighted_pressure_plate: Heavy Weighted Pressure Plate
 iron_door: Iron Door
 redstone_ore: Redstone Ore
 redstone_torch: Redstone Torch
-redstone_wall_torch: Redstone Wall Torch
 stone_button: Stone Button
 oak_button: Oak Button
 spruce_button: Spruce Button
@@ -447,45 +445,17 @@ two_turtle_eggs: *Two Turtle Eggs
 three_turtle_eggs: *Three Turtle Eggs
 four_turtle_eggs: *Four Turtle Eggs
 banner: Banner
-wall_banner: Wall Banner
 piston_head: Piston Head
 moving_piston: Moving Piston
 red_mushroom: Red Mushroom
 snow_block: Snow Block
 brewing_stand: Brewing Stand
 flower_pot: Flower Pot
-potted_oak_sapling: Potted Oak Sapling
-potted_spruce_sapling: Potted Spruce Sapling
-potted_birch_sapling: Potted Birch Sapling
-potted_jungle_sapling: Potted Jungle Sapling
-potted_acacia_sapling: Potted Acacia Sapling
-potted_dark_oak_sapling: Potted Dark Oak Sapling
-potted_fern: Potted Fern
-potted_dandelion: Potted Dandelion
-potted_poppy: Potted Poppy
-potted_blue_orchid: Potted Blue Orchid
-potted_allium: Potted Allium
-potted_azure_bluet: Potted Azure Bluet
-potted_red_tulip: Potted Red Tulip
-potted_orange_tulip: Potted Orange Tulip
-potted_white_tulip: Potted White Tulip
-potted_pink_tulip: Potted Pink Tulip
-potted_oxeye_daisy: Potted Oxeye Daisy
-potted_red_mushroom: Potted Red Mushroom
-potted_brown_mushroom: Potted Brown Mushroom
-potted_dead_bush: Potted Dead Bush
-potted_cactus: Potted Cactus
-skeleton_wall_skull: Skeleton Wall Skull
 skeleton_skull: Skeleton Skull
-wither_skeleton_wall_skull: Wither Skeleton Wall Skull
 wither_skeleton_skull: Wither Skeleton Skull
-zombie_wall_head: Zombie Wall Head
 zombie_head: Zombie Head
-player_wall_head: Player Wall Head
 player_head: Player Head
-creeper_wall_head: Creeper Wall Head
 creeper_head: Creeper Head
-dragon_wall_head: Dragon Wall Head
 dragon_head: Dragon Head
 dead_tube_coral_block: Dead Tube Coral Block
 dead_brain_coral_block: Dead Brain Coral Block
@@ -652,18 +622,6 @@ music_disc_strad: Music Disc
 music_disc_ward: Music Disc
 music_disc_11: Music Disc
 music_disc_wait: Music Disc
-music_disc_13.desc: C418 - 13
-music_disc_cat.desc: C418 - cat
-music_disc_blocks.desc: C418 - blocks
-music_disc_chirp.desc: C418 - chirp
-music_disc_far.desc: C418 - far
-music_disc_mall.desc: C418 - mall
-music_disc_mellohi.desc: C418 - mellohi
-music_disc_stal.desc: C418 - stal
-music_disc_strad.desc: C418 - strad
-music_disc_ward.desc: C418 - ward
-music_disc_11.desc: C418 - 11
-music_disc_wait.desc: C418 - wait
 bone: Bone
 ink_sac: Ink Sac
 rose_red: Rose Red
@@ -795,50 +753,6 @@ turtle_helmet: Turtle Shell
 phantom_membrane: Phantom Membrane
 nautilus_shell: Nautilus Shell
 heart_of_the_sea: Heart of the Sea
-tipped_arrow.effect.empty: Uncraftable Tipped Arrow
-tipped_arrow.effect.water: Arrow of Splashing
-tipped_arrow.effect.mundane: Tipped Arrow
-tipped_arrow.effect.thick: Tipped Arrow
-tipped_arrow.effect.awkward: Tipped Arrow
-tipped_arrow.effect.night_vision: Arrow of Night Vision
-tipped_arrow.effect.invisibility: Arrow of Invisibility
-tipped_arrow.effect.leaping: Arrow of Leaping
-tipped_arrow.effect.fire_resistance: Arrow of Fire Resistance
-tipped_arrow.effect.swiftness: Arrow of Swiftness
-tipped_arrow.effect.slowness: Arrow of Slowness
-tipped_arrow.effect.water_breathing: Arrow of Water Breathing
-tipped_arrow.effect.healing: Arrow of Healing
-tipped_arrow.effect.harming: Arrow of Harming
-tipped_arrow.effect.poison: Arrow of Poison
-tipped_arrow.effect.regeneration: Arrow of Regeneration
-tipped_arrow.effect.strength: Arrow of Strength
-tipped_arrow.effect.weakness: Arrow of Weakness
-tipped_arrow.effect.levitation: Arrow of Levitation
-tipped_arrow.effect.luck: Arrow of Luck
-tipped_arrow.effect.turtle_master: Arrow of the Turtle Master
-tipped_arrow.effect.slow_falling: Arrow of Slow Falling
-potion.effect.empty: Uncraftable Potion
-potion.effect.water: Water Bottle
-potion.effect.mundane: Mundane Potion
-potion.effect.thick: Thick Potion
-potion.effect.awkward: Awkward Potion
-potion.effect.night_vision: Potion of Night Vision
-potion.effect.invisibility: Potion of Invisibility
-potion.effect.leaping: Potion of Leaping
-potion.effect.fire_resistance: Potion of Fire Resistance
-potion.effect.swiftness: Potion of Swiftness
-potion.effect.slowness: Potion of Slowness
-potion.effect.water_breathing: Potion of Water Breathing
-potion.effect.healing: Potion of Healing
-potion.effect.harming: Potion of Harming
-potion.effect.poison: Potion of Poison
-potion.effect.regeneration: Potion of Regeneration
-potion.effect.strength: Potion of Strength
-potion.effect.weakness: Potion of Weakness
-potion.effect.levitation: Potion of Levitation
-potion.effect.luck: Potion of Luck
-potion.effect.turtle_master: Potion of the Turtle Master
-potion.effect.slow_falling: Potion of Slow Falling
 black_banner: Black Banner
 red_banner: Red Banner
 green_banner: Green Banner
