@@ -93,6 +93,10 @@ public class pbConfig extends YamlConfiguration {
         save();
     }
 
+    public Object get(String path, String parent) {
+        return super.get(parent + "." + path);
+    }
+
     public void set(String key, Object value, String... parents) {
         String path = makePath(parents) + key;
         super.set(path, value);

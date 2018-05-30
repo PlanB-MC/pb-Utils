@@ -59,12 +59,12 @@ birch_log: Birch Log
 jungle_log: Jungle Log
 acacia_log: Acacia Log
 dark_oak_log: Dark Oak Log
-stripped_oak_log: Stripped Oak Log
-stripped_spruce_log: Stripped Spruce Log
-stripped_birch_log: Stripped Birch Log
-stripped_jungle_log: Stripped Jungle Log
-stripped_acacia_log: Stripped Acacia Log
-stripped_dark_oak_log: Stripped Dark Oak Log
+stripped_oak_log: *Stripped Oak Log
+stripped_spruce_log: *Stripped Spruce Log
+stripped_birch_log: *Stripped Birch Log
+stripped_jungle_log: *Stripped Jungle Log
+stripped_acacia_log: *Stripped Acacia Log
+stripped_dark_oak_log: *Stripped Dark Oak Log
 oak_leaves: Oak Leaves
 spruce_leaves: Spruce Leaves
 birch_leaves: Birch Leaves
@@ -343,8 +343,6 @@ command_block: Command Block
 repeating_command_block: Repeating Command Block
 chain_command_block: Chain Command Block
 beacon: Beacon
-beacon.primary: Primary Power
-beacon.secondary: Secondary Power
 cobblestone_wall: Cobblestone Wall
 mossy_cobblestone_wall: Mossy Cobblestone Wall
 carrots: Carrots
@@ -659,7 +657,6 @@ white_bed: White Bed
 repeater: Redstone Repeater
 comparator: Redstone Comparator
 filled_map: *Map
-item.leaves.name: *Leaves
 shears: Shears
 rotten_flesh: Rotten Flesh
 ender_pearl: Ender Pearl
@@ -702,32 +699,6 @@ pumpkin_pie: Pumpkin Pie
 enchanted_book: Enchanted Book
 firework_rocket: Firework Rocket
 firework_star: Firework Star
-firework_star.black: Black
-firework_star.red: Red
-firework_star.green: Green
-firework_star.brown: Brown
-firework_star.blue: Blue
-firework_star.purple: Purple
-firework_star.cyan: Cyan
-firework_star.light_gray: Light Gray
-firework_star.gray: Gray
-firework_star.pink: Pink
-firework_star.lime: Lime
-firework_star.yellow: Yellow
-firework_star.light_blue: Light Blue
-firework_star.magenta: Magenta
-firework_star.orange: Orange
-firework_star.white: White
-firework_star.custom_color: Custom
-firework_star.fade_to: Fade to
-firework_star.flicker: Twinkle
-firework_star.trail: Trail
-firework_star.shape.small_ball: Small Ball
-firework_star.shape.large_ball: Large Ball
-firework_star.shape.star: Star-shaped
-firework_star.shape.creeper: Creeper-shaped
-firework_star.shape.burst: Burst
-firework_star.shape: Unknown Shape
 nether_brick: Nether Brick
 quartz: Nether Quartz
 armor_stand: Armor Stand
@@ -770,19 +741,3 @@ magenta_banner: Magenta Banner
 orange_banner: Orange Banner
 white_banner: White Banner
 shield: Shield
-shield.black: Black Shield
-shield.red: Red Shield
-shield.green: Green Shield
-shield.brown: Brown Shield
-shield.blue: Blue Shield
-shield.purple: Purple Shield
-shield.cyan: Cyan Shield
-shield.light_gray: Light Gray Shield
-shield.gray: Gray Shield
-shield.pink: Pink Shield
-shield.lime: Lime Shield
-shield.yellow: Yellow Shield
-shield.light_blue: Light Blue Shield
-shield.magenta: Magenta Shield
-shield.orange: Orange Shield
-shield.white: White Shield

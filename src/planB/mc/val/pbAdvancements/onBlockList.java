@@ -19,17 +19,19 @@ public class onBlockList implements Listener {
 
     @EventHandler
     public void onEntityPickupItemEvent(EntityPickupItemEvent event) {
-        Player player = (Player) event.getEntity();
-        Item item = event.getItem();
-        //Do the main thingy
-        String blockName = item.getName().split("item.tile.")[1];
         try {
-            if (!Block.get(blockName)) {
-                Block.put(blockName, true, player.getName());
+            Player player = (Player) event.getEntity();
+            Item item = event.getItem();
+            //Do the main thingy
+            String[] blockNameList = item.getName().split(".");
+            String compare = blockNameList[blockNameList.length - 1];
+
+            if (!Block.itemExistFound(compare)) {
+                Block.put(compare, true, player.getName());
                 //Show title with subtitle of discovery
                 Bukkit.getServer().broadcastMessage(player.getDisplayName() + " has discovered a new Block!");
                 String title = "New Discovery!";
-                String subTitle = blockName;
+                String subTitle = compare;
                 Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),
                         "title @a title [{\"text\":\"" + title + "\"}]");
                 Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),
