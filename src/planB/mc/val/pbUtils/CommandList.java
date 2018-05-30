@@ -81,14 +81,14 @@ public class CommandList implements CommandExecutor {
         switch (args[1]) {
             case "reset": {
                 if (sender.hasPermission("planb.opped")) {
-                    Block.resetConfig();
+                   // Block.resetConfig();
                     return true;
                 } else noPermMsg(sender);
                 break;
             }
             case "reload": {
                 if (sender.hasPermission("planb.opped")) {
-                    Block.reloadConfig();
+                   // Block.reloadConfig();
                     return true;
                 } else noPermMsg(sender);
                 break;
@@ -97,11 +97,11 @@ public class CommandList implements CommandExecutor {
                 if (sender.hasPermission("planb.opped")) {
                     switch (args[2]) {
                         case "true": {
-                            Block.toggle(true);
+                           // Block.toggle(true);
                             return true;
                         }
                         case "false": {
-                            Block.toggle(false);
+                            //Block.toggle(false);
                             return true;
                         }
                         default: {

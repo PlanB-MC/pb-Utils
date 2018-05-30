@@ -37,6 +37,7 @@ public class Block {
 
                 try {
                     itemList = new HashMap<>();
+                    blockConfig = new pbConfig(main, "blockConfig.yml");
                     if (!Main.pbConfigFile.getBoolean("blocksListSet", "pbAdvancements", "data")) {
                         createConfig();
                         count = 0;
@@ -121,10 +122,10 @@ public class Block {
         pbUtils.log("[pbAdvancements]", "Loading Config file");
         Set<String> paths = blockConfig.getConfigurationSection("blocks").getKeys(false);
         paths.forEach(path -> addToList(
-                path.replace("blocks.", ""),
-                (Boolean) blockConfig.get(path + ".found"),
-                (String) blockConfig.get(path + ".name"),
-                (String) blockConfig.get(path + ".player")
+                path,
+                (Boolean) blockConfig.get("blocks." + path + ".found"),
+                (String) blockConfig.get("blocks." + path + ".name"),
+                (String) blockConfig.get("blocks." + path + ".player")
         ));
     }
 

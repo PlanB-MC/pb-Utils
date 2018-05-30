@@ -6,14 +6,21 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list id="f91251b8-62ee-4db6-811e-14a14fc72a3d" name="Default" comment="" />
     <list default="true" id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignor" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blocks.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onBlockList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onBlockList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/CommandList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/unreleased/pbChests/lilChest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/unreleased/pbChests/pbChests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/unreleased/pbChests/pbChests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" afterDir="false" />
     </list>
+    <list id="f91251b8-62ee-4db6-811e-14a14fc72a3d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,8 +69,8 @@
       <file leaf-file-name="Block.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+            <state relative-caret-position="621">
+              <caret line="131" column="54" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#addToList#1;class#Block#0" />
@@ -73,11 +80,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="onChests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+            <state relative-caret-position="374">
+              <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -164,11 +183,11 @@
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/HeadLight.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/onHeadLights.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/pbChests.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbConfig.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" />
       </list>
     </option>
@@ -182,7 +201,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="563" />
     <option name="y" value="-8" />
     <option name="width" value="974" />
@@ -411,7 +430,7 @@
       <workItem from="1527409809193" duration="16300000" />
       <workItem from="1527430225488" duration="3704000" />
       <workItem from="1527689737195" duration="1319000" />
-      <workItem from="1527694733489" duration="17292000" />
+      <workItem from="1527694733489" duration="18909000" />
     </task>
     <task id="LOCAL-00001" summary="Debugg">
       <changelist id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="" />
@@ -426,7 +445,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241083000" />
+    <option name="totallyTimeSpent" value="242700000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -443,6 +462,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -454,7 +474,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.18763326" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.18763326" />
       <window_info anchor="right" id="Database" order="7" weight="0.11727079" />
       <window_info id="Structure" order="0" sideWeight="0.6459695" side_tool="true" weight="0.18017058" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -464,7 +484,6 @@
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32897604" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="0" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -511,7 +530,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url />
+          <url>jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/World.class</url>
           <line>648</line>
           <properties class="net.minecraft.server.v1_12_R1.World" method="c">
             <option name="EMULATED" value="true" />
@@ -519,19 +538,19 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/World.class</url>
           <line>681</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/Block.class</url>
           <line>1002</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/Block.class</url>
           <line>775</line>
           <properties />
           <option name="timeStamp" value="9" />
@@ -781,16 +800,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/lightSense/onLighter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
@@ -828,20 +837,6 @@
             <element signature="method#loadChests#0;class#pbChests#0" />
             <element signature="method#saveChests#0;class#pbChests#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
         </state>
       </provider>
     </entry>
@@ -896,6 +891,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -903,10 +912,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+        <state relative-caret-position="621">
+          <caret line="131" column="54" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#addToList#1;class#Block#0" />
@@ -934,7 +953,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -946,7 +965,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Python 3.6 interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

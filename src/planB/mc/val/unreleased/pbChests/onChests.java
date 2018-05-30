@@ -18,11 +18,11 @@ public class onChests implements Listener {
     @EventHandler
     public void onPlayerInteractEvent(PlayerInteractEvent event) {
         try {
-            if (pbChests.isChest(event.getClickedBlock().getLocation())) {
+           /* if (pbChests.isChest(event.getClickedBlock().getLocation())) {
                 event.setCancelled(true);
                 event.getPlayer().getWorld().playSound(event.getClickedBlock().getLocation(), Sound.BLOCK_CHEST_OPEN,1F,1F);
                 event.getPlayer().openInventory(pbChests.open(event.getClickedBlock().getLocation()));
-            }
+            }*/
         } catch (NullPointerException e) {
             pbUtils.log("could not find the head you were looking for");
         }
@@ -57,7 +57,7 @@ public class onChests implements Listener {
         pbUtils.log("[onHeadLights]", api.getItemID(itemHead));
         try {
             if (api.getItemID(itemHead).equals("1193")) {
-                pbChests.addChest(event.getBlockPlaced(),event.getPlayer());
+               // pbChests.addChest(event.getBlockPlaced(),event.getPlayer());
             }
         } catch (NullPointerException e) {
             pbUtils.log("could not find the head you were looking for");
