@@ -1,0 +1,39 @@
+**1.13 Plugins**
+**ACCEPTED**
+:fire:     :heavy_check_mark:     Everyblock
+:fire:     :heavy_check_mark:     Barrier Blocks
+:fire:     :heavy_check_mark:     Shulker Farm
+:fire:     :heavy_check_mark:     Light Level
+:fire:     :heavy_check_mark:     Zombie Horse
+:fire:     :heavy_check_mark:     Blame
+
+**REJECTED**
+:gem:     :heavy_multiplication_x:     Poop
+:gem:     :heavy_multiplication_x:     Portable Craftingbench
+:gem:     :heavy_multiplication_x:     Big Chests
+
+**TODO**
+:tools:     Magic on slabs
+:tools:     Jetpack
+:tools:     Storage Crafting
+:tools:     Backpack
+:tools:     Hopper Duct
+
+**IDEA PENDING**
+:dvd:     Nether fortress finder
+:dvd:     End city finder
+:dvd:     Less Gravity
+:dvd:     Ore Doubling
+:dvd:     Increase Health Enchantment
+:dvd:     Chest in boat
+:dvd:     Stack to nearby chests
+:dvd:     Better Ender Chest
+:dvd:     Tool Belt
+:dvd:     Slime chunk finder
+:dvd:     Banner on boat
+:dvd:     Change colour of item names
+:dvd:     Sit in stairs
+:dvd:     Endermite can turn into shulker
+:dvd:     Ender Arrow
+:dvd:     Explosive Arrow
+:dvd:     Torch Arrow

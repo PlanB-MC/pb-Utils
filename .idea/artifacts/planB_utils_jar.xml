@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="planB-utils:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/planB_utils_jar</output-path>
+    <root id="archive" name="planB-utils.jar">
+      <element id="module-output" name="planB-utils" />
+    </root>
+  </artifact>
+</component>

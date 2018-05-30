@@ -1,0 +1,18 @@
+name: PlanbUtils
+version: 1.13.6.1.681
+author: gertp
+main: planB.mc.val.Main
+commands:
+  planb:
+    description: A list a plugins made for planb by planb
+    usage: /planb shulker | barrier | adv | lights
+    permission: planb.all
+    aliases: pb
+  blame:
+    permission: planb.all
+  permissions:
+    planb.opped:
+      default: op
+      permission-message: You do not have the permission to use this command!!
+    planb.all:
+      default: true

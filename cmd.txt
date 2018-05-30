@@ -1,0 +1,27 @@
+NOTE: " /pb " can also be used instead of /planb
+
+/planb
+	adv
+		-reset
+		-reload
+		-toggle
+			true
+			false
+		+print
+			todo
+			need
+	shulker
+		+stats
+		-reset
+		-setmax
+			<number of shulkers needed for HEADS>
+	barrier
+		-settime
+			<number in seconds>
+		+magic
+	lights
+		+on
+		+off
+		-print
+		-settime 
+			<Number. preferably no more than 20>
