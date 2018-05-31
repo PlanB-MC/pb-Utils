@@ -6,5 +6,6 @@ public class test {
             path.concat(cur + ".");
         }
         System.out.println(path.substring(0, path.lastIndexOf(".")));
+		
     }
 }
