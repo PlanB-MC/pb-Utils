@@ -9,7 +9,6 @@ import planB.mc.val.barrier.pbBarrier;
 import planB.mc.val.lightSense.pbLighter;
 import planB.mc.val.pbAdvancements.Block;
 import planB.mc.val.shulker.pbShulker;
-import planB.mc.val.unreleased.pbChests.pbChests;
 
 public class CommandList implements CommandExecutor {
     @Override
@@ -33,9 +32,6 @@ public class CommandList implements CommandExecutor {
                     case "adv": {
                         return pbadvancements(args, sender);
                     }
-                    case "chest": {
-                        return pbChest(args, sender);
-                    }
                     default: {
                         sender.sendMessage(ChatColor.RED + "command not found!!");
                         return true;
@@ -49,69 +45,12 @@ public class CommandList implements CommandExecutor {
         return false;
     }
 
-    private boolean pbChest(String[] args, CommandSender sender) {
-        if (args.length == 1) {
-            sender.sendMessage(ChatColor.RED + "Usage includes: save | load");
-            return true;
-        }
-        switch (args[1]) {
-            case "load": {
-                if (sender.hasPermission("planb.opped")) {
-                  //  pbChests.loadChests();
-                    return true;
-                } else noPermMsg(sender);
-                break;
-            }
-            case "save": {
-                if (sender.hasPermission("planb.opped")) {
-                  //  pbChests.saveChests();
-                    return true;
-                } else noPermMsg(sender);
-                break;
-            }
-        }
-        return false;
-    }
-
     private boolean pbadvancements(String[] args, CommandSender sender) {
         if (args.length == 1) {
-            sender.sendMessage(ChatColor.RED + "Usage includes: reload | reset | toggle[true|false] | print[done|todo]");
+            sender.sendMessage(ChatColor.RED + "Usage print[done|todo]");
             return true;
         }
         switch (args[1]) {
-            case "reset": {
-                if (sender.hasPermission("planb.opped")) {
-                   // Block.resetConfig();
-                    return true;
-                } else noPermMsg(sender);
-                break;
-            }
-            case "reload": {
-                if (sender.hasPermission("planb.opped")) {
-                   // Block.reloadConfig();
-                    return true;
-                } else noPermMsg(sender);
-                break;
-            }
-            case "toggle": {
-                if (sender.hasPermission("planb.opped")) {
-                    switch (args[2]) {
-                        case "true": {
-                           // Block.toggle(true);
-                            return true;
-                        }
-                        case "false": {
-                            //Block.toggle(false);
-                            return true;
-                        }
-                        default: {
-                            sender.sendMessage(ChatColor.RED + "Use /planb adv toggle [true|false]");
-                            return true;
-                        }
-                    }
-                } else noPermMsg(sender);
-                break;
-            }
             case "print": {
                 if (sender.hasPermission("planb.all")) {
                     if (args.length == 2) {

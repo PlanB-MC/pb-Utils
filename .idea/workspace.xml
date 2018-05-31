@@ -7,18 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blocks.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/Block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onBlockList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onBlockList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/CommandList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/unreleased/pbChests/lilChest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/unreleased/pbChests/pbChests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/unreleased/pbChests/pbChests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/HeadLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/onHeadLights.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/pbChests.java" beforeDir="false" />
     </list>
     <list id="f91251b8-62ee-4db6-811e-14a14fc72a3d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -60,20 +54,19 @@
       <file leaf-file-name="onBlockList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
+            <state relative-caret-position="418">
               <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Block.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Block.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="131" column="54" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="54" />
+            <state relative-caret-position="709">
+              <caret line="135" column="78" selection-start-line="135" selection-start-column="78" selection-end-line="135" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#addToList#1;class#Block#0" />
                 <element signature="method#print#0;class#Block#0" />
               </folding>
             </state>
@@ -83,8 +76,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="58" />
+            <state relative-caret-position="12">
+              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,11 +85,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="onChests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java">
+      <file leaf-file-name="CommandList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+            <state relative-caret-position="430">
+              <caret line="195" column="53" lean-forward="true" selection-start-line="195" selection-start-column="53" selection-end-line="195" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,14 +177,14 @@
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/onLighter.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/HeadLight.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/onHeadLights.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/pbChests.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbConfig.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" />
       </list>
     </option>
   </component>
@@ -213,95 +209,44 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planB-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planB-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planB-utils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="val" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planB-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="val" type="462c0819:PsiDirectoryNode" />
-              <item name="lightSense" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planB-utils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="val" type="462c0819:PsiDirectoryNode" />
-              <item name="lightSense" type="462c0819:PsiDirectoryNode" />
-              <item name="HeadsLights" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planB-utils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="val" type="462c0819:PsiDirectoryNode" />
-              <item name="pbAdvancements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planB-utils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="val" type="462c0819:PsiDirectoryNode" />
-              <item name="pbShowodmere" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planB-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="val" type="462c0819:PsiDirectoryNode" />
               <item name="pbUtils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="planB-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="val" type="462c0819:PsiDirectoryNode" />
-              <item name="pbChests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="HeadDatabaseAPI.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="HeadDatabaseAPI.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="hdb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="planB-utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="HeadDatabaseAPI.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="hdb" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="shulker" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,6 +376,7 @@
       <workItem from="1527430225488" duration="3704000" />
       <workItem from="1527689737195" duration="1319000" />
       <workItem from="1527694733489" duration="18909000" />
+      <workItem from="1527786646952" duration="874000" />
     </task>
     <task id="LOCAL-00001" summary="Debugg">
       <changelist id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="" />
@@ -445,7 +391,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242700000" />
+    <option name="totallyTimeSpent" value="243574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,8 +420,9 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.18763326" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.18976545" />
       <window_info anchor="right" id="Database" order="7" weight="0.11727079" />
+      <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="0" sideWeight="0.6459695" side_tool="true" weight="0.18017058" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -894,42 +841,44 @@
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
+        <state relative-caret-position="418">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="135" column="78" selection-start-line="135" selection-start-column="78" selection-end-line="135" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#print#0;class#Block#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="58" />
+        <state relative-caret-position="12">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="131" column="54" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="54" />
+        <state relative-caret-position="430">
+          <caret line="195" column="53" lean-forward="true" selection-start-line="195" selection-start-column="53" selection-end-line="195" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addToList#1;class#Block#0" />
-            <element signature="method#print#0;class#Block#0" />
           </folding>
         </state>
       </provider>

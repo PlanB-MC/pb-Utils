@@ -2,13 +2,11 @@ package planB.mc.val;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import planB.mc.val.barrier.pbBarrier;
-import planB.mc.val.lightSense.HeadsLights.HeadLight;
 import planB.mc.val.lightSense.pbLighter;
 import planB.mc.val.pbAdvancements.Block;
 import planB.mc.val.pbShowodmere.pbZHorse;
 import planB.mc.val.pbUtils.*;
 import planB.mc.val.shulker.pbShulker;
-import planB.mc.val.unreleased.pbChests.pbChests;
 
 import java.security.SecureRandom;
 import java.util.Random;
@@ -18,6 +16,7 @@ import java.util.Random;
 public class Main extends JavaPlugin {
     public static pbConfig pbConfigFile;
     public static pbListeners pbListenersEars;
+    public static Random random;
     private pbUtils pbUtils;
     private planB.mc.val.pbUtils.pbCrafting pbCrafting;
     private pbShulker pbShulker;
@@ -25,9 +24,6 @@ public class Main extends JavaPlugin {
     private pbLighter pbLighter;
     private Block pbAdvancements;
     private pbZHorse pbZHorse;
-    private pbChests pbChests;
-    private HeadLight pbHeadLight;
-    public static Random random;
 
     @Override
     public void onDisable() {
@@ -44,9 +40,9 @@ public class Main extends JavaPlugin {
         //Setting up Internal Structure:
         pbUtils = new pbUtils(this);
         pbConfigFile = new pbConfig(this, "pbConfig.yml");
-        pbConfigFile.addDefault("enablePlugin",true,"planB");
-        if (!pbConfigFile.getBoolean("enablePlugin","planB")){
-            pbUtils.log('C',"[PlanB-Utils]");
+        pbConfigFile.addDefault("enablePlugin", true, "planB");
+        if (!pbConfigFile.getBoolean("enablePlugin", "planB")) {
+            pbUtils.log('C', "[PlanB-Utils]");
             return;
         }
         pbCrafting = new pbCrafting(this);
@@ -59,7 +55,5 @@ public class Main extends JavaPlugin {
         pbLighter = new pbLighter(this);
         pbAdvancements = new Block(this);
         pbZHorse = new pbZHorse(this);
-        pbChests = new pbChests(this);
-        pbHeadLight = new HeadLight(this);
     }
 }
