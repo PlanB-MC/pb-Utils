@@ -30,11 +30,6 @@ birch_door:Birch Door
 jungle_door:Jungle Door
 acacia_door:Acacia Door
 dark_oak_door:Dark Oak Door
-bedrock:Bedrock
-water:Water
-lava:Lava
-flowing_water:Flowing Water
-flowing_lava:Flowing Lava
 sand:Sand
 red_sand:Red Sand
 sandstone:Sandstone
@@ -59,12 +54,12 @@ birch_log:Birch Log
 jungle_log:Jungle Log
 acacia_log:Acacia Log
 dark_oak_log:Dark Oak Log
-stripped_oak_log:*Stripped Oak Log
-stripped_spruce_log:*Stripped Spruce Log
-stripped_birch_log:*Stripped Birch Log
-stripped_jungle_log:*Stripped Jungle Log
-stripped_acacia_log:*Stripped Acacia Log
-stripped_dark_oak_log:*Stripped Dark Oak Log
+stripped_oak_log:Stripped Oak Log
+stripped_spruce_log:Stripped Spruce Log
+stripped_birch_log:Stripped Birch Log
+stripped_jungle_log:Stripped Jungle Log
+stripped_acacia_log:Stripped Acacia Log
+stripped_dark_oak_log:Stripped Dark Oak Log
 oak_leaves:Oak Leaves
 spruce_leaves:Spruce Leaves
 birch_leaves:Birch Leaves
@@ -127,7 +122,7 @@ sunflower:Sunflower
 lilac:Lilac
 tall_grass:Tall Grass
 tall_seagrass:Tall Seagrass
-large_fern:Large Fern
+large_fern:*Large Fern
 rose_bush:Rose Bush
 peony:Peony
 seagrass:Seagrass
@@ -135,7 +130,7 @@ sea_pickle:Sea Pickle
 brown_mushroom:Brown Mushroom
 red_mushroom_block:Red Mushroom Block
 brown_mushroom_block:Brown Mushroom Block
-mushroom_stem:Mushroom Stem
+mushroom_stem:*Mushroom Stem
 gold_block:Block of Gold
 iron_block:Block of Iron
 smooth_stone:Smooth Stone
@@ -145,7 +140,7 @@ smooth_quartz:Smooth Quartz
 stone_slab:Stone Slab
 sandstone_slab:Sandstone Slab
 red_sandstone_slab:Red Sandstone Slab
-petrified_oak_slab:Petrified Oak Slab
+petrified_oak_slab:*Petrified Oak Slab
 cobblestone_slab:Cobblestone Slab
 brick_slab:Brick Slab
 stone_brick_slab:Stone Brick Slab
@@ -182,7 +177,6 @@ diamond_ore:Diamond Ore
 coal_block:Block of Coal
 diamond_block:Block of Diamond
 crafting_table:Crafting Table
-wheat:Wheat Crops
 furnace:Furnace
 sign:Sign
 ladder:Ladder
@@ -267,8 +261,6 @@ birch_fence_gate:Birch Fence Gate
 jungle_fence_gate:Jungle Fence Gate
 dark_oak_fence_gate:Dark Oak Fence Gate
 acacia_fence_gate:Acacia Fence Gate
-pumpkin_stem:Pumpkin Stem
-attached_pumpkin_stem:Attached Pumpkin Stem
 pumpkin:Pumpkin
 carved_pumpkin:Carved Pumpkin
 jack_o_lantern:Jack o'Lantern
@@ -320,33 +312,26 @@ vine:Vines
 nether_bricks:Nether Bricks
 nether_brick_fence:Nether Brick Fence
 nether_brick_stairs:Nether Brick Stairs
-nether_wart:Nether Wart
 cauldron:Cauldron
 enchanting_table:Enchanting Table
 anvil:Anvil
 chipped_anvil:Chipped Anvil
 damaged_anvil:Damaged Anvil
 end_stone:End Stone
-end_portal_frame:End Portal Frame
 mycelium:Mycelium
 lily_pad:Lily Pad
 dragon_egg:Dragon Egg
 redstone_lamp:Redstone Lamp
-cocoa:Cocoa
+cocoa:*Cocoa
 ender_chest:Ender Chest
 emerald_ore:Emerald Ore
 emerald_block:Block of Emerald
 redstone_block:Block of Redstone
 tripwire:Tripwire
 tripwire_hook:Tripwire Hook
-command_block:Command Block
-repeating_command_block:Repeating Command Block
-chain_command_block:Chain Command Block
 beacon:Beacon
 cobblestone_wall:Cobblestone Wall
 mossy_cobblestone_wall:Mossy Cobblestone Wall
-carrots:Carrots
-potatoes:Potatoes
 daylight_detector:Daylight Detector
 nether_quartz_ore:Nether Quartz Ore
 hopper:Hopper
@@ -360,7 +345,7 @@ prismarine_bricks:Prismarine Bricks
 dark_prismarine:Dark Prismarine
 sea_lantern:Sea Lantern
 end_rod:End Rod
-chorus_plant:Chorus Plant
+chorus_plant:*Chorus Plant
 chorus_flower:Chorus Flower
 purpur_block:Purpur Block
 purpur_pillar:Purpur Pillar
@@ -438,16 +423,13 @@ light_blue_concrete_powder:Light Blue Concrete Powder
 magenta_concrete_powder:Magenta Concrete Powder
 orange_concrete_powder:Orange Concrete Powder
 white_concrete_powder:White Concrete Powder
-turtle_egg:*Turtle Egg
-two_turtle_eggs:*Two Turtle Eggs
-three_turtle_eggs:*Three Turtle Eggs
-four_turtle_eggs:*Four Turtle Eggs
+turtle_egg:Turtle Egg
+two_turtle_eggs:Two Turtle Eggs
+three_turtle_eggs:Three Turtle Eggs
+four_turtle_eggs:Four Turtle Eggs
 banner:Banner
-piston_head:Piston Head
-moving_piston:Moving Piston
 red_mushroom:Red Mushroom
 snow_block:Snow Block
-brewing_stand:Brewing Stand
 flower_pot:Flower Pot
 skeleton_skull:Skeleton Skull
 wither_skeleton_skull:Wither Skeleton Skull
@@ -673,7 +655,6 @@ spider_eye:Spider Eye
 fermented_spider_eye:Fermented Spider Eye
 blaze_powder:Blaze Powder
 magma_cream:Magma Cream
-cauldron:Cauldron
 brewing_stand:Brewing Stand
 ender_eye:Eye of Ender
 glistering_melon_slice:Glistering Melon Slice
@@ -681,18 +662,12 @@ experience_bottle:Bottle o' Enchanting
 fire_charge:Fire Charge
 writable_book:Book and Quill
 written_book:Written Book
-flower_pot:Flower Pot
 map:Empty Map
 carrot:Carrot
 golden_carrot:Golden Carrot
 potato:Potato
 baked_potato:Baked Potato
 poisonous_potato:Poisonous Potato
-skeleton_skull:Skeleton Skull
-wither_skeleton_skull:Wither Skeleton Skull
-zombie_head:Zombie Head
-creeper_head:Creeper Head
-dragon_head:Dragon Head
 carrot_on_a_stick:Carrot on a Stick
 nether_star:Nether Star
 pumpkin_pie:Pumpkin Pie
