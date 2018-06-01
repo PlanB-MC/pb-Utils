@@ -1,4 +1,4 @@
-package planB.mc.val.lightSense;
+package planB.mc.val.pbLights.lightSense;
 
 import me.arcaniax.hdb.api.HeadDatabaseAPI;
 import org.bukkit.Bukkit;

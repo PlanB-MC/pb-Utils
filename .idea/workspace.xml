@@ -7,12 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="">
+      <change afterPath="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/HeadLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/onHeadLights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/HeadLight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/onHeadLights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/lightSense/EternalLightAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/EternalLightAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/lightSense/ListItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/ListItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/lightSense/onLighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/onLighter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/lightSense/pbLighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/pbLighter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/pbChests.java" beforeDir="false" />
     </list>
     <list id="f91251b8-62ee-4db6-811e-14a14fc72a3d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,7 +67,7 @@
       <file leaf-file-name="Block.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
+            <state relative-caret-position="2640">
               <caret line="135" column="78" selection-start-line="135" selection-start-column="78" selection-end-line="135" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -76,8 +80,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="474">
+              <caret line="39" column="64" lean-forward="true" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,14 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommandList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java">
+      <file leaf-file-name="onHeadLights.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/onHeadLights.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="195" column="53" lean-forward="true" selection-start-line="195" selection-start-column="53" selection-end-line="195" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="386">
+              <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeadLight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/HeadLight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -183,8 +193,10 @@
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbConfig.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/HeadLight.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/onHeadLights.java" />
       </list>
     </option>
   </component>
@@ -197,7 +209,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="563" />
     <option name="y" value="-8" />
     <option name="width" value="974" />
@@ -208,9 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,6 +244,21 @@
               <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="val" type="462c0819:PsiDirectoryNode" />
+              <item name="pbLights" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="val" type="462c0819:PsiDirectoryNode" />
+              <item name="pbLights" type="462c0819:PsiDirectoryNode" />
+              <item name="pbHeadLights" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="val" type="462c0819:PsiDirectoryNode" />
               <item name="pbUtils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -247,6 +272,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,14 +296,18 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\lib" />
-      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\src\planB\mc\val\pbAdvancements" />
-      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\lib" />
       <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\src\planB\mc\val\lightSense" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="planB.mc.val.pbLights" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\pb-Utils\src\planB\mc\val\pbLights\pbHeadLights" />
+      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\lib" />
+      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\src\planB\mc\val\pbAdvancements" />
+      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -376,7 +407,8 @@
       <workItem from="1527430225488" duration="3704000" />
       <workItem from="1527689737195" duration="1319000" />
       <workItem from="1527694733489" duration="18909000" />
-      <workItem from="1527786646952" duration="874000" />
+      <workItem from="1527786646952" duration="1111000" />
+      <workItem from="1527865331625" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="Debugg">
       <changelist id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="" />
@@ -391,7 +423,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243574000" />
+    <option name="totallyTimeSpent" value="245154000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,7 +436,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32897604" />
@@ -420,21 +451,21 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.18976545" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.19189766" />
       <window_info anchor="right" id="Database" order="7" weight="0.11727079" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="SciView" order="10" />
       <window_info id="Structure" order="0" sideWeight="0.6459695" side_tool="true" weight="0.18017058" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="4" sideWeight="0.50108933" side_tool="true" weight="0.17697228" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="0" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" />
     </layout>
   </component>
@@ -477,7 +508,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/World.class</url>
+          <url />
           <line>648</line>
           <properties class="net.minecraft.server.v1_12_R1.World" method="c">
             <option name="EMULATED" value="true" />
@@ -485,19 +516,19 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/World.class</url>
+          <url />
           <line>681</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/Block.class</url>
+          <url />
           <line>1002</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/Block.class</url>
+          <url />
           <line>775</line>
           <properties />
           <option name="timeStamp" value="9" />
@@ -511,20 +542,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/SoundEffectType.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/IBlockProperties.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/BlockPosition.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="698">
@@ -674,7 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/lightSense/pbLighter.java">
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/pbLighter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
           <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="80" selection-end-column="5" />
@@ -712,13 +729,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/HeadLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/HeadLight.java" />
     <entry file="jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/IWorldAccess.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -747,7 +758,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/lightSense/onLighter.java">
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/onLighter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
           <caret line="92" column="52" lean-forward="true" selection-start-line="92" selection-start-column="52" selection-end-line="92" selection-end-column="52" />
@@ -775,18 +786,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/pbChests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="34" column="57" lean-forward="true" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#loadChests#0;class#pbChests#0" />
-            <element signature="method#saveChests#0;class#pbChests#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/pbChests.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2134">
@@ -812,13 +812,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/onHeadLights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/onHeadLights.java" />
     <entry file="jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/org/bukkit/configuration/MemorySection.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
@@ -838,13 +832,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" />
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -854,21 +842,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
+        <state relative-caret-position="2640">
           <caret line="135" column="78" selection-start-line="135" selection-start-column="78" selection-end-line="135" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#print#0;class#Block#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -880,6 +858,30 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/HeadLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="39" column="64" lean-forward="true" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/onHeadLights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>

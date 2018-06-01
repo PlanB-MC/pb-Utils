@@ -1,4 +1,4 @@
-package planB.mc.val.lightSense;
+package planB.mc.val.pbLights.lightSense;
 
 import java.util.Arrays;
 import java.util.HashSet;

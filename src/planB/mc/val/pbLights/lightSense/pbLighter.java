@@ -1,4 +1,4 @@
-package planB.mc.val.lightSense;
+package planB.mc.val.pbLights.lightSense;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

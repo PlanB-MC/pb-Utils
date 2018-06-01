@@ -6,7 +6,6 @@ import org.bukkit.block.Block;
 import org.bukkit.command.CommandSender;
 import org.bukkit.inventory.ItemStack;
 import planB.mc.val.Main;
-import planB.mc.val.lightSense.pbLighter;
 import planB.mc.val.pbUtils.pbUtils;
 
 import java.util.ArrayList;

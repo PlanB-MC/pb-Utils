@@ -6,7 +6,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import planB.mc.val.barrier.pbBarrier;
-import planB.mc.val.lightSense.pbLighter;
+import planB.mc.val.pbLights.lightSense.pbLighter;
 import planB.mc.val.pbAdvancements.Block;
 import planB.mc.val.shulker.pbShulker;
 

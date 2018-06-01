@@ -2,8 +2,9 @@ package planB.mc.val;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import planB.mc.val.barrier.pbBarrier;
-import planB.mc.val.lightSense.pbLighter;
 import planB.mc.val.pbAdvancements.Block;
+import planB.mc.val.pbLights.lightSense.pbLighter;
+import planB.mc.val.pbLights.pbHeadLights.HeadLight;
 import planB.mc.val.pbShowodmere.pbZHorse;
 import planB.mc.val.pbUtils.*;
 import planB.mc.val.shulker.pbShulker;
@@ -19,11 +20,6 @@ public class Main extends JavaPlugin {
     public static Random random;
     private pbUtils pbUtils;
     private planB.mc.val.pbUtils.pbCrafting pbCrafting;
-    private pbShulker pbShulker;
-    private pbBarrier pbBarier;
-    private pbLighter pbLighter;
-    private Block pbAdvancements;
-    private pbZHorse pbZHorse;
 
     @Override
     public void onDisable() {
@@ -50,10 +46,12 @@ public class Main extends JavaPlugin {
         random = new SecureRandom();
 
         //Setup plugins
-        pbShulker = new pbShulker();
-        pbBarier = new pbBarrier(this);
-        pbLighter = new pbLighter(this);
-        pbAdvancements = new Block(this);
-        pbZHorse = new pbZHorse(this);
+
+        pbShulker pbShulker = new pbShulker();
+        pbBarrier pbBarier = new pbBarrier(this);
+        pbLighter pbLighter = new pbLighter(this);
+        Block pbAdvancements = new Block(this);
+        pbZHorse pbZHorse = new pbZHorse(this);
+        HeadLight headLight = new HeadLight(this);
     }
 }
