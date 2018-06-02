@@ -42,24 +42,24 @@ gravel:Gravel
 gold_ore:Gold Ore
 iron_ore:Iron Ore
 coal_ore:Coal Ore
-oak_bark:Oak Bark
-spruce_bark:Spruce Bark
-birch_bark:Birch Bark
-jungle_bark:Jungle Bark
-acacia_bark:Acacia Bark
-dark_oak_bark:Dark Oak Bark
-oak_log:Oak Log
-spruce_log:Spruce Log
-birch_log:Birch Log
-jungle_log:Jungle Log
-acacia_log:Acacia Log
-dark_oak_log:Dark Oak Log
-stripped_oak_log:Stripped Oak Log
-stripped_spruce_log:Stripped Spruce Log
-stripped_birch_log:Stripped Birch Log
-stripped_jungle_log:Stripped Jungle Log
-stripped_acacia_log:Stripped Acacia Log
-stripped_dark_oak_log:Stripped Dark Oak Log
+oak_bark:Oak Bark #
+spruce_bark:Spruce Bark #
+birch_bark:Birch Bark #
+jungle_bark:Jungle Bark #
+acacia_bark:Acacia Bark #
+dark_oak_bark:Dark Oak Bark #
+oak_log:Oak Log #
+spruce_log:Spruce Log #
+birch_log:Birch Log #
+jungle_log:Jungle Log #
+acacia_log:Acacia Log #
+dark_oak_log:Dark Oak Log #
+stripped_oak_log:Stripped Oak Log #
+stripped_spruce_log:Stripped Spruce Log #
+stripped_birch_log:Stripped Birch Log #
+stripped_jungle_log:Stripped Jungle Log #
+stripped_acacia_log:Stripped Acacia Log #
+stripped_dark_oak_log:Stripped Dark Oak Log #
 oak_leaves:Oak Leaves
 spruce_leaves:Spruce Leaves
 birch_leaves:Birch Leaves
@@ -67,14 +67,14 @@ jungle_leaves:Jungle Leaves
 acacia_leaves:Acacia Leaves
 dark_oak_leaves:Dark Oak Leaves
 dead_bush:Dead Bush
-grass:Grass
+grass:Grass #
 fern:Fern
 sponge:Sponge
 wet_sponge:Wet Sponge
 glass:Glass
-kelp_plant:Kelp Plant
-kelp:Kelp
-dried_kelp_block:Dried Kelp Block
+kelp_plant:Kelp Plant #
+kelp:Kelp #
+dried_kelp_block:Dried Kelp Block #
 white_stained_glass:White Stained Glass
 orange_stained_glass:Orange Stained Glass
 magenta_stained_glass:Magenta Stained Glass
