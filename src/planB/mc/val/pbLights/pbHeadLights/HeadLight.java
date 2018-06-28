@@ -10,11 +10,11 @@ public class HeadLight {
     private static HashSet<String> candles;
 
     public HeadLight(Main plugin) {
-        /*Main.pbConfigFile.addDefault("enablePlugin", true, "pbHeadLights");
+        Main.pbConfigFile.addDefault("enablePlugin", true, "pbHeadLights");
         if (!Main.pbConfigFile.getBoolean("enablePlugin", "pbHeadLights")) {
             pbUtils.log('C', "[pbHeadLights]");
             return;
-        }*/
+        }
         candles = new HashSet<>();
         LIT();
         Main.pbListenersEars.addListener(new onHeadLights());
