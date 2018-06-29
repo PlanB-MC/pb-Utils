@@ -14,7 +14,7 @@ acacia_trapdoor:Acacia Trapdoor
 acacia_wood:Acacia Wood
 activator_rail:Activator Rail
 allium:Allium
-andesite:Andesite
+andesite:Andesitea
 anvil:Anvil
 apple:Apple
 armor_stand:Armor Stand
@@ -78,6 +78,7 @@ brain_coral:Brain Coral
 brain_coral_block:Brain Coral Block
 brain_coral_fan:Brain Coral Fan
 bread:Bread
+brewing:Brewing Stand
 brewing_stand:Brewing Stand
 brick:Brick
 brick_slab:Brick Slab
@@ -340,12 +341,24 @@ lapis_lazuli:Lapis Lazuli
 lapis_ore:Lapis Lazuli Ore
 lava_bucket:Lava Bucket
 lead:Lead
+
+leaping:Arrow of Leaping
+leaping:Lingering Potion of Leaping
+leaping:Potion of Leaping
+leaping:Splash Potion of Leaping
 leather:Leather
 leather_boots:Leather Boots
 leather_chestplate:Leather Tunic
 leather_helmet:Leather Cap
 leather_leggings:Leather Pants
 lever:Lever
+levitation:Arrow of Levitation
+levitation:Lingering Potion of Levitation
+levitation:Potion of Levitation
+levitation:Splash Potion of Levitation
+light_blue:Light Blue
+light_blue:Light Blue Shield
+light_blue_banner:Light Blue Banner
 light_blue_bed:Light Blue Bed
 light_blue_carpet:Light Blue Carpet
 light_blue_concrete:Light Blue Concrete
@@ -357,6 +370,9 @@ light_blue_stained_glass:Light Blue Stained Glass
 light_blue_stained_glass_pane:Light Blue Stained Glass Pane
 light_blue_terracotta:Light Blue Terracotta
 light_blue_wool:Light Blue Wool
+light_gray:Light Gray
+light_gray:Light Gray Shield
+light_gray_banner:Light Gray Banner
 light_gray_bed:Light Gray Bed
 light_gray_carpet:Light Gray Carpet
 light_gray_concrete:Light Gray Concrete
@@ -371,6 +387,9 @@ light_gray_wool:Light Gray Wool
 light_weighted_pressure_plate:Light Weighted Pressure Plate
 lilac:Lilac
 lily_pad:Lily Pad
+lime:Lime
+lime:Lime Shield
+lime_banner:Lime Banner
 lime_bed:Lime Bed
 lime_carpet:Lime Carpet
 lime_concrete:Lime Concrete
@@ -382,7 +401,19 @@ lime_stained_glass:Lime Stained Glass
 lime_stained_glass_pane:Lime Stained Glass Pane
 lime_terracotta:Lime Terracotta
 lime_wool:Lime Wool
+lingering_potion:Lingering Potion
+llama_spawn_egg:Llama Spawn Egg
+looting:Looting
+loyalty:Loyalty
+luck:Arrow of Luck
+luck:Lingering Potion of Luck
+luck:Potion of Luck
+luck:Splash Potion of Luck
+luck_of_the_sea:Luck of the Sea
 lure:Lure
+magenta:Magenta
+magenta:Magenta Shield
+magenta_banner:Magenta Banner
 magenta_bed:Magenta Bed
 magenta_carpet:Magenta Carpet
 magenta_concrete:Magenta Concrete
@@ -396,30 +427,65 @@ magenta_terracotta:Magenta Terracotta
 magenta_wool:Magenta Wool
 magma_block:Magma Block
 magma_cream:Magma Cream
+magma_cube_spawn_egg:Magma Cube Spawn Egg
+many:%s Enchantment Levels
+many:%s Lapis Lazuli
 map:Empty Map
 melon:Melon
 melon_seeds:Melon Seeds
 melon_slice:Melon Slice
+melon_stem:Melon Stem
+mending:Mending
 milk_bucket:Milk Bucket
 minecart:Minecart
+mooshroom_spawn_egg:Mooshroom Spawn Egg
 mossy_cobblestone:Mossy Cobblestone
 mossy_cobblestone_wall:Mossy Cobblestone Wall
 mossy_stone_bricks:Mossy Stone Bricks
+moving_piston:Moving Piston
+mule_spawn_egg:Mule Spawn Egg
+mundane:Mundane Lingering Potion
+mundane:Mundane Potion
+mundane:Mundane Splash Potion
+mundane:Tipped Arrow
+mushroom_stem:Mushroom Stem
 mushroom_stew:Mushroom Stew
+music_disc_11:Music Disc
+music_disc_13:Music Disc
+music_disc_blocks:Music Disc
+music_disc_cat:Music Disc
+music_disc_chirp:Music Disc
+music_disc_far:Music Disc
+music_disc_mall:Music Disc
+music_disc_mellohi:Music Disc
+music_disc_stal:Music Disc
+music_disc_strad:Music Disc
+music_disc_wait:Music Disc
+music_disc_ward:Music Disc
 mutton:Raw Mutton
 mycelium:Mycelium
 name_tag:Name Tag
+named:%s's Head
 nautilus_shell:Nautilus Shell
 nether_brick:Nether Brick
 nether_brick_fence:Nether Brick Fence
 nether_brick_slab:Nether Brick Slab
 nether_brick_stairs:Nether Brick Stairs
 nether_bricks:Nether Bricks
+nether_portal:Nether Portal
 nether_quartz_ore:Nether Quartz Ore
 nether_star:Nether Star
 nether_wart:Nether Wart
+nether_wart:Nether Wart
 nether_wart_block:Nether Wart Block
 netherrack:Netherrack
+night_vision:Arrow of Night Vision
+night_vision:Lingering Potion of Night Vision
+night_vision:Potion of Night Vision
+night_vision:Splash Potion of Night Vision
+no_sleep:You can sleep only at night and during thunderstorms
+not_safe:You may not rest now; there are monsters nearby
+not_valid:Your home bed was missing or obstructed
 note_block:Note Block
 oak_boat:Oak Boat
 oak_button:Oak Button
@@ -437,6 +503,13 @@ oak_trapdoor:Oak Trapdoor
 oak_wood:Oak Wood
 observer:Observer
 obsidian:Obsidian
+occupied:This bed is occupied
+ocelot_spawn_egg:Ocelot Spawn Egg
+one:1 Enchantment Level
+one:1 Lapis Lazuli
+orange:Orange
+orange:Orange Shield
+orange_banner:Orange Banner
 orange_bed:Orange Bed
 orange_carpet:Orange Carpet
 orange_concrete:Orange Concrete
@@ -453,9 +526,15 @@ oxeye_daisy:Oxeye Daisy
 packed_ice:Packed Ice
 painting:Painting
 paper:Paper
+parrot_spawn_egg:Parrot Spawn Egg
 peony:Peony
 petrified_oak_slab:Petrified Oak Slab
 phantom_membrane:Phantom Membrane
+phantom_spawn_egg:Phantom Spawn Egg
+pig_spawn_egg:Pig Spawn Egg
+pink:Pink
+pink:Pink Shield
+pink_banner:Pink Banner
 pink_bed:Pink Bed
 pink_carpet:Pink Carpet
 pink_concrete:Pink Concrete
@@ -469,8 +548,16 @@ pink_terracotta:Pink Terracotta
 pink_tulip:Pink Tulip
 pink_wool:Pink Wool
 piston:Piston
+piston_head:Piston Head
+player_head:Player Head
+player_wall_head:Player Wall Head
 podzol:Podzol
+poison:Arrow of Poison
+poison:Lingering Potion of Poison
+poison:Potion of Poison
+poison:Splash Potion of Poison
 poisonous_potato:Poisonous Potato
+polar_bear_spawn_egg:Polar Bear Spawn Egg
 polished_andesite:Polished Andesite
 polished_diorite:Polished Diorite
 polished_granite:Polished Granite
@@ -478,7 +565,32 @@ popped_chorus_fruit:Popped Chorus Fruit
 poppy:Poppy
 porkchop:Raw Porkchop
 potato:Potato
+potatoes:Potatoes
+potion:Potion
+potted_acacia_sapling:Potted Acacia Sapling
+potted_allium:Potted Allium
+potted_azure_bluet:Potted Azure Bluet
+potted_birch_sapling:Potted Birch Sapling
+potted_blue_orchid:Potted Blue Orchid
+potted_brown_mushroom:Potted Brown Mushroom
+potted_cactus:Potted Cactus
+potted_dandelion:Potted Dandelion
+potted_dark_oak_sapling:Potted Dark Oak Sapling
+potted_dead_bush:Potted Dead Bush
+potted_fern:Potted Fern
+potted_jungle_sapling:Potted Jungle Sapling
+potted_oak_sapling:Potted Oak Sapling
+potted_orange_tulip:Potted Orange Tulip
+potted_oxeye_daisy:Potted Oxeye Daisy
+potted_pink_tulip:Potted Pink Tulip
+potted_poppy:Potted Poppy
+potted_red_mushroom:Potted Red Mushroom
+potted_red_tulip:Potted Red Tulip
+potted_spruce_sapling:Potted Spruce Sapling
+potted_white_tulip:Potted White Tulip
+power:Power
 powered_rail:Powered Rail
+primary:Primary Power
 prismarine:Prismarine
 prismarine_brick_slab:Prismarine Brick Slab
 prismarine_brick_stairs:Prismarine Brick Stairs
@@ -487,11 +599,19 @@ prismarine_crystals:Prismarine Crystals
 prismarine_shard:Prismarine Shard
 prismarine_slab:Prismarine Slab
 prismarine_stairs:Prismarine Stairs
+projectile_protection:Projectile Protection
+protection:Protection
 pufferfish:Pufferfish
 pufferfish_bucket:Bucket of Pufferfish
+pufferfish_spawn_egg:Pufferfish Spawn Egg
 pumpkin:Pumpkin
 pumpkin_pie:Pumpkin Pie
 pumpkin_seeds:Pumpkin Seeds
+pumpkin_stem:Pumpkin Stem
+punch:Punch
+purple:Purple
+purple:Purple Shield
+purple_banner:Purple Banner
 purple_bed:Purple Bed
 purple_carpet:Purple Carpet
 purple_concrete:Purple Concrete
@@ -515,8 +635,12 @@ quartz_stairs:Quartz Stairs
 rabbit:Raw Rabbit
 rabbit_foot:Rabbit's Foot
 rabbit_hide:Rabbit Hide
+rabbit_spawn_egg:Rabbit Spawn Egg
 rabbit_stew:Rabbit Stew
 rail:Rail
+red:Red
+red:Red Shield
+red_banner:Red Banner
 red_bed:Red Bed
 red_carpet:Red Carpet
 red_concrete:Red Concrete
@@ -540,14 +664,25 @@ redstone_block:Block of Redstone
 redstone_lamp:Redstone Lamp
 redstone_ore:Redstone Ore
 redstone_torch:Redstone Torch
+redstone_wall_torch:Redstone Wall Torch
 redstone_wire:Redstone Dust
+regeneration:Arrow of Regeneration
+regeneration:Lingering Potion of Regeneration
+regeneration:Potion of Regeneration
+regeneration:Splash Potion of Regeneration
+repair:Repair & Name
 repeater:Redstone Repeater
+repeating_command_block:Repeating Command Block
+requirement:Level requirement: %s
+respiration:Respiration
+riptide:Riptide
 rose_bush:Rose Bush
 rose_red:Rose Red
 rotten_flesh:Rotten Flesh
 saddle:Saddle
 salmon:Raw Salmon
 salmon_bucket:Bucket of Salmon
+salmon_spawn_egg:Salmon Spawn Egg
 sand:Sand
 sandstone:Sandstone
 sandstone_slab:Sandstone Slab
@@ -556,15 +691,39 @@ scute:Scute
 sea_lantern:Sea Lantern
 sea_pickle:Sea Pickle
 seagrass:Seagrass
+secondary:Secondary Power
+select:selected \%s\ (%s)
+shape:Unknown Shape
+sharpness:Sharpness
 shears:Shears
+sheep_spawn_egg:Sheep Spawn Egg
 shield:Shield
 shulker_box:Shulker Box
 shulker_shell:Shulker Shell
+shulker_spawn_egg:Shulker Spawn Egg
 shulkerBox:Shulker Box
 sign:Sign
+sign:Sign
+silk_touch:Silk Touch
+silverfish_spawn_egg:Silverfish Spawn Egg
+skeleton_horse_spawn_egg:Skeleton Horse Spawn Egg
 skeleton_skull:Skeleton Skull
+skeleton_skull:Skeleton Skull
+skeleton_spawn_egg:Skeleton Spawn Egg
+skeleton_wall_skull:Skeleton Wall Skull
 slime_ball:Slimeball
 slime_block:Slime Block
+slime_spawn_egg:Slime Spawn Egg
+slow_falling:Arrow of Slow Falling
+slow_falling:Lingering Potion of Slow Falling
+slow_falling:Potion of Slow Falling
+slow_falling:Splash Potion of Slow Falling
+slowness:Arrow of Slowness
+slowness:Lingering Potion of Slowness
+slowness:Potion of Slowness
+slowness:Splash Potion of Slowness
+small_ball:Small Ball
+smite:Smite
 smooth_quartz:Smooth Quartz
 smooth_red_sandstone:Smooth Red Sandstone
 smooth_sandstone:Smooth Sandstone
@@ -573,7 +732,11 @@ snow:Snow
 snow_block:Snow Block
 snowball:Snowball
 soul_sand:Soul Sand
+spawner:Spawner
+spectral_arrow:Spectral Arrow
 spider_eye:Spider Eye
+spider_spawn_egg:Spider Spawn Egg
+splash_potion:Splash Potion
 sponge:Sponge
 spruce_boat:Spruce Boat
 spruce_button:Spruce Button
@@ -589,6 +752,8 @@ spruce_slab:Spruce Slab
 spruce_stairs:Spruce Stairs
 spruce_trapdoor:Spruce Trapdoor
 spruce_wood:Spruce Wood
+squid_spawn_egg:Squid Spawn Egg
+star:Star-shaped
 stick:Stick
 sticky_piston:Sticky Piston
 stone:Stone
@@ -603,6 +768,11 @@ stone_pressure_plate:Stone Pressure Plate
 stone_shovel:Stone Shovel
 stone_slab:Stone Slab
 stone_sword:Stone Sword
+stray_spawn_egg:Stray Spawn Egg
+strength:Arrow of Strength
+strength:Lingering Potion of Strength
+strength:Potion of Strength
+strength:Splash Potion of Strength
 string:String
 stripped_acacia_log:Stripped Acacia Log
 stripped_acacia_wood:Stripped Acacia Wood
@@ -616,35 +786,82 @@ stripped_oak_log:Stripped Oak Log
 stripped_oak_wood:Stripped Oak Wood
 stripped_spruce_log:Stripped Spruce Log
 stripped_spruce_wood:Stripped Spruce Wood
+structure_block:Structure Block
+structure_void:Structure Void
 sugar:Sugar
 sugar_cane:Sugar Cane
 sunflower:Sunflower
+sweeping:Sweeping Edge
+swiftness:Arrow of Swiftness
+swiftness:Lingering Potion of Swiftness
+swiftness:Potion of Swiftness
+swiftness:Splash Potion of Swiftness
 tall_grass:Tall Grass
 tall_seagrass:Tall Seagrass
 terracotta:Terracotta
+thick:Thick Lingering Potion
+thick:Thick Potion
+thick:Thick Splash Potion
+thick:Tipped Arrow
+thorns:Thorns
 three_turtle_eggs:Three Turtle Eggs
+tipped_arrow:Tipped Arrow
 tnt:TNT
 tnt_minecart:Minecart with TNT
+too_far_away:You may not rest now; the bed is too far away
 torch:Torch
 totem_of_undying:Totem of Undying
+trail:Trail
 trapped_chest:Trapped Chest
 trident:Trident
 tripwire:Tripwire
 tripwire_hook:Tripwire Hook
 tropical_fish:Tropical Fish
 tropical_fish_bucket:Bucket of Tropical Fish
+tropical_fish_spawn_egg:Tropical Fish Spawn Egg
 tube_coral:Tube Coral
 tube_coral_block:Tube Coral Block
 tube_coral_fan:Tube Coral Fan
 turtle_egg:Turtle Egg
 turtle_helmet:Turtle Shell
+turtle_master:Arrow of the Turtle Master
+turtle_master:Lingering Potion of the Turtle Master
+turtle_master:Potion of the Turtle Master
+turtle_master:Splash Potion of the Turtle Master
+turtle_spawn_egg:Turtle Spawn Egg
 two_turtle_eggs:Two Turtle Eggs
+unbreaking:Unbreaking
+update:\%s\ to %s
+vanishing_curse:Curse of Vanishing
+vex_spawn_egg:Vex Spawn Egg
+villager_spawn_egg:Villager Spawn Egg
+vindicator_spawn_egg:Vindicator Spawn Egg
 vine:Vines
+void_air:Void Air
+wall_banner:Wall Banner
+wall_sign:Wall Sign
+wall_torch:Wall Torch
+water:Arrow of Splashing
+water:Lingering Water Bottle
+water:Splash Water Bottle
+water:Water
 water:Water Bottle
+water_breathing:Arrow of Water Breathing
+water_breathing:Lingering Potion of Water Breathing
+water_breathing:Potion of Water Breathing
+water_breathing:Splash Potion of Water Breathing
 water_bucket:Water Bucket
+weakness:Arrow of Weakness
+weakness:Lingering Potion of Weakness
+weakness:Potion of Weakness
+weakness:Splash Potion of Weakness
 wet_sponge:Wet Sponge
 wheat:Wheat
+wheat:Wheat Crops
 wheat_seeds:Wheat Seeds
+white:White
+white:White Shield
+white_banner:White Banner
 white_bed:White Bed
 white_carpet:White Carpet
 white_concrete:White Concrete
@@ -656,7 +873,12 @@ white_stained_glass_pane:White Stained Glass Pane
 white_terracotta:White Terracotta
 white_tulip:White Tulip
 white_wool:White Wool
+witch_spawn_egg:Witch Spawn Egg
 wither_skeleton_skull:Wither Skeleton Skull
+wither_skeleton_skull:Wither Skeleton Skull
+wither_skeleton_spawn_egg:Wither Skeleton Spawn Egg
+wither_skeleton_wall_skull:Wither Skeleton Wall Skull
+wolf_spawn_egg:Wolf Spawn Egg
 wooden_axe:Wooden Axe
 wooden_hoe:Wooden Hoe
 wooden_pickaxe:Wooden Pickaxe
@@ -664,6 +886,9 @@ wooden_shovel:Wooden Shovel
 wooden_sword:Wooden Sword
 writable_book:Book and Quill
 written_book:Written Book
+yellow:Yellow
+yellow:Yellow Shield
+yellow_banner:Yellow Banner
 yellow_bed:Yellow Bed
 yellow_carpet:Yellow Carpet
 yellow_concrete:Yellow Concrete
@@ -675,3 +900,9 @@ yellow_stained_glass_pane:Yellow Stained Glass Pane
 yellow_terracotta:Yellow Terracotta
 yellow_wool:Yellow Wool
 zombie_head:Zombie Head
+zombie_head:Zombie Head
+zombie_horse_spawn_egg:Zombie Horse Spawn Egg
+zombie_pigman_spawn_egg:Zombie Pigman Spawn Egg
+zombie_spawn_egg:Zombie Spawn Egg
+zombie_villager_spawn_egg:Zombie Villager Spawn Egg
+zombie_wall_head:Zombie Wall Head

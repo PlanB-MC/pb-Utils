@@ -13,22 +13,36 @@ acacia_stairs:Acacia Stairs
 acacia_trapdoor:Acacia Trapdoor
 acacia_wood:Acacia Wood
 activator_rail:Activator Rail
+air:Air
 allium:Allium
-andesite:Andesite
+andesite:Andesitea
 anvil:Anvil
 apple:Apple
+aqua_affinity:Aqua Affinity
 armor_stand:Armor Stand
 arrow:Arrow
+attached_melon_stem:Attached Melon Stem
+attached_pumpkin_stem:Attached Pumpkin Stem
+awkward:Awkward Lingering Potion
+awkward:Awkward Potion
+awkward:Awkward Splash Potion
+awkward:Tipped Arrow
 azure_bluet:Azure Bluet
 baked_potato:Baked Potato
+bane_of_arthropods:Bane of Arthropods
 banner:Banner
+barrier:Barrier
+bat_spawn_egg:Bat Spawn Egg
+beacon:Beacon
 beacon:Beacon
 bed:Bed
+bedrock:Bedrock
 beef:Raw Beef
 beetroot:Beetroot
 beetroot_seeds:Beetroot Seeds
 beetroot_soup:Beetroot Soup
 beetroots:Beetroots
+binding_curse:Curse of Binding
 birch_boat:Birch Boat
 birch_button:Birch Button
 birch_door:Birch Door
@@ -43,6 +57,9 @@ birch_slab:Birch Slab
 birch_stairs:Birch Stairs
 birch_trapdoor:Birch Trapdoor
 birch_wood:Birch Wood
+black:Black
+black:Black Shield
+black_banner:Black Banner
 black_bed:Black Bed
 black_carpet:Black Carpet
 black_concrete:Black Concrete
@@ -53,8 +70,13 @@ black_stained_glass:Black Stained Glass
 black_stained_glass_pane:Black Stained Glass Pane
 black_terracotta:Black Terracotta
 black_wool:Black Wool
+blast_protection:Blast Protection
 blaze_powder:Blaze Powder
 blaze_rod:Blaze Rod
+blaze_spawn_egg:Blaze Spawn Egg
+blue:Blue
+blue:Blue Shield
+blue_banner:Blue Banner
 blue_bed:Blue Bed
 blue_carpet:Blue Carpet
 blue_concrete:Blue Concrete
@@ -78,11 +100,16 @@ brain_coral:Brain Coral
 brain_coral_block:Brain Coral Block
 brain_coral_fan:Brain Coral Fan
 bread:Bread
+brewing:Brewing Stand
+brewing_stand:Brewing Stand
 brewing_stand:Brewing Stand
 brick:Brick
 brick_slab:Brick Slab
 brick_stairs:Brick Stairs
 bricks:Bricks
+brown:Brown
+brown:Brown Shield
+brown_banner:Brown Banner
 brown_bed:Brown Bed
 brown_carpet:Brown Carpet
 brown_concrete:Brown Concrete
@@ -95,31 +122,44 @@ brown_stained_glass:Brown Stained Glass
 brown_stained_glass_pane:Brown Stained Glass Pane
 brown_terracotta:Brown Terracotta
 brown_wool:Brown Wool
+bubble_column:Bubble Column
 bubble_coral:Bubble Coral
 bubble_coral_block:Bubble Coral Block
 bubble_coral_fan:Bubble Coral Fan
 bucket:Bucket
+burst:Burst
 cactus:Cactus
 cactus_green:Cactus Green
 cake:Cake
 carrot:Carrot
 carrot_on_a_stick:Carrot on a Stick
+carrots:Carrots
 carved_pumpkin:Carved Pumpkin
 cauldron:Cauldron
+cauldron:Cauldron
+cave_air:Cave Air
+cave_spider_spawn_egg:Cave Spider Spawn Egg
+chain_command_block:Chain Command Block
 chainmail_boots:Chainmail Boots
 chainmail_chestplate:Chainmail Chestplate
 chainmail_helmet:Chainmail Helmet
 chainmail_leggings:Chainmail Leggings
+channeling:Channeling
 charcoal:Charcoal
 chest:Chest
+chest:Chest
 chest_minecart:Minecart with Chest
+chestDouble:Large Chest
 chicken:Raw Chicken
+chicken_spawn_egg:Chicken Spawn Egg
+chipped_anvil:Chipped Anvil
 chiseled_quartz_block:Chiseled Quartz Block
 chiseled_red_sandstone:Chiseled Red Sandstone
 chiseled_sandstone:Chiseled Sandstone
 chiseled_stone_bricks:Chiseled Stone Bricks
 chorus_flower:Chorus Flower
 chorus_fruit:Chorus Fruit
+chorus_plant:Chorus Plant
 clay:Clay
 clay_ball:Clay
 clock:Clock
@@ -132,9 +172,13 @@ cobblestone_slab:Cobblestone Slab
 cobblestone_stairs:Cobblestone Stairs
 cobblestone_wall:Cobblestone Wall
 cobweb:Cobweb
+cocoa:Cocoa
 cocoa_beans:Cocoa Beans
 cod:Raw Cod
 cod_bucket:Bucket of Cod
+cod_spawn_egg:Cod Spawn Egg
+command_block:Command Block
+command_block_minecart:Minecart with Command Block
 comparator:Redstone Comparator
 compass:Compass
 conduit:Conduit
@@ -146,9 +190,23 @@ cooked_porkchop:Cooked Porkchop
 cooked_rabbit:Cooked Rabbit
 cooked_salmon:Cooked Salmon
 cookie:Cookie
+cost:Enchantment Cost: %1$s
+cow_spawn_egg:Cow Spawn Egg
 cracked_stone_bricks:Cracked Stone Bricks
+crafting:Crafting
 crafting_table:Crafting Table
+creative:Item Selection
+creeper:Creeper-shaped
 creeper_head:Creeper Head
+creeper_head:Creeper Head
+creeper_spawn_egg:Creeper Spawn Egg
+creeper_wall_head:Creeper Wall Head
+custom_color:Custom
+cut_red_sandstone:Cut Red Sandstone
+cut_sandstone:Cut Sandstone
+cyan:Cyan
+cyan:Cyan Shield
+cyan_banner:Cyan Banner
 cyan_bed:Cyan Bed
 cyan_carpet:Cyan Carpet
 cyan_concrete:Cyan Concrete
@@ -160,6 +218,7 @@ cyan_stained_glass:Cyan Stained Glass
 cyan_stained_glass_pane:Cyan Stained Glass Pane
 cyan_terracotta:Cyan Terracotta
 cyan_wool:Cyan Wool
+damaged_anvil:Damaged Anvil
 dandelion:Dandelion
 dandelion_yellow:Dandelion Yellow
 dark_oak_boat:Dark Oak Boat
@@ -186,6 +245,20 @@ dead_bush:Dead Bush
 dead_fire_coral_block:Dead Fire Coral Block
 dead_horn_coral_block:Dead Horn Coral Block
 dead_tube_coral_block:Dead Tube Coral Block
+debug_stick:Debug Stick
+depth_strider:Depth Strider
+desc:C418 - 11
+desc:C418 - 13
+desc:C418 - blocks
+desc:C418 - cat
+desc:C418 - chirp
+desc:C418 - far
+desc:C418 - mall
+desc:C418 - mellohi
+desc:C418 - stal
+desc:C418 - strad
+desc:C418 - wait
+desc:C418 - ward
 detector_rail:Detector Rail
 diamond:Diamond
 diamond_axe:Diamond Axe
@@ -203,21 +276,39 @@ diamond_sword:Diamond Sword
 diorite:Diorite
 dirt:Dirt
 dispenser:Dispenser
+dispenser:Dispenser
+dolphin_spawn_egg:Dolphin Spawn Egg
+donkey_spawn_egg:Donkey Spawn Egg
 dragon_breath:Dragon's Breath
 dragon_egg:Dragon Egg
 dragon_head:Dragon Head
+dragon_head:Dragon Head
+dragon_wall_head:Dragon Wall Head
 dried_kelp:Dried Kelp
 dried_kelp_block:Dried Kelp Block
 dropper:Dropper
+dropper:Dropper
+drowned_spawn_egg:Drowned Spawn Egg
+efficiency:Efficiency
 egg:Egg
+elder_guardian_spawn_egg:Elder Guardian Spawn Egg
 elytra:Elytra
 emerald:Emerald
 emerald_block:Block of Emerald
 emerald_ore:Emerald Ore
+empty:%s has no properties
+empty:Lingering Uncraftable Potion
+empty:Splash Uncraftable Potion
+empty:Uncraftable Potion
+empty:Uncraftable Tipped Arrow
+enchant:Enchant
 enchanted_book:Enchanted Book
 enchanted_golden_apple:Enchanted Golden Apple
 enchanting_table:Enchanting Table
 end_crystal:End Crystal
+end_gateway:End Gateway
+end_portal:End Portal
+end_portal_frame:End Portal Frame
 end_rod:End Rod
 end_stone:End Stone
 end_stone_bricks:End Stone Bricks
@@ -225,21 +316,49 @@ ender_chest:Ender Chest
 ender_eye:Eye of Ender
 ender_pearl:Ender Pearl
 enderchest:Ender Chest
+enderman_spawn_egg:Enderman Spawn Egg
+endermite_spawn_egg:Endermite Spawn Egg
+evoker_spawn_egg:Evoker Spawn Egg
+expensive:Too Expensive!
+experience_bottle:Bottle o' Enchanting
+fade_to:Fade to
+farmland:Farmland
 feather:Feather
+feather_falling:Feather Falling
 fermented_spider_eye:Fermented Spider Eye
 fern:Fern
 filled_map:Map
+fire:Fire
+fire_aspect:Fire Aspect
 fire_charge:Fire Charge
 fire_coral:Fire Coral
 fire_coral_block:Fire Coral Block
 fire_coral_fan:Fire Coral Fan
+fire_protection:Fire Protection
+fire_resistance:Arrow of Fire Resistance
+fire_resistance:Lingering Potion of Fire Resistance
+fire_resistance:Potion of Fire Resistance
+fire_resistance:Splash Potion of Fire Resistance
+firework_rocket:Firework Rocket
+firework_star:Firework Star
 fishing_rod:Fishing Rod
+flame:Flame
+flicker:Twinkle
+flight:Flight Duration:
 flint:Flint
 flint_and_steel:Flint and Steel
 flower_pot:Flower Pot
+flower_pot:Flower Pot
+flowing_lava:Flowing Lava
+flowing_water:Flowing Water
+fortune:Fortune
 four_turtle_eggs:Four Turtle Eggs
+frost_walker:Frost Walker
+frosted_ice:Frosted Ice
+furnace:Furnace
 furnace:Furnace
 furnace_minecart:Minecart with Furnace
+ghast_spawn_egg:Ghast Spawn Egg
 ghast_tear:Ghast Tear
 glass:Glass
 glass_bottle:Glass Bottle
@@ -266,7 +385,11 @@ golden_sword:Golden Sword
 granite:Granite
 grass:Grass
 grass_block:Grass Block
+grass_path:Grass Path
 gravel:Gravel
+gray:Gray
+gray:Gray Shield
+gray_banner:Gray Banner
 gray_bed:Gray Bed
 gray_carpet:Gray Carpet
 gray_concrete:Gray Concrete
@@ -278,6 +401,9 @@ gray_stained_glass:Gray Stained Glass
 gray_stained_glass_pane:Gray Stained Glass Pane
 gray_terracotta:Gray Terracotta
 gray_wool:Gray Wool
+green:Green
+green:Green Shield
+green_banner:Green Banner
 green_bed:Green Bed
 green_carpet:Green Carpet
 green_concrete:Green Concrete
@@ -288,17 +414,42 @@ green_stained_glass:Green Stained Glass
 green_stained_glass_pane:Green Stained Glass Pane
 green_terracotta:Green Terracotta
 green_wool:Green Wool
+guardian_spawn_egg:Guardian Spawn Egg
 gunpowder:Gunpowder
+harming:Arrow of Harming
+harming:Lingering Potion of Harming
+harming:Potion of Harming
+harming:Splash Potion of Harming
 hay_block:Hay Bale
+healing:Arrow of Healing
+healing:Lingering Potion of Healing
+healing:Potion of Healing
+healing:Splash Potion of Healing
 heart_of_the_sea:Heart of the Sea
 heavy_weighted_pressure_plate:Heavy Weighted Pressure Plate
 hopper:Hopper
+hopper:Item Hopper
 hopper_minecart:Minecart with Hopper
 horn_coral:Horn Coral
 horn_coral_block:Horn Coral Block
 horn_coral_fan:Horn Coral Fan
+horse_spawn_egg:Horse Spawn Egg
+husk_spawn_egg:Husk Spawn Egg
 ice:Ice
+impaling:Impaling
+infested_chiseled_stone_bricks:Infested Chiseled Stone Bricks
+infested_cobblestone:Infested Cobblestone
+infested_cracked_stone_bricks:Infested Cracked Stone Bricks
+infested_mossy_stone_bricks:Infested Mossy Stone Bricks
+infested_stone:Infested Stone
+infested_stone_bricks:Infested Stone Bricks
+infinity:Infinity
 ink_sac:Ink Sac
+inventory:Inventory
+invisibility:Arrow of Invisibility
+invisibility:Lingering Potion of Invisibility
+invisibility:Potion of Invisibility
+invisibility:Splash Potion of Invisibility
 iron_axe:Iron Axe
 iron_bars:Iron Bars
 iron_block:Block of Iron
@@ -334,11 +485,18 @@ jungle_stairs:Jungle Stairs
 jungle_trapdoor:Jungle Trapdoor
 jungle_wood:Jungle Wood
 kelp:Kelp
+kelp_plant:Kelp Plant
+knockback:Knockback
+knowledge_book:Knowledge Book
 ladder:Ladder
 lapis_block:Lapis Lazuli Block
 lapis_lazuli:Lapis Lazuli
 lapis_ore:Lapis Lazuli Ore
+large_ball:Large Ball
+large_fern:Large Fern
+lava:Lava
 lava_bucket:Lava Bucket
+
 lead:Lead
 leather:Leather
 leather_boots:Leather Boots
@@ -383,6 +541,9 @@ lime_stained_glass_pane:Lime Stained Glass Pane
 lime_terracotta:Lime Terracotta
 lime_wool:Lime Wool
 lure:Lure
+magenta:Magenta
+magenta:Magenta Shield
+magenta_banner:Magenta Banner
 magenta_bed:Magenta Bed
 magenta_carpet:Magenta Carpet
 magenta_concrete:Magenta Concrete
@@ -396,6 +557,7 @@ magenta_terracotta:Magenta Terracotta
 magenta_wool:Magenta Wool
 magma_block:Magma Block
 magma_cream:Magma Cream
+magma_cube_spawn_egg:Magma Cube Spawn Egg
 map:Empty Map
 melon:Melon
 melon_seeds:Melon Seeds
@@ -406,6 +568,18 @@ mossy_cobblestone:Mossy Cobblestone
 mossy_cobblestone_wall:Mossy Cobblestone Wall
 mossy_stone_bricks:Mossy Stone Bricks
 mushroom_stew:Mushroom Stew
+music_disc_11:Music Disc
+music_disc_13:Music Disc
+music_disc_blocks:Music Disc
+music_disc_cat:Music Disc
+music_disc_chirp:Music Disc
+music_disc_far:Music Disc
+music_disc_mall:Music Disc
+music_disc_mellohi:Music Disc
+music_disc_stal:Music Disc
+music_disc_strad:Music Disc
+music_disc_wait:Music Disc
+music_disc_ward:Music Disc
 mutton:Raw Mutton
 mycelium:Mycelium
 name_tag:Name Tag
@@ -589,6 +763,7 @@ spruce_slab:Spruce Slab
 spruce_stairs:Spruce Stairs
 spruce_trapdoor:Spruce Trapdoor
 spruce_wood:Spruce Wood
+star:Star-shaped
 stick:Stick
 sticky_piston:Sticky Piston
 stone:Stone
@@ -622,7 +797,6 @@ sunflower:Sunflower
 tall_grass:Tall Grass
 tall_seagrass:Tall Seagrass
 terracotta:Terracotta
-three_turtle_eggs:Three Turtle Eggs
 tnt:TNT
 tnt_minecart:Minecart with TNT
 torch:Torch

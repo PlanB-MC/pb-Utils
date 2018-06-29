@@ -1,3 +1,4 @@
+acacia_bark:Acacia Bark
 acacia_boat:Acacia Boat
 acacia_button:Acacia Button
 acacia_door:Acacia Door
@@ -11,7 +12,6 @@ acacia_sapling:Acacia Sapling
 acacia_slab:Acacia Slab
 acacia_stairs:Acacia Stairs
 acacia_trapdoor:Acacia Trapdoor
-acacia_wood:Acacia Wood
 activator_rail:Activator Rail
 allium:Allium
 andesite:Andesite
@@ -22,6 +22,7 @@ arrow:Arrow
 azure_bluet:Azure Bluet
 baked_potato:Baked Potato
 banner:Banner
+barrier:Barrier
 beacon:Beacon
 bed:Bed
 beef:Raw Beef
@@ -29,6 +30,7 @@ beetroot:Beetroot
 beetroot_seeds:Beetroot Seeds
 beetroot_soup:Beetroot Soup
 beetroots:Beetroots
+birch_bark:Birch Bark
 birch_boat:Birch Boat
 birch_button:Birch Button
 birch_door:Birch Door
@@ -42,7 +44,7 @@ birch_sapling:Birch Sapling
 birch_slab:Birch Slab
 birch_stairs:Birch Stairs
 birch_trapdoor:Birch Trapdoor
-birch_wood:Birch Wood
+black_banner:Black Banner
 black_bed:Black Bed
 black_carpet:Black Carpet
 black_concrete:Black Concrete
@@ -55,6 +57,7 @@ black_terracotta:Black Terracotta
 black_wool:Black Wool
 blaze_powder:Blaze Powder
 blaze_rod:Blaze Rod
+blue_banner:Blue Banner
 blue_bed:Blue Bed
 blue_carpet:Blue Carpet
 blue_concrete:Blue Concrete
@@ -83,6 +86,7 @@ brick:Brick
 brick_slab:Brick Slab
 brick_stairs:Brick Stairs
 bricks:Bricks
+brown_banner:Brown Banner
 brown_bed:Brown Bed
 brown_carpet:Brown Carpet
 brown_concrete:Brown Concrete
@@ -114,15 +118,20 @@ charcoal:Charcoal
 chest:Chest
 chest_minecart:Minecart with Chest
 chicken:Raw Chicken
+chipped_anvil:Chipped Anvil
 chiseled_quartz_block:Chiseled Quartz Block
 chiseled_red_sandstone:Chiseled Red Sandstone
 chiseled_sandstone:Chiseled Sandstone
 chiseled_stone_bricks:Chiseled Stone Bricks
 chorus_flower:Chorus Flower
 chorus_fruit:Chorus Fruit
+chorus_fruit_popped:Popped Chorus Fruit
+chorus_plant:*Chorus Plant
 clay:Clay
 clay_ball:Clay
 clock:Clock
+clownfish:Tropical Fish
+clownfish_bucket:Tropical Fish Bucket
 coal:Coal
 coal_block:Block of Coal
 coal_ore:Coal Ore
@@ -132,9 +141,11 @@ cobblestone_slab:Cobblestone Slab
 cobblestone_stairs:Cobblestone Stairs
 cobblestone_wall:Cobblestone Wall
 cobweb:Cobweb
+cocoa:*Cocoa
 cocoa_beans:Cocoa Beans
 cod:Raw Cod
-cod_bucket:Bucket of Cod
+cod_bucket:Cod Bucket
+command_block_minecart:Minecart with Command Block
 comparator:Redstone Comparator
 compass:Compass
 conduit:Conduit
@@ -149,6 +160,9 @@ cookie:Cookie
 cracked_stone_bricks:Cracked Stone Bricks
 crafting_table:Crafting Table
 creeper_head:Creeper Head
+cut_red_sandstone:Cut Red Sandstone
+cut_sandstone:Cut Sandstone
+cyan_banner:Cyan Banner
 cyan_bed:Cyan Bed
 cyan_carpet:Cyan Carpet
 cyan_concrete:Cyan Concrete
@@ -160,8 +174,10 @@ cyan_stained_glass:Cyan Stained Glass
 cyan_stained_glass_pane:Cyan Stained Glass Pane
 cyan_terracotta:Cyan Terracotta
 cyan_wool:Cyan Wool
+damaged_anvil:Damaged Anvil
 dandelion:Dandelion
 dandelion_yellow:Dandelion Yellow
+dark_oak_bark:Dark Oak Bark
 dark_oak_boat:Dark Oak Boat
 dark_oak_button:Dark Oak Button
 dark_oak_door:Dark Oak Door
@@ -175,7 +191,6 @@ dark_oak_sapling:Dark Oak Sapling
 dark_oak_slab:Dark Oak Slab
 dark_oak_stairs:Dark Oak Stairs
 dark_oak_trapdoor:Dark Oak Trapdoor
-dark_oak_wood:Dark Oak Wood
 dark_prismarine:Dark Prismarine
 dark_prismarine_slab:Dark Prismarine Slab
 dark_prismarine_stairs:Dark Prismarine Stairs
@@ -224,20 +239,23 @@ end_stone_bricks:End Stone Bricks
 ender_chest:Ender Chest
 ender_eye:Eye of Ender
 ender_pearl:Ender Pearl
-enderchest:Ender Chest
+experience_bottle:Bottle o' Enchanting
 feather:Feather
 fermented_spider_eye:Fermented Spider Eye
 fern:Fern
-filled_map:Map
+filled_map:*Map
 fire_charge:Fire Charge
 fire_coral:Fire Coral
 fire_coral_block:Fire Coral Block
 fire_coral_fan:Fire Coral Fan
+firework_rocket:Firework Rocket
+firework_star:Firework Star
 fishing_rod:Fishing Rod
 flint:Flint
 flint_and_steel:Flint and Steel
 flower_pot:Flower Pot
 four_turtle_eggs:Four Turtle Eggs
+frosted_ice:Frosted Ice
 furnace:Furnace
 furnace_minecart:Minecart with Furnace
 ghast_tear:Ghast Tear
@@ -267,6 +285,7 @@ granite:Granite
 grass:Grass
 grass_block:Grass Block
 gravel:Gravel
+gray_banner:Gray Banner
 gray_bed:Gray Bed
 gray_carpet:Gray Carpet
 gray_concrete:Gray Concrete
@@ -278,6 +297,7 @@ gray_stained_glass:Gray Stained Glass
 gray_stained_glass_pane:Gray Stained Glass Pane
 gray_terracotta:Gray Terracotta
 gray_wool:Gray Wool
+green_banner:Green Banner
 green_bed:Green Bed
 green_carpet:Green Carpet
 green_concrete:Green Concrete
@@ -319,6 +339,7 @@ iron_trapdoor:Iron Trapdoor
 item_frame:Item Frame
 jack_o_lantern:Jack o'Lantern
 jukebox:Jukebox
+jungle_bark:Jungle Bark
 jungle_boat:Jungle Boat
 jungle_button:Jungle Button
 jungle_door:Jungle Door
@@ -332,12 +353,14 @@ jungle_sapling:Jungle Sapling
 jungle_slab:Jungle Slab
 jungle_stairs:Jungle Stairs
 jungle_trapdoor:Jungle Trapdoor
-jungle_wood:Jungle Wood
 kelp:Kelp
+kelp_plant:Kelp Plant
+knowledge_book:Knowledge Book
 ladder:Ladder
 lapis_block:Lapis Lazuli Block
 lapis_lazuli:Lapis Lazuli
 lapis_ore:Lapis Lazuli Ore
+large_fern:*Large Fern
 lava_bucket:Lava Bucket
 lead:Lead
 leather:Leather
@@ -346,6 +369,7 @@ leather_chestplate:Leather Tunic
 leather_helmet:Leather Cap
 leather_leggings:Leather Pants
 lever:Lever
+light_blue_banner:Light Blue Banner
 light_blue_bed:Light Blue Bed
 light_blue_carpet:Light Blue Carpet
 light_blue_concrete:Light Blue Concrete
@@ -357,6 +381,7 @@ light_blue_stained_glass:Light Blue Stained Glass
 light_blue_stained_glass_pane:Light Blue Stained Glass Pane
 light_blue_terracotta:Light Blue Terracotta
 light_blue_wool:Light Blue Wool
+light_gray_banner:Light Gray Banner
 light_gray_bed:Light Gray Bed
 light_gray_carpet:Light Gray Carpet
 light_gray_concrete:Light Gray Concrete
@@ -371,6 +396,7 @@ light_gray_wool:Light Gray Wool
 light_weighted_pressure_plate:Light Weighted Pressure Plate
 lilac:Lilac
 lily_pad:Lily Pad
+lime_banner:Lime Banner
 lime_bed:Lime Bed
 lime_carpet:Lime Carpet
 lime_concrete:Lime Concrete
@@ -382,7 +408,8 @@ lime_stained_glass:Lime Stained Glass
 lime_stained_glass_pane:Lime Stained Glass Pane
 lime_terracotta:Lime Terracotta
 lime_wool:Lime Wool
-lure:Lure
+lingering_potion:Lingering Potion
+magenta_banner:Magenta Banner
 magenta_bed:Magenta Bed
 magenta_carpet:Magenta Carpet
 magenta_concrete:Magenta Concrete
@@ -405,7 +432,20 @@ minecart:Minecart
 mossy_cobblestone:Mossy Cobblestone
 mossy_cobblestone_wall:Mossy Cobblestone Wall
 mossy_stone_bricks:Mossy Stone Bricks
+mushroom_stem:*Mushroom Stem
 mushroom_stew:Mushroom Stew
+music_disc_11:Music Disc
+music_disc_13:Music Disc
+music_disc_blocks:Music Disc
+music_disc_cat:Music Disc
+music_disc_chirp:Music Disc
+music_disc_far:Music Disc
+music_disc_mall:Music Disc
+music_disc_mellohi:Music Disc
+music_disc_stal:Music Disc
+music_disc_strad:Music Disc
+music_disc_wait:Music Disc
+music_disc_ward:Music Disc
 mutton:Raw Mutton
 mycelium:Mycelium
 name_tag:Name Tag
@@ -421,6 +461,7 @@ nether_wart:Nether Wart
 nether_wart_block:Nether Wart Block
 netherrack:Netherrack
 note_block:Note Block
+oak_bark:Oak Bark
 oak_boat:Oak Boat
 oak_button:Oak Button
 oak_door:Oak Door
@@ -434,9 +475,9 @@ oak_sapling:Oak Sapling
 oak_slab:Oak Slab
 oak_stairs:Oak Stairs
 oak_trapdoor:Oak Trapdoor
-oak_wood:Oak Wood
 observer:Observer
 obsidian:Obsidian
+orange_banner:Orange Banner
 orange_bed:Orange Bed
 orange_carpet:Orange Carpet
 orange_concrete:Orange Concrete
@@ -454,8 +495,9 @@ packed_ice:Packed Ice
 painting:Painting
 paper:Paper
 peony:Peony
-petrified_oak_slab:Petrified Oak Slab
+petrified_oak_slab:*Petrified Oak Slab
 phantom_membrane:Phantom Membrane
+pink_banner:Pink Banner
 pink_bed:Pink Bed
 pink_carpet:Pink Carpet
 pink_concrete:Pink Concrete
@@ -469,15 +511,16 @@ pink_terracotta:Pink Terracotta
 pink_tulip:Pink Tulip
 pink_wool:Pink Wool
 piston:Piston
+player_head:Player Head
 podzol:Podzol
 poisonous_potato:Poisonous Potato
 polished_andesite:Polished Andesite
 polished_diorite:Polished Diorite
 polished_granite:Polished Granite
-popped_chorus_fruit:Popped Chorus Fruit
 poppy:Poppy
 porkchop:Raw Porkchop
 potato:Potato
+potion:Potion
 powered_rail:Powered Rail
 prismarine:Prismarine
 prismarine_brick_slab:Prismarine Brick Slab
@@ -488,10 +531,11 @@ prismarine_shard:Prismarine Shard
 prismarine_slab:Prismarine Slab
 prismarine_stairs:Prismarine Stairs
 pufferfish:Pufferfish
-pufferfish_bucket:Bucket of Pufferfish
+pufferfish_bucket:Pufferfish Bucket
 pumpkin:Pumpkin
 pumpkin_pie:Pumpkin Pie
 pumpkin_seeds:Pumpkin Seeds
+purple_banner:Purple Banner
 purple_bed:Purple Bed
 purple_carpet:Purple Carpet
 purple_concrete:Purple Concrete
@@ -517,6 +561,7 @@ rabbit_foot:Rabbit's Foot
 rabbit_hide:Rabbit Hide
 rabbit_stew:Rabbit Stew
 rail:Rail
+red_banner:Red Banner
 red_bed:Red Bed
 red_carpet:Red Carpet
 red_concrete:Red Concrete
@@ -546,8 +591,8 @@ rose_bush:Rose Bush
 rose_red:Rose Red
 rotten_flesh:Rotten Flesh
 saddle:Saddle
-salmon:Raw Salmon
-salmon_bucket:Bucket of Salmon
+salmon:Raw Salmon 
+salmon_bucket:Salmon Bucket
 sand:Sand
 sandstone:Sandstone
 sandstone_slab:Sandstone Slab
@@ -560,7 +605,6 @@ shears:Shears
 shield:Shield
 shulker_box:Shulker Box
 shulker_shell:Shulker Shell
-shulkerBox:Shulker Box
 sign:Sign
 skeleton_skull:Skeleton Skull
 slime_ball:Slimeball
@@ -568,13 +612,16 @@ slime_block:Slime Block
 smooth_quartz:Smooth Quartz
 smooth_red_sandstone:Smooth Red Sandstone
 smooth_sandstone:Smooth Sandstone
-smooth_stone:Smooth Stone
+smooth_stone:Smooth Stone 
 snow:Snow
 snow_block:Snow Block
 snowball:Snowball
 soul_sand:Soul Sand
+spectral_arrow:Spectral Arrow
 spider_eye:Spider Eye
+splash_potion:Splash Potion
 sponge:Sponge
+spruce_bark:Spruce Bark
 spruce_boat:Spruce Boat
 spruce_button:Spruce Button
 spruce_door:Spruce Door
@@ -588,7 +635,6 @@ spruce_sapling:Spruce Sapling
 spruce_slab:Spruce Slab
 spruce_stairs:Spruce Stairs
 spruce_trapdoor:Spruce Trapdoor
-spruce_wood:Spruce Wood
 stick:Stick
 sticky_piston:Sticky Piston
 stone:Stone
@@ -605,17 +651,11 @@ stone_slab:Stone Slab
 stone_sword:Stone Sword
 string:String
 stripped_acacia_log:Stripped Acacia Log
-stripped_acacia_wood:Stripped Acacia Wood
 stripped_birch_log:Stripped Birch Log
-stripped_birch_wood:Stripped Birch Wood
 stripped_dark_oak_log:Stripped Dark Oak Log
-stripped_dark_oak_wood:Stripped Dark Oak Wood
 stripped_jungle_log:Stripped Jungle Log
-stripped_jungle_wood:Stripped Jungle Wood
 stripped_oak_log:Stripped Oak Log
-stripped_oak_wood:Stripped Oak Wood
 stripped_spruce_log:Stripped Spruce Log
-stripped_spruce_wood:Stripped Spruce Wood
 sugar:Sugar
 sugar_cane:Sugar Cane
 sunflower:Sunflower
@@ -623,6 +663,7 @@ tall_grass:Tall Grass
 tall_seagrass:Tall Seagrass
 terracotta:Terracotta
 three_turtle_eggs:Three Turtle Eggs
+tipped_arrow:Tipped Arrow
 tnt:TNT
 tnt_minecart:Minecart with TNT
 torch:Torch
@@ -631,8 +672,6 @@ trapped_chest:Trapped Chest
 trident:Trident
 tripwire:Tripwire
 tripwire_hook:Tripwire Hook
-tropical_fish:Tropical Fish
-tropical_fish_bucket:Bucket of Tropical Fish
 tube_coral:Tube Coral
 tube_coral_block:Tube Coral Block
 tube_coral_fan:Tube Coral Fan
@@ -640,11 +679,11 @@ turtle_egg:Turtle Egg
 turtle_helmet:Turtle Shell
 two_turtle_eggs:Two Turtle Eggs
 vine:Vines
-water:Water Bottle
 water_bucket:Water Bucket
 wet_sponge:Wet Sponge
 wheat:Wheat
 wheat_seeds:Wheat Seeds
+white_banner:White Banner
 white_bed:White Bed
 white_carpet:White Carpet
 white_concrete:White Concrete
@@ -664,6 +703,7 @@ wooden_shovel:Wooden Shovel
 wooden_sword:Wooden Sword
 writable_book:Book and Quill
 written_book:Written Book
+yellow_banner:Yellow Banner
 yellow_bed:Yellow Bed
 yellow_carpet:Yellow Carpet
 yellow_concrete:Yellow Concrete
