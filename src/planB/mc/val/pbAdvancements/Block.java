@@ -20,6 +20,7 @@ public class Block {
     private static int count;
     private static pbConfig blockConfig;
     private static onBlockList blockList;
+    private static String name = "Hubert";
     private onAdvancementsShop advancementsShop;
 
     public Block(Main main) {
@@ -63,6 +64,7 @@ public class Block {
     }
 
     public static boolean itemExistFound(String compare) {
+        itemList.forEach((key,value) -> System.out.println(key + ":" + value));
         if (itemList.containsKey(compare)) {
             if ((Boolean) itemList.get(compare).get("found"))
                 return false;
@@ -84,11 +86,9 @@ public class Block {
         if (count >= blockConfig.getInt("blockListSize", "data")) {
             blocksDone = true;
             Main.pbConfigFile.set("blocksDone", true, "pbAdvancements", "data");
-            Bukkit.broadcastMessage(ChatColor.GOLD + "Hubert has Arrived");
-            Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),
-                    "summon minecraft:llama 26 54 1 {NoAI:1b,Invulnerable:1,Passengers:" +
-                            "[{id:\"minecraft:vindication_illager\",CustomName:Hubert,CustomNameVisible:1,NoAI:1b," +
-                            "PersistenceRequired:1b,CanPickUpLoot:0b,Johnny:0b,Silent:1,Invulnerable:1}]}");
+            Bukkit.broadcastMessage(ChatColor.GOLD + name+ " has revealed his stock!");
+            /*Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),
+                    "summon bat ~ ~1 ~ {CustomName:\"\\\"name\\\"\",CustomNameVisible:1,NoGravity:1b,Invulnerable:1,NoAI:1}");*/
             Main.pbListenersEars.removeListener(blockList);
         }
     }

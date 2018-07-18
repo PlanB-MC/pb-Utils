@@ -21,13 +21,10 @@ import java.util.ArrayList;
 public class onBarrierDetect implements Listener {
     private static int radius = 10;
     private Main main;
-    private long effectTime;
 
     public onBarrierDetect(Main main) {
         this.main = main;
     }
-
-
 
     @EventHandler
     public void onPlayerInteractEvent(PlayerInteractEvent event) {

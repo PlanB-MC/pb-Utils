@@ -1,6 +1,7 @@
 package planB.mc.val.pbAdvancements;
 
 import org.bukkit.Bukkit;
+import org.bukkit.Material;
 import org.bukkit.entity.Item;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -23,15 +24,17 @@ public class onBlockList implements Listener {
             Player player = (Player) event.getEntity();
             Item item = event.getItem();
             //Do the main thingy
-            String[] blockNameList = item.getName().split(".");
-            String compare = blockNameList[blockNameList.length - 1];
-
-            if (!Block.itemExistFound(compare)) {
-                Block.put(compare, true, player.getName());
+            //System.out.println(item.getName()); //Gold Nugget
+            //System.out.println(item.getItemStack().getType().getKey()); //minecraft:gold_nugget
+            String itemName = item.getItemStack().getType().getKey().getKey();
+            System.out.println(itemName);
+            if (!Block.itemExistFound(itemName)) {
+                System.out.println("found");
+                Block.put(itemName, true, player.getName());
                 //Show title with subtitle of discovery
                 Bukkit.getServer().broadcastMessage(player.getDisplayName() + " has discovered a new Block!");
                 String title = "New Discovery!";
-                String subTitle = compare;
+                String subTitle = item.getName();
                 Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),
                         "title @a title [{\"text\":\"" + title + "\"}]");
                 Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),

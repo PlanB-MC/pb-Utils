@@ -39,5 +39,6 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="spigot-api-1.13-pre7-R0.1-SNAPSHOT" level="project" />
   </component>
 </module>

@@ -12,8 +12,7 @@ import planB.mc.val.shulker.pbShulker;
 import java.security.SecureRandom;
 import java.util.Random;
 
-//version: 1.2.1.0
-// Release.pluginCount.pluginsDone.permsDone
+//version: 1.13.1.0
 public class Main extends JavaPlugin {
     public static pbConfig pbConfigFile;
     public static pbListeners pbListenersEars;

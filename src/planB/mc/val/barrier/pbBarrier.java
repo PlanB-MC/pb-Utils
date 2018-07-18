@@ -93,7 +93,7 @@ public class pbBarrier {
                                 });
                         }
                     } catch (NullPointerException e) {
-                        //ignor
+                        //ignore
                     }
                 }), 0, 13L);
     }

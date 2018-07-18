@@ -53,12 +53,12 @@ public class pbShulker {
             World world = mob.getWorld();
             String stringWorld = world.getName();
             Block blockSpawner = Bukkit.getServer().getWorld(stringWorld).getBlockAt(loc);
-            blockSpawner.setType(Material.MOB_SPAWNER);
+            blockSpawner.setType(Material.SPAWNER);
             CreatureSpawner spawner = (CreatureSpawner) blockSpawner.getState();
             spawner.setSpawnedType(EntityType.SHULKER);
             spawner.update();
             pbUtils.log("[pbShulker]", "Shulker spawner has been placed!");
-            Main.pbConfigFile.set("pluginEnabled", false, "pbShulker");
+            Main.pbConfigFile.set("enablePlugin", false, "pbShulker");
             Main.pbListenersEars.removeListener(onShulker);
         }
         return;
@@ -69,11 +69,11 @@ public class pbShulker {
     }
 
     public static void reset() {
-        Main.pbConfigFile.set("pluginEnabled", true, "pbShulker");
+        Main.pbConfigFile.set("enablePlugin", true, "pbShulker");
         Main.pbConfigFile.set("need", 1000, "pbShulker", "shulkers");
         Main.pbConfigFile.set("found", 0, "pbShulker", "shulkers");
         iShulksFound = 0;
-        iShulksNeeded = 400;
+        iShulksNeeded = 100;
         try {
             Main.pbListenersEars.removeListener(onShulker);
         } catch (Exception e) {

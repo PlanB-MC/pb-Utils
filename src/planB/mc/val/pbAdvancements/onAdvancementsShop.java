@@ -14,6 +14,7 @@ public class onAdvancementsShop implements Listener {
     private static HashSet<String> cooldown = new HashSet<>();
     private Main plugin;
     private Random rand = new Random();
+    private String name = "Hubert";
 
     public onAdvancementsShop(Main plugin) {
         this.plugin = plugin;
@@ -21,7 +22,7 @@ public class onAdvancementsShop implements Listener {
 
     @EventHandler
     public void onPlayerInteractEvent(PlayerInteractAtEntityEvent event) {
-        if (event.getRightClicked().getCustomName().equals("Hubert")) {
+        if (event.getRightClicked().getCustomName().equals(name)) {
             if (Block.blocksDone) {
                 Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(), "hdb open " + event.getPlayer().getName());
             } else {
@@ -40,8 +41,12 @@ public class onAdvancementsShop implements Listener {
 
     @EventHandler
     public void onEntityDamageEvent(EntityDamageEvent event){
-        if (event.getEntity().getCustomName().equals("Hubert"))
-            printViolence();
+        try {
+            if (event.getEntity().getCustomName().equals(name))
+                printViolence();
+        } catch (NullPointerException e){
+            //ignore
+        }
     }
 
     private void printViolence(){

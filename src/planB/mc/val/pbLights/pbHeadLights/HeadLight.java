@@ -1,8 +1,7 @@
 package planB.mc.val.pbLights.pbHeadLights;
 
-import org.bukkit.plugin.java.JavaPlugin;
 import planB.mc.val.Main;
-import planB.mc.val.pbUtils.pbListeners;
+import planB.mc.val.pbUtils.pbUtils;
 
 import java.util.HashSet;
 
@@ -20,7 +19,7 @@ public class HeadLight {
         Main.pbListenersEars.addListener(new onHeadLights());
     }
 
-    public static Boolean contains(String id){
+    public static Boolean contains(String id) {
         return candles.contains(id);
     }
 
