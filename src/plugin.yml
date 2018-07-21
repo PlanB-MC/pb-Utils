@@ -11,6 +11,8 @@ commands:
     aliases: pb
   blame:
     permission: planb.all
+  poke:
+    permission: planb.opped
   permissions:
     planb.opped:
       default: op

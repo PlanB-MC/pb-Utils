@@ -1,7 +1,6 @@
 package planB.mc.val.pbAdvancements;
 
 import org.bukkit.Bukkit;
-import org.bukkit.Material;
 import org.bukkit.entity.Item;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -26,22 +25,21 @@ public class onBlockList implements Listener {
             //Do the main thingy
             //System.out.println(item.getName()); //Gold Nugget
             //System.out.println(item.getItemStack().getType().getKey()); //minecraft:gold_nugget
+            System.out.println(player.getWorld().getFullTime());
             String itemName = item.getItemStack().getType().getKey().getKey();
             System.out.println(itemName);
-            if (!Block.itemExistFound(itemName)) {
-                System.out.println("found");
-                Block.put(itemName, true, player.getName());
+            if (Block.itemExistFound(itemName)) {
+                //System.out.println("found");
+                Block.put(itemName, player);
                 //Show title with subtitle of discovery
-                Bukkit.getServer().broadcastMessage(player.getDisplayName() + " has discovered a new Block!");
-                String title = "New Discovery!";
-                String subTitle = item.getName();
-                Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),
-                        "title @a title [{\"text\":\"" + title + "\"}]");
-                Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),
-                        "title @a subtitle [{\"text\":\"" + subTitle + "\",\"bold\":true}]");
+                Bukkit.getServer().broadcastMessage(player.getDisplayName() + " has discovered a new Block: " + item.getName());
                 Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),
                         "playsound entity.player.levelup ambient @a 0 0 0 1 1 1");
+            } else {
+                //player.sendMessage(Color.PURPLE + "-----------" + itemName + " is not registered!");
+                //System.out.println(Color.PURPLE + "-----------" + itemName + " is not registered!");
             }
+
         } catch (NullPointerException e) {
             plugin.getLogger().log(Level.WARNING, "Block is not registered!");
         }

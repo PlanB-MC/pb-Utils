@@ -22,34 +22,39 @@ public class onAdvancementsShop implements Listener {
 
     @EventHandler
     public void onPlayerInteractEvent(PlayerInteractAtEntityEvent event) {
-        if (event.getRightClicked().getCustomName().equals(name)) {
-            if (Block.blocksDone) {
-                Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(), "hdb open " + event.getPlayer().getName());
-            } else {
-                if (cooldown.contains(event.getPlayer().getName()))
-                    return;
-                printError();
-                cooldown.add(event.getPlayer().getName());
-                Bukkit.getServer().getScheduler().scheduleSyncDelayedTask(plugin, new Runnable() {
-                    public void run() {
-                        cooldown.remove(event.getPlayer().getName());
-                    }
-                }, 80L);
+        try {
+            if (event.getRightClicked().getCustomName().equals(name)) {
+                if (Block.blocksDone) {
+                    Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(), "hdb open " + event.getPlayer().getName());
+                } else {
+                    if (cooldown.contains(event.getPlayer().getName()))
+                        return;
+                    printError();
+                    cooldown.add(event.getPlayer().getName());
+                    Bukkit.getServer().getScheduler().scheduleSyncDelayedTask(plugin, new Runnable() {
+                        public void run() {
+                            cooldown.remove(event.getPlayer().getName());
+                        }
+                    }, 80L);
+                }
             }
+        }catch (NullPointerException e){
+            //ignore
         }
+
     }
 
     @EventHandler
-    public void onEntityDamageEvent(EntityDamageEvent event){
+    public void onEntityDamageEvent(EntityDamageEvent event) {
         try {
             if (event.getEntity().getCustomName().equals(name))
                 printViolence();
-        } catch (NullPointerException e){
+        } catch (NullPointerException e) {
             //ignore
         }
     }
 
-    private void printViolence(){
+    private void printViolence() {
         switch (rand.nextInt(12)) {
             case 0: {
                 Bukkit.broadcastMessage("Whoa what do you think your doing?");
@@ -87,15 +92,15 @@ public class onAdvancementsShop implements Listener {
                 Bukkit.broadcastMessage("Soft hands.");
                 break;
             }
-			case 9: {
+            case 9: {
                 Bukkit.broadcastMessage("Blame Matt.");
                 break;
             }
-			case 10: {
+            case 10: {
                 Bukkit.broadcastMessage("Blame Nick.");
                 break;
             }
-			case 11: {
+            case 11: {
                 Bukkit.broadcastMessage("Did Val crash the server again?");
                 break;
             }
@@ -136,11 +141,11 @@ public class onAdvancementsShop implements Listener {
                 Bukkit.broadcastMessage("My time is not yet here. Be patient Young one.");
                 break;
             }
-			case 8: {
+            case 8: {
                 Bukkit.broadcastMessage("Blame Matt.");
                 break;
             }
-			case 9: {
+            case 9: {
                 Bukkit.broadcastMessage("Blame Nick.");
                 break;
             }

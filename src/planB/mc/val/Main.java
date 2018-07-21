@@ -1,10 +1,9 @@
 package planB.mc.val;
 
 import org.bukkit.plugin.java.JavaPlugin;
+import planB.mc.val.ExtraOutputs.onPoopable;
 import planB.mc.val.barrier.pbBarrier;
 import planB.mc.val.pbAdvancements.Block;
-import planB.mc.val.pbLights.lightSense.pbLighter;
-import planB.mc.val.pbLights.pbHeadLights.HeadLight;
 import planB.mc.val.pbShowodmere.pbZHorse;
 import planB.mc.val.pbUtils.*;
 import planB.mc.val.shulker.pbShulker;
@@ -31,6 +30,7 @@ public class Main extends JavaPlugin {
         //Register Commands
         this.getCommand("planb").setExecutor(new CommandList());
         this.getCommand("blame").setExecutor(new CommandList());
+        this.getCommand("poke").setExecutor(new CommandList());
 
         //Setting up Internal Structure:
         pbUtils = new pbUtils(this);
@@ -48,9 +48,8 @@ public class Main extends JavaPlugin {
 
         pbShulker pbShulker = new pbShulker();
         pbBarrier pbBarier = new pbBarrier(this);
-        pbLighter pbLighter = new pbLighter(this);
         Block pbAdvancements = new Block(this);
         pbZHorse pbZHorse = new pbZHorse(this);
-        HeadLight headLight = new HeadLight(this);
+        onPoopable poopable = new onPoopable();
     }
 }

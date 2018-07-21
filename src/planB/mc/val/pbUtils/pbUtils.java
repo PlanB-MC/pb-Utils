@@ -1,6 +1,9 @@
 package planB.mc.val.pbUtils;
 
 import org.bukkit.Bukkit;
+import org.bukkit.ChatColor;
+import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
 import planB.mc.val.Main;
 
 import java.util.logging.Level;
@@ -12,6 +15,7 @@ public class pbUtils {
         plugin = main;
     }
 
+    //Commands
     public static void doBlame(String name) {
         try {
             String playerName = name.toUpperCase();
@@ -82,6 +86,17 @@ public class pbUtils {
         }
     }
 
+    public static void doPoke(String name, CommandSender sender){
+        try {
+            Player target = Bukkit.getPlayer(name);
+            sender.sendMessage(ChatColor.AQUA + "Info on player: \"" +name+ "\"");
+            sender.sendMessage(ChatColor.AQUA + target.getLocation().toString());
+        }catch (NullPointerException e){
+            sender.sendMessage(ChatColor.RED + "Player \"" +name+ "\" couldn't be found");
+        }
+    }
+
+    //Other
     public static void log(String... msg){
         String finalMsg = "";
         for (String cur: msg){

@@ -237,6 +237,7 @@ fishing_rod:Fishing Rod
 flint:Flint
 flint_and_steel:Flint and Steel
 flower_pot:Flower Pot
+four_turtle_eggs:Four Turtle Eggs
 furnace:Furnace
 furnace_minecart:Minecart with Furnace
 ghast_tear:Ghast Tear
@@ -381,6 +382,7 @@ lime_stained_glass:Lime Stained Glass
 lime_stained_glass_pane:Lime Stained Glass Pane
 lime_terracotta:Lime Terracotta
 lime_wool:Lime Wool
+lure:Lure
 magenta_bed:Magenta Bed
 magenta_carpet:Magenta Carpet
 magenta_concrete:Magenta Concrete
@@ -452,6 +454,7 @@ packed_ice:Packed Ice
 painting:Painting
 paper:Paper
 peony:Peony
+petrified_oak_slab:Petrified Oak Slab
 phantom_membrane:Phantom Membrane
 pink_bed:Pink Bed
 pink_carpet:Pink Carpet
@@ -619,6 +622,7 @@ sunflower:Sunflower
 tall_grass:Tall Grass
 tall_seagrass:Tall Seagrass
 terracotta:Terracotta
+three_turtle_eggs:Three Turtle Eggs
 tnt:TNT
 tnt_minecart:Minecart with TNT
 torch:Torch
@@ -634,6 +638,7 @@ tube_coral_block:Tube Coral Block
 tube_coral_fan:Tube Coral Fan
 turtle_egg:Turtle Egg
 turtle_helmet:Turtle Shell
+two_turtle_eggs:Two Turtle Eggs
 vine:Vines
 water:Water Bottle
 water_bucket:Water Bucket

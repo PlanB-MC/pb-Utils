@@ -39,10 +39,23 @@ public class CommandList implements CommandExecutor {
                 }
             } else if (cmd.getName().equalsIgnoreCase("blame")) {
                 return blame(args, sender);
+            } else if (cmd.getName().equalsIgnoreCase("poke")) {
+                return poke(args, sender);
             }
             return false;
         }
         return false;
+    }
+
+    private boolean poke(String[] args, CommandSender sender) {
+        if (!sender.hasPermission("planb.opped")) {
+            noPermMsg(sender);
+            return false;
+        }
+        if (args.length == 0)
+            return true;
+        pbUtils.doPoke(args[0], sender);
+        return true;
     }
 
     private boolean pbadvancements(String[] args, CommandSender sender) {
@@ -51,6 +64,33 @@ public class CommandList implements CommandExecutor {
             return true;
         }
         switch (args[1]) {
+            case "give":{
+                if (sender.hasPermission("planb.opped")) {
+                    if (args.length == 2) {
+                        sender.sendMessage(ChatColor.RED + "Use /planb give [all|done|todo]");
+                        return true;
+                    }
+                    switch (args[2]) {
+                        case "done": {
+                            Block.print(sender, "done");
+                            return true;
+                        }
+                        case "todo": {
+                            Block.print(sender, "todo");
+                            return true;
+                        }
+                        case "all": {
+                            Block.print(sender, "all");
+                            return true;
+                        }
+                        default: {
+                            sender.sendMessage(ChatColor.RED + "Use /planb give [all|done|todo]");
+                            return true;
+                        }
+                    }
+                } else noPermMsg(sender);
+                break;
+            }
             case "print": {
                 if (sender.hasPermission("planb.all")) {
                     if (args.length == 2) {

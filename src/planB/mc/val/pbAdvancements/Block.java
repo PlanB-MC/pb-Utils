@@ -2,7 +2,11 @@ package planB.mc.val.pbAdvancements;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
+import org.bukkit.Location;
+import org.bukkit.Material;
 import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
+import org.bukkit.inventory.ItemStack;
 import planB.mc.val.Main;
 import planB.mc.val.pbUtils.pbConfig;
 import planB.mc.val.pbUtils.pbUtils;
@@ -34,27 +38,27 @@ public class Block {
         plugin = main;
         if (!Main.pbConfigFile.getBoolean("blocksDone", "pbAdvancements", "data")) {
             blocksDone = false;
-            if (!Main.pbConfigFile.getBoolean("blockListSet", "pbAdvancements", "data")) {
-
-                try {
-                    itemList = new HashMap<>();
-                    blockConfig = new pbConfig(main, "blockConfig.yml");
-                    if (!Main.pbConfigFile.getBoolean("blocksListSet", "pbAdvancements", "data")) {
-                        createConfig();
-                        count = 0;
-                    } else {
-                        reloadConfig();
-                        count = blockConfig.getInt("blocksFound", "data");
-                    }
-                } catch (FileNotFoundException e) {
-                    pbUtils.log("[pbAdvancements]", "File Could not be load. THERE IS NO BLOCKS!!");
+            //if (!Main.pbConfigFile.getBoolean("blockListSet", "pbAdvancements", "data")) {
+            try {
+                itemList = new HashMap<>();
+                blockConfig = new pbConfig(main, "blockConfig.yml");
+                if (!Main.pbConfigFile.getBoolean("blocksListSet", "pbAdvancements", "data")) {
+                    createConfig();
+                    count = 0;
+                } else {
+                    reloadConfig();
+                    count = blockConfig.getInt("blocksFound", "data");
                 }
-                pbUtils.log("[pbAdvancements]", "Printing Registered Blocks");
-                itemList.forEach((k, v) -> pbUtils.log("[pbAdvancements]", "----- Registered: " + k + ":" + v.toString()));
-                pbUtils.log("[pbAdvancements]", "All blocks registered");
-                blockList = new onBlockList(main);
-                Main.pbListenersEars.addListener(blockList);
+            } catch (FileNotFoundException e) {
+                pbUtils.log("[pbAdvancements]", "File Could not be load. THERE IS NO BLOCKS!!");
             }
+            pbUtils.log("[pbAdvancements1]", String.valueOf(itemList.size()));
+            pbUtils.log("[pbAdvancements]", "Printing Registered Blocks");
+            // itemList.forEach((k, v) -> pbUtils.log("[pbAdvancements]", "----- Registered: " + k + ":" + v.toString()));
+            pbUtils.log("[pbAdvancements]", "All blocks registered");
+            blockList = new onBlockList(main);
+            Main.pbListenersEars.addListener(blockList);
+            //}
         } else {
             blocksDone = true;
         }
@@ -64,7 +68,7 @@ public class Block {
     }
 
     public static boolean itemExistFound(String compare) {
-        itemList.forEach((key,value) -> System.out.println(key + ":" + value));
+        // itemList.forEach((key,value) -> System.out.println(key + ":" + value));
         if (itemList.containsKey(compare)) {
             if ((Boolean) itemList.get(compare).get("found"))
                 return false;
@@ -74,19 +78,28 @@ public class Block {
             return false;
     }
 
-    public static void put(String compare, boolean b, String pName) {
-        addToList(compare, true, null, pName);
+    public static void put(String compare, Player pName) {
+        addToList(compare, true, null, pName.getName());
         try {
-            blockConfig.set(pName, blockConfig.getInt(pName, "players") + 1, "players");
+            blockConfig.set(
+                    pName.getName(),
+                    blockConfig.getInt(
+                            pName.getName(),
+                            "players",
+                            pName.getUniqueId().toString()
+                    ) + 1,
+                    "players",
+                    pName.getUniqueId().toString()
+            );
         } catch (NullPointerException e) {
-            blockConfig.set(pName, 1, "players");
+            blockConfig.set(pName.getName(), 1, "players", pName.getUniqueId().toString());
         }
         count++;
         blockConfig.set("blocksFound", count, "data");
         if (count >= blockConfig.getInt("blockListSize", "data")) {
             blocksDone = true;
             Main.pbConfigFile.set("blocksDone", true, "pbAdvancements", "data");
-            Bukkit.broadcastMessage(ChatColor.GOLD + name+ " has revealed his stock!");
+            Bukkit.broadcastMessage(ChatColor.GOLD + name + " has revealed his stock!");
             /*Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(),
                     "summon bat ~ ~1 ~ {CustomName:\"\\\"name\\\"\",CustomNameVisible:1,NoGravity:1b,Invulnerable:1,NoAI:1}");*/
             Main.pbListenersEars.removeListener(blockList);
@@ -99,23 +112,35 @@ public class Block {
         curItem.put("name", name == null ? itemList.get(itemName).get("name") : name);
         curItem.put("player", playerName == null ? "" : playerName);// can be just ""
         itemList.put(itemName, curItem);
+        saveToConfig("blocks", itemName, found, null, playerName);
     }
 
     public static void print(CommandSender sender, String done) {
+        Location curLoc = Bukkit.getPlayer(sender.getName()).getLocation().add(0.5,0.5,0.5);
         switch (done) {
             case "done": {
                 itemList.forEach((k, v) -> {
-                    if ((Boolean) v.get("found")) sender.sendMessage(ChatColor.AQUA + "you have " + v.get("name"));
+                    if ((Boolean) v.get("found")) curLoc.getWorld().dropItemNaturally(curLoc,new ItemStack(Material.getMaterial(k)));
                 });
                 break;
             }
             case "todo": {
                 itemList.forEach((k, v) -> {
-                    if (!(Boolean) v.get("found")) sender.sendMessage(ChatColor.AQUA + "you need " + v.get("name"));
+                    if (!(Boolean) v.get("found")) curLoc.getWorld().dropItemNaturally(curLoc,new ItemStack(Material.getMaterial(k)));
                 });
                 break;
             }
+            case "all": {
+                itemList.forEach((k, v) -> curLoc.getWorld().dropItemNaturally(curLoc,new ItemStack(Material.getMaterial(k))));
+                break;
+            }
         }
+    }
+
+    private static void saveToConfig(String parent, String path, boolean found, String name, String player) {
+        blockConfig.set("found", found, parent, path);
+        blockConfig.set("name", name == null ? itemList.get(path).get("name") : name, parent, path);
+        blockConfig.set("player", player == null ? "" : player, parent, path);
     }
 
     private void reloadConfig() {
@@ -152,11 +177,5 @@ public class Block {
         blockConfig.set("players", null);
         Main.pbConfigFile.set("blocksListSet", true, "pbAdvancements", "data");
         input.close();
-    }
-
-    private void saveToConfig(String parent, String path, boolean found, String name, String player) {
-        blockConfig.set("found", found, parent, path);
-        blockConfig.set("name", name == null ? itemList.get(path).get("name") : name, parent, path);
-        blockConfig.set("player", player == null ? "" : player, parent, path);
     }
 }
