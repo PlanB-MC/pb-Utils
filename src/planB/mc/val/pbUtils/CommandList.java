@@ -6,8 +6,8 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import planB.mc.val.barrier.pbBarrier;
-import planB.mc.val.pbLights.lightSense.pbLighter;
 import planB.mc.val.pbAdvancements.Block;
+import planB.mc.val.pbUtils.pbPlayerLogger.pbGriefLogger;
 import planB.mc.val.shulker.pbShulker;
 
 public class CommandList implements CommandExecutor {
@@ -26,11 +26,11 @@ public class CommandList implements CommandExecutor {
                     case "barrier": {
                         return pbbarrier(args, sender);
                     }
-                    case "lights": {
-                        return pblights(args, sender);
-                    }
                     case "adv": {
                         return pbadvancements(args, sender);
+                    }
+                    case "grief": {
+                        return pbGrief(args, sender);
                     }
                     default: {
                         sender.sendMessage(ChatColor.RED + "command not found!!");
@@ -45,6 +45,17 @@ public class CommandList implements CommandExecutor {
             return false;
         }
         return false;
+    }
+
+    private boolean pbGrief(String[] args, CommandSender sender) {
+        if (!sender.hasPermission("planb.opped")) {
+            noPermMsg(sender);
+            return false;
+        }
+        if (args.length == 0)
+            return true;
+        pbGriefLogger.updateTime(args[1], sender);
+        return true;
     }
 
     private boolean poke(String[] args, CommandSender sender) {
@@ -127,52 +138,6 @@ public class CommandList implements CommandExecutor {
             return true;
         pbUtils.doBlame(args[0]);
         return true;
-    }
-
-    private boolean pblights(String[] args, CommandSender sender) {
-        if (args.length == 1) {
-            sender.sendMessage(ChatColor.RED + "Usage includes: true | false");
-            return true;
-        }
-        try {
-            switch (args[1]) {
-                case "off":
-                case "on": {
-                    if (sender.hasPermission("planb.all")) {
-                        Boolean val = args[1].equalsIgnoreCase("on") ? true : false;
-                        pbLighter.toggle(sender, val);
-                        sender.sendMessage(ChatColor.GOLD + "lights are now switched " + args[1]);
-                        return true;
-                    } else noPermMsg(sender);
-                    break;
-                }
-                case "print": {
-                    if (sender.hasPermission("planb.opped")) {
-                        pbLighter.printAll();
-                        return true;
-                    } else noPermMsg(sender);
-                    break;
-                }
-                case "settime": {
-                    if (sender.hasPermission("planb.opped")) {
-                        if (args.length < 3) throw new ArrayIndexOutOfBoundsException();
-                        else try {
-                            pbLighter.setCooldown(Integer.parseInt(args[2]));
-                        } catch (NumberFormatException e){
-                            sender.sendMessage(ChatColor.RED + "Please enter a valid number!");
-                        } catch (ArrayIndexOutOfBoundsException e){
-                            sender.sendMessage(ChatColor.RED + "Not enough parameters!");
-                        }
-                        return true;
-                    } else noPermMsg(sender);
-                    break;
-                }
-            }
-        } catch (Exception e) {
-            sender.sendMessage(ChatColor.RED + "Usage includes: true | false");
-            return false;
-        }
-        return false;
     }
 
     private boolean pbbarrier(String[] args, CommandSender sender) {

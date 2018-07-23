@@ -25,9 +25,9 @@ public class onBlockList implements Listener {
             //Do the main thingy
             //System.out.println(item.getName()); //Gold Nugget
             //System.out.println(item.getItemStack().getType().getKey()); //minecraft:gold_nugget
-            System.out.println(player.getWorld().getFullTime());
+            //System.out.println(player.getWorld().getFullTime());
             String itemName = item.getItemStack().getType().getKey().getKey();
-            System.out.println(itemName);
+            //System.out.println(itemName);
             if (Block.itemExistFound(itemName)) {
                 //System.out.println("found");
                 Block.put(itemName, player);
@@ -41,6 +41,7 @@ public class onBlockList implements Listener {
             }
 
         } catch (NullPointerException e) {
+            e.printStackTrace();
             plugin.getLogger().log(Level.WARNING, "Block is not registered!");
         }
 

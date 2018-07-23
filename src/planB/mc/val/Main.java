@@ -1,11 +1,11 @@
 package planB.mc.val;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import planB.mc.val.ExtraOutputs.onPoopable;
 import planB.mc.val.barrier.pbBarrier;
 import planB.mc.val.pbAdvancements.Block;
 import planB.mc.val.pbShowodmere.pbZHorse;
 import planB.mc.val.pbUtils.*;
+import planB.mc.val.pbUtils.pbPlayerLogger.pbGriefLogger;
 import planB.mc.val.shulker.pbShulker;
 
 import java.security.SecureRandom;
@@ -50,6 +50,6 @@ public class Main extends JavaPlugin {
         pbBarrier pbBarier = new pbBarrier(this);
         Block pbAdvancements = new Block(this);
         pbZHorse pbZHorse = new pbZHorse(this);
-        onPoopable poopable = new onPoopable();
+        pbGriefLogger pbGriefLogger = new pbGriefLogger(this);
     }
 }

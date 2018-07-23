@@ -5,6 +5,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.command.CommandSender;
+import org.bukkit.configuration.MemorySection;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import planB.mc.val.Main;
@@ -24,7 +25,7 @@ public class Block {
     private static int count;
     private static pbConfig blockConfig;
     private static onBlockList blockList;
-    private static String name = "Hubert";
+    public static String name = "Koh";
     private onAdvancementsShop advancementsShop;
 
     public Block(Main main) {
@@ -80,20 +81,7 @@ public class Block {
 
     public static void put(String compare, Player pName) {
         addToList(compare, true, null, pName.getName());
-        try {
-            blockConfig.set(
-                    pName.getName(),
-                    blockConfig.getInt(
-                            pName.getName(),
-                            "players",
-                            pName.getUniqueId().toString()
-                    ) + 1,
-                    "players",
-                    pName.getUniqueId().toString()
-            );
-        } catch (NullPointerException e) {
-            blockConfig.set(pName.getName(), 1, "players", pName.getUniqueId().toString());
-        }
+        setPlayerScore(pName);
         count++;
         blockConfig.set("blocksFound", count, "data");
         if (count >= blockConfig.getInt("blockListSize", "data")) {
@@ -116,25 +104,42 @@ public class Block {
     }
 
     public static void print(CommandSender sender, String done) {
-        Location curLoc = Bukkit.getPlayer(sender.getName()).getLocation().add(0.5,0.5,0.5);
+        Location curLoc = Bukkit.getPlayer(sender.getName()).getLocation().add(0.5, 0.5, 0.5);
         switch (done) {
             case "done": {
                 itemList.forEach((k, v) -> {
-                    if ((Boolean) v.get("found")) curLoc.getWorld().dropItemNaturally(curLoc,new ItemStack(Material.getMaterial(k)));
+                    if ((Boolean) v.get("found"))
+                        curLoc.getWorld().dropItemNaturally(curLoc, new ItemStack(Material.getMaterial(k)));
                 });
                 break;
             }
             case "todo": {
                 itemList.forEach((k, v) -> {
-                    if (!(Boolean) v.get("found")) curLoc.getWorld().dropItemNaturally(curLoc,new ItemStack(Material.getMaterial(k)));
+                    if (!(Boolean) v.get("found"))
+                        curLoc.getWorld().dropItemNaturally(curLoc, new ItemStack(Material.getMaterial(k)));
                 });
                 break;
             }
             case "all": {
-                itemList.forEach((k, v) -> curLoc.getWorld().dropItemNaturally(curLoc,new ItemStack(Material.getMaterial(k))));
+                itemList.forEach((k, v) -> curLoc.getWorld().dropItemNaturally(curLoc, new ItemStack(Material.getMaterial(k))));
                 break;
             }
         }
+    }
+
+    private static void setPlayerScore(Player player) {
+        String pUUID = player.getUniqueId().toString();
+        MemorySection msPlayer = (MemorySection) blockConfig.get(pUUID, "players");
+        ActivePlayer curPLayer = null;
+        if (msPlayer != null)
+            curPLayer = new ActivePlayer(msPlayer.getInt("found"), msPlayer.getString("name"), msPlayer.getString("uuid"));
+        else
+            curPLayer = new ActivePlayer(0, player.getName(), pUUID);
+
+        blockConfig.set("name", curPLayer.name, "players", curPLayer.UUID);
+        blockConfig.set("uuid", curPLayer.UUID, "players", curPLayer.UUID);
+        blockConfig.set("found", curPLayer.found, "players", curPLayer.UUID);
+
     }
 
     private static void saveToConfig(String parent, String path, boolean found, String name, String player) {
@@ -177,5 +182,18 @@ public class Block {
         blockConfig.set("players", null);
         Main.pbConfigFile.set("blocksListSet", true, "pbAdvancements", "data");
         input.close();
+    }
+
+    static class ActivePlayer {
+        int found;
+        String name;
+        String UUID;
+
+        public ActivePlayer(int found, String name, String UUID) {
+            System.out.println(found + " " + name + " " + UUID);
+            this.found = found + 1;
+            this.name = name;
+            this.UUID = UUID;
+        }
     }
 }

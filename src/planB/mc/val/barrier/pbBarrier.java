@@ -18,15 +18,26 @@ public class pbBarrier {
     private boolean cooldown = false;
 
     public pbBarrier(Main main) {
+        plugin = main;
         Main.pbConfigFile.addDefault("enablePlugin", true, "pbBarrier");
+        Main.pbConfigFile.addDefault("enableGlassPlace", true, "pbBarrier");
+        Main.pbConfigFile.addDefault("enableBarriePlace", false, "pbBarrier");
+        Main.pbConfigFile.addDefault("amount", 0, "pbBarrier");
+        Main.pbConfigFile.addDefault("goal", 10000, "pbBarrier");
         if (!Main.pbConfigFile.getBoolean("enablePlugin", "pbBarrier")) {
             pbUtils.log('C', "[pbBarrier]");
             return;
         }
-        plugin = main;
-        onBarrierDetect = new onBarrierDetect(main);
-        Main.pbListenersEars.addListener(onBarrierDetect);
-        setupHeadVision();
+        if (Main.pbConfigFile.getBoolean("enableGlassPlace", "pbBarrier")) {
+            Main.pbListenersEars.addListener(new onGlassDetect());
+            return;
+        }
+        if (Main.pbConfigFile.getBoolean("enableBarriePlace", "pbBarrier")) {
+            onBarrierDetect = new onBarrierDetect(main);
+            Main.pbListenersEars.addListener(onBarrierDetect);
+            return;
+        }
+        //setupHeadVision();
         pbUtils.log('I', "[pbBarrier]");
     }
 

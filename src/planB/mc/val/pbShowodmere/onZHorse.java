@@ -6,6 +6,7 @@ import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
+import org.bukkit.event.entity.EntityDeathEvent;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.inventory.ItemStack;
 import org.spigotmc.event.entity.EntityDismountEvent;
@@ -51,8 +52,17 @@ public class onZHorse implements Listener {
     }
 
     @EventHandler
+    public void onEntityDeath(EntityDeathEvent event){
+
+    }
+
+    @EventHandler
     public void onEntityDismountEvent(EntityDismountEvent event) {
-        if (event.getDismounted().getCustomName().equals("Shadowmere"))
-            event.getDismounted().remove();
+        try {
+            if (event.getDismounted().getCustomName().equals("Shadowmere"))
+                event.getDismounted().remove();
+        } catch (NullPointerException e){
+            //ignore
+        }
     }
 }

@@ -6,34 +6,32 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list id="f91251b8-62ee-4db6-811e-14a14fc72a3d" name="Default" comment="" />
     <list default="true" id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="update 1.13. backup">
-      <change afterPath="$PROJECT_DIR$/src/planB/mc/val/ExtraOutputs/onPoopable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbPlayerLogger/onGriefer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbPlayerLogger/pbGriefLogger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_api_1_13_pre7_R0_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/spigot_api_1_13_pre7_R0_1_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blocks.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/planB_utils_jar/planB-utils.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/planB_utils_jar/planB-utils.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/Block.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onAdvancementsShop$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onAdvancementsShop$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onAdvancementsShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onAdvancementsShop.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onBlockList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onBlockList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/CommandList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/CommandList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbCrafting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbCrafting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/ExtraOutputs/onPoopable.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/EternalLightAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/ListItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/onLighter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/pbLighter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/HeadLight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/onHeadLights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" afterDir="false" />
     </list>
+    <list id="f91251b8-62ee-4db6-811e-14a14fc72a3d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,33 +59,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Block.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="43" column="57" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#reloadConfig#0;class#Block#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="onBlockList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+            <state relative-caret-position="342">
+              <caret line="37" column="54" lean-forward="true" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pbGriefLogger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbPlayerLogger/pbGriefLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="41" column="70" lean-forward="true" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,11 +80,75 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="onPoopable.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/ExtraOutputs/onPoopable.java">
+      <file leaf-file-name="pbUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="550">
+              <caret line="107" column="56" lean-forward="true" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
+              <folding>
+                <element signature="method#doBlame#0;class#pbUtils#0" />
+                <element signature="method#log#0;class#pbUtils#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="onAdvancementsShop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-682">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Block.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#addToList#0;class#Block#0" />
+                <element signature="method#print#0;class#Block#0" />
+                <element signature="method#reloadConfig#0;class#Block#0" />
+                <element signature="method#createConfig#0;class#Block#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pbBarrier.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+              <folding>
+                <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="onBarrierDetect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="onGlassDetect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,20 +156,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Arrays.java">
+      <file leaf-file-name="onZHorse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68376">
-              <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Collection.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3982">
-              <caret line="206" column="13" selection-start-line="206" selection-start-column="13" selection-end-line="206" selection-end-column="13" />
+            <state relative-caret-position="650">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -190,7 +230,6 @@
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbConfig.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/CommandList.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/onBlockPrinting.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbListeners.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/pbZHorse.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/pbLighter.java" />
@@ -198,7 +237,6 @@
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/LightSourceEx.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/NMSAbstraction.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/NMSHandler.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/onLighter.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/HeadLight.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/lightSense/HeadsLights/onHeadLights.java" />
@@ -208,20 +246,25 @@
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/onHeadLights.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/HeadLight.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/shulker/pbShulker.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" />
         <option value="$PROJECT_DIR$/src/plugin.yml" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbUtils.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/AdvancementsAPI.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/io/chazza/advancementapi/AdvancementAPI.java" />
         <option value="$PROJECT_DIR$/src/io/chazza/advancementapi/AdvancementAPI.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/ExtraOutputs/onPoopable.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbPlayerLogger/onGriefer.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbUtils.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbPlayerLogger/pbGriefLogger.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" />
       </list>
     </option>
   </component>
@@ -234,9 +277,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="185" />
-    <option name="y" value="-15" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="87" />
+    <option name="y" value="-25" />
     <option name="width" value="1582" />
     <option name="height" value="702" />
   </component>
@@ -245,7 +288,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,7 +311,7 @@
               <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="val" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtraOutputs" type="462c0819:PsiDirectoryNode" />
+              <item name="barrier" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
@@ -283,23 +325,30 @@
               <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="val" type="462c0819:PsiDirectoryNode" />
+              <item name="pbShowodmere" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="val" type="462c0819:PsiDirectoryNode" />
               <item name="pbUtils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spigot-api-1.13-pre7-R0.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="pb-Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="val" type="462c0819:PsiDirectoryNode" />
+              <item name="pbUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="pbPlayerLogger" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,7 +363,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libs/spigot-1.13-pre7.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libs/spigot-1.13.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -323,6 +372,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\pb-Utils\src" />
+      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\pb-Utils\src\planB\mc\val\pbAdvancements" />
+      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\lib" />
+      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\src\planB\mc\val\lightSense" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="planB.mc.val.pbLights" />
     </key>
@@ -331,12 +386,6 @@
       <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\lib" />
       <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\src\planB\mc\val\pbAdvancements" />
       <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\pb-Utils\src" />
-      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\pb-Utils\src\planB\mc\val\pbAdvancements" />
-      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\lib" />
-      <recent name="C:\Users\gertp\OneDrive - Nelson Mandela University\Projects\planB\planB-utils\src\planB\mc\val\lightSense" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -462,7 +511,10 @@
       <workItem from="1531907252421" duration="1132000" />
       <workItem from="1531869602781" duration="26589000" />
       <workItem from="1532099623621" duration="1877000" />
-      <workItem from="1532165039669" duration="586000" />
+      <workItem from="1532165039669" duration="2219000" />
+      <workItem from="1532188440902" duration="17554000" />
+      <workItem from="1532266969154" duration="17488000" />
+      <workItem from="1532344516288" duration="5629000" />
     </task>
     <task id="LOCAL-00001" summary="Debugg">
       <changelist id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="" />
@@ -484,7 +536,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301583000" />
+    <option name="totallyTimeSpent" value="343887000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,12 +548,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -514,15 +565,16 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.21481876" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.22121535" />
       <window_info anchor="right" id="Database" order="7" weight="0.11727079" />
-      <window_info anchor="right" id="SciView" order="10" />
+      <window_info anchor="right" id="SciView" order="10" weight="0.32995737" />
       <window_info id="Structure" order="0" sideWeight="0.6459695" side_tool="true" weight="0.18017058" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="4" sideWeight="0.50108933" side_tool="true" weight="0.17697228" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.39978212" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39978212" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -599,7 +651,7 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="26" />
+      <option name="time" value="39" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -607,105 +659,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/org/bukkit/configuration/MemorySection.class" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/EternalLightAPI.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/ListItem.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/onLighter.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/onHeadLights.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/pbZHorse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbListeners.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="117" column="25" selection-start-line="117" selection-start-column="25" selection-end-line="117" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/HeadLight.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbLights/lightSense/pbLighter.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="80" column="40" lean-forward="true" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/HeadDatabaseAPI.jar!/me/arcaniax/hdb/api/DatabaseLoadEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/HeadDatabaseAPI.jar!/me/arcaniax/hdb/api/HeadDatabaseAPI.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/HeadDatabaseAPI.jar!/me/arcaniax/hdb/Main.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/shulker/onShulker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/shulker/pbShulker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -713,55 +666,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/Nameable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/entity/Entity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/command/CommandSender.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/entity/Item.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/NamespacedKey.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/event/entity/EntityPickupItemEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/Nameable.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/entity/Entity.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/command/CommandSender.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/entity/Item.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/NamespacedKey.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/event/entity/EntityPickupItemEvent.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/UUID.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -769,27 +679,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/Location.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="262" lean-forward="true" selection-start-line="262" selection-end-line="262" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/block/Block.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/Location.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/block/Block.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Enum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -797,58 +688,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="107" column="23" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
-          <folding>
-            <element signature="method#doBlame#0;class#pbUtils#0" />
-            <element signature="method#doPoke#0;class#pbUtils#0" />
-            <element signature="method#log#0;class#pbUtils#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding>
-            <element signature="method#printViolence#0;class#onAdvancementsShop#0" />
-            <element signature="method#printError#0;class#onAdvancementsShop#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/AdvancementsAPI.java" />
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/Material.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="307" column="9" selection-start-line="307" selection-start-column="4" selection-end-line="307" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/io/chazza/advancementapi/AdvancementAPI.java" />
-    <entry file="jar://$PROJECT_DIR$/../libs/original-craftbukkit-1.13-pre7-R0.1-SNAPSHOT.jar!/net/minecraft/server/Advancement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../libs/original-craftbukkit-1.13-pre7-R0.1-SNAPSHOT.jar!/net/minecraft/server/Advancement.class" />
     <entry file="file://$PROJECT_DIR$/src/io/chazza/advancementapi/Trigger.java" />
     <entry file="file://$PROJECT_DIR$/src/io/chazza/advancementapi/Condition.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="43" column="57" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#reloadConfig#0;class#Block#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/io/chazza/advancementapi/FrameType.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -864,37 +708,221 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/block/Biome.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-521">
-          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/block/Biome.class" />
     <entry file="file://$PROJECT_DIR$/src/io/chazza/advancementapi/AdvancementAPI.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java">
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/Bukkit.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/inventory/ShapedRecipe.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/original-craftbukkit-1.13-pre7-R0.1-SNAPSHOT.jar!/net/minecraft/server/CraftingManager.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+        <state relative-caret-position="7480">
+          <caret line="363" column="59" lean-forward="true" selection-start-line="363" selection-start-column="59" selection-end-line="363" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/Server.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/Material.class" />
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-api-1.13-pre7-R0.1-SNAPSHOT.jar!/org/bukkit/inventory/ItemStack.class" />
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1772">
+          <caret line="154" column="37" lean-forward="true" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/inventory/ItemStack.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="149" column="18" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/time/LocalTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="1577" column="18" selection-start-line="1577" selection-start-column="18" selection-end-line="1577" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/ExtraOutputs/onPoopable.java">
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/plugin/java/JavaPluginLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="299">
+          <caret line="303" selection-start-line="303" selection-end-line="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/event/player/PlayerEvent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/event/player/PlayerInteractEvent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="e#2560#2561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/craftbukkit/v1_13_R1/block/CraftBlock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbPlayerLogger/onGriefer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onBlockList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addToList#0;class#Block#0" />
+            <element signature="method#print#0;class#Block#0" />
+            <element signature="method#reloadConfig#0;class#Block#0" />
+            <element signature="method#createConfig#0;class#Block#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbPlayerLogger/pbGriefLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="41" column="70" lean-forward="true" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="107" column="56" lean-forward="true" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
+          <folding>
+            <element signature="method#doBlame#0;class#pbUtils#0" />
+            <element signature="method#log#0;class#pbUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/ExtraOutputs/onPoopable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="37" column="54" lean-forward="true" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+          <folding>
+            <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
           </folding>
         </state>
       </provider>
