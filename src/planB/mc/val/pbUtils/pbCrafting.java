@@ -157,6 +157,7 @@ public class pbCrafting {
 
     private NamespacedKey getKey() {
         NamespacedKey key = new NamespacedKey(plugin, "key_val_" + count);
+        System.out.println("[pbUtils]@recipe " + count);
         count++;
         return key;
     }

@@ -1,13 +1,12 @@
 package planB.mc.val.barrier;
 
-import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.Material;
-import org.bukkit.World;
 import org.bukkit.block.Block;
 import org.bukkit.entity.ThrownPotion;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
+import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.event.entity.PotionSplashEvent;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.potion.PotionEffect;
@@ -24,6 +23,15 @@ public class onBarrierDetect implements Listener {
 
     public onBarrierDetect(Main main) {
         this.main = main;
+    }
+
+    @EventHandler
+    public void onBarrierPlace(BlockPlaceEvent event) {
+        if (event.getBlockPlaced().getType().equals(Material.BARRIER)) {
+            if (!Main.pbConfigFile.getBoolean("enableBarriePlace", "pbBarrier"))
+                event.setCancelled(true);
+        }
+
     }
 
     @EventHandler
@@ -47,7 +55,7 @@ public class onBarrierDetect implements Listener {
             if (potE.getType().getName().equals(PotionEffectType.NIGHT_VISION.getName())) {
                 Location loc = event.getEntity().getLocation();
                 //getting the blocks
-                ArrayList<Block> blockList = pbBarrier.getBlocks(event.getEntity().getWorld(), loc,radius);
+                ArrayList<Block> blockList = pbBarrier.getBlocks(event.getEntity().getWorld(), loc, radius);
                 //set glass
                 blockList.forEach(curBlock -> curBlock.setType(Material.GLASS));
                 //set delayRevert

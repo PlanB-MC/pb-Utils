@@ -24,9 +24,9 @@ public class onAdvancementsShop implements Listener {
     public void onPlayerInteractEvent(PlayerInteractAtEntityEvent event) {
         try {
             if (event.getRightClicked().getCustomName().equals(Block.name)) {
+                event.setCancelled(true);
                 if (Block.blocksDone) {
                     Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(), "hdb open " + event.getPlayer().getName());
-                    event.setCancelled(true);
                 } else {
                     if (cooldown.contains(event.getPlayer().getName()))
                         return;
@@ -38,6 +38,7 @@ public class onAdvancementsShop implements Listener {
                             80L
                     );
                 }
+                //event.setCancelled(true);
             }
         } catch (NullPointerException e) {
             //ignore

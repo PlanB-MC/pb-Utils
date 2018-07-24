@@ -6,14 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
+    <list id="f91251b8-62ee-4db6-811e-14a14fc72a3d" name="Default" comment="" />
     <list default="true" id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="updated some methods.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbAdvancements/onAdvancementsShop$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbCrafting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbCrafting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" afterDir="false" />
     </list>
-    <list id="f91251b8-62ee-4db6-811e-14a14fc72a3d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,14 +41,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pbCrafting.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pbCrafting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="90" column="61" lean-forward="true" selection-start-line="90" selection-start-column="61" selection-end-line="90" selection-end-column="61" />
+            <state relative-caret-position="792">
+              <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="onBarrierDetect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -57,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+              <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pbBarrier.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pbBarrier.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="23" column="75" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="75" />
+            <state relative-caret-position="902">
+              <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
               <folding>
                 <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
               </folding>
@@ -77,38 +86,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShapedRecipe.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/inventory/ShapedRecipe.class">
+      <file leaf-file-name="onAdvancementsShop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CraftServer.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/craftbukkit/v1_13_R1/CraftServer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="1172" selection-start-line="1172" selection-end-line="1172" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CraftShapedRecipe.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/craftbukkit/v1_13_R1/inventory/CraftShapedRecipe.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShapedRecipes.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/net/minecraft/server/v1_13_R1/ShapedRecipes.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+            <state relative-caret-position="717">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,7 +180,6 @@
         <option value="$PROJECT_DIR$/src/planB/mc/val/unreleased/pbChests/onChests.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/onHeadLights.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbLights/pbHeadLights/HeadLight.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/shulker/pbShulker.java" />
         <option value="$PROJECT_DIR$/src/plugin.yml" />
@@ -206,13 +192,14 @@
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbUtils.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbPlayerLogger/pbGriefLogger.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" />
       </list>
     </option>
   </component>
@@ -226,7 +213,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="129" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1582" />
     <option name="height" value="702" />
@@ -282,13 +269,17 @@
               <item name="val" type="462c0819:PsiDirectoryNode" />
               <item name="pbUtils" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pb-Utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -455,6 +446,7 @@
       <workItem from="1532188440902" duration="17554000" />
       <workItem from="1532266969154" duration="17488000" />
       <workItem from="1532344516288" duration="20083000" />
+      <workItem from="1532457024616" duration="3628000" />
     </task>
     <task id="LOCAL-00001" summary="Debugg">
       <changelist id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="" />
@@ -483,7 +475,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="358341000" />
+    <option name="totallyTimeSpent" value="361969000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -495,8 +487,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="215" y="116" width="1582" height="702" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32897604" />
@@ -513,8 +504,8 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.22121535" />
-      <window_info anchor="right" id="Database" order="7" weight="0.11727079" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.27529567" />
+      <window_info active="true" anchor="right" id="Database" order="7" visible="true" weight="0.14454664" />
       <window_info anchor="right" id="SciView" order="10" weight="0.32995737" />
       <window_info id="Structure" order="0" sideWeight="0.6459695" side_tool="true" weight="0.18017058" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -658,10 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-231">
           <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-          <folding>
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2896#2897#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,9 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,9 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="77" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="e#2560#2561#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -703,9 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,18 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-682">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
@@ -763,9 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
           <caret line="41" column="70" lean-forward="true" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,27 +743,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/ExtraOutputs/onPoopable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/ExtraOutputs/onPoopable.java" />
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="37" column="54" lean-forward="true" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -843,10 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="90" column="37" lean-forward="true" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
-          <folding>
-            <element signature="e#2552#2553#0" expanded="true" />
-            <element signature="e#2586#2587#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -887,7 +830,7 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/net/minecraft/server/v1_13_R1/ShapedRecipes.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="308">
           <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
         </state>
       </provider>
@@ -899,37 +842,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/craftbukkit/v1_13_R1/CraftServer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="1172" selection-start-line="1172" selection-end-line="1172" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/inventory/ShapedRecipe.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="418">
           <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="23" column="75" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="75" />
-          <folding>
-            <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -940,12 +856,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java">
+    <entry file="jar://$PROJECT_DIR$/../libs/spigot-1.13.jar!/org/bukkit/craftbukkit/v1_13_R1/CraftServer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="90" column="61" lean-forward="true" selection-start-line="90" selection-start-column="61" selection-end-line="90" selection-end-column="61" />
+        <state relative-caret-position="22">
+          <caret line="1172" selection-start-line="1172" selection-end-line="1172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <folding>
+            <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
           </folding>
         </state>
       </provider>
@@ -969,7 +931,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -981,7 +943,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 3.6 interpreter library</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>

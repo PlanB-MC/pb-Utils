@@ -37,7 +37,7 @@ public class pbBarrier {
             Main.pbListenersEars.addListener(onBarrierDetect);
             return;
         }
-        //setupHeadVision();
+        setupHeadVision();
         pbUtils.log('I', "[pbBarrier]");
     }
 

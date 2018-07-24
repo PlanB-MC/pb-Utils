@@ -1,0 +1,2769 @@
+data:
+  blockListSize: 670
+  blocksFound: 548
+blocks:
+  acacia_boat:
+    found: true
+    name: Acacia Boat
+    player: dearliest
+  acacia_button:
+    found: true
+    name: Acacia Button
+    player: dearliest
+  acacia_door:
+    found: true
+    name: Acacia Door
+    player: dearliest
+  acacia_fence:
+    found: true
+    name: Acacia Fence
+    player: dearliest
+  acacia_fence_gate:
+    found: true
+    name: Acacia Fence Gate
+    player: dearliest
+  acacia_leaves:
+    found: true
+    name: Acacia Leaves
+    player: dearliest
+  acacia_log:
+    found: true
+    name: Acacia Log
+    player: JVMyhre
+  acacia_planks:
+    found: true
+    name: Acacia Planks
+    player: JVMyhre
+  acacia_pressure_plate:
+    found: true
+    name: Acacia Pressure Plate
+    player: dearliest
+  acacia_sapling:
+    found: true
+    name: Acacia Sapling
+    player: JVMyhre
+  acacia_slab:
+    found: true
+    name: Acacia Slab
+    player: Zerolarity
+  acacia_stairs:
+    found: true
+    name: Acacia Stairs
+    player: dearliest
+  acacia_trapdoor:
+    found: true
+    name: Acacia Trapdoor
+    player: dearliest
+  acacia_wood:
+    found: true
+    name: Acacia Wood
+    player: dearliest
+  activator_rail:
+    found: true
+    name: Activator Rail
+    player: dearliest
+  allium:
+    found: true
+    name: Allium
+    player: _Eralys_
+  andesite:
+    found: true
+    name: Andesite
+    player: Xantev
+  anvil:
+    found: true
+    name: Anvil
+    player: dearliest
+  apple:
+    found: true
+    name: Apple
+    player: dearliest
+  armor_stand:
+    found: true
+    name: Armor Stand
+    player: dearliest
+  arrow:
+    found: true
+    name: Arrow
+    player: Zerolarity
+  azure_bluet:
+    found: true
+    name: Azure Bluet
+    player: Xantev
+  baked_potato:
+    found: true
+    name: Baked Potato
+    player: BrizzleMFD
+  banner:
+    found: false
+    name: Banner
+    player: ''
+  beacon:
+    found: false
+    name: Beacon
+    player: ''
+  bed:
+    found: false
+    name: Bed
+    player: ''
+  beef:
+    found: true
+    name: Raw Beef
+    player: TheAntiChris77
+  beetroot:
+    found: true
+    name: Beetroot
+    player: purpleabi
+  beetroot_seeds:
+    found: true
+    name: Beetroot Seeds
+    player: TheAntiChris77
+  beetroot_soup:
+    found: false
+    name: Beetroot Soup
+    player: ''
+  beetroots:
+    found: false
+    name: Beetroots
+    player: ''
+  birch_boat:
+    found: true
+    name: Birch Boat
+    player: Xantev
+  birch_button:
+    found: true
+    name: Birch Button
+    player: Xantev
+  birch_door:
+    found: true
+    name: Birch Door
+    player: dearliest
+  birch_fence:
+    found: true
+    name: Birch Fence
+    player: dearliest
+  birch_fence_gate:
+    found: true
+    name: Birch Fence Gate
+    player: dearliest
+  birch_leaves:
+    found: true
+    name: Birch Leaves
+    player: Ava_457
+  birch_log:
+    found: true
+    name: Birch Log
+    player: Mattchow
+  birch_planks:
+    found: true
+    name: Birch Planks
+    player: TheAntiChris77
+  birch_pressure_plate:
+    found: true
+    name: Birch Pressure Plate
+    player: Xantev
+  birch_sapling:
+    found: true
+    name: Birch Sapling
+    player: Xantev
+  birch_slab:
+    found: true
+    name: Birch Slab
+    player: Indie_Gorilla
+  birch_stairs:
+    found: true
+    name: Birch Stairs
+    player: dearliest
+  birch_trapdoor:
+    found: true
+    name: Birch Trapdoor
+    player: Xantev
+  birch_wood:
+    found: true
+    name: Birch Wood
+    player: Xantev
+  black_bed:
+    found: true
+    name: Black Bed
+    player: dearliest
+  black_carpet:
+    found: true
+    name: Black Carpet
+    player: Xantev
+  black_concrete:
+    found: true
+    name: Black Concrete
+    player: Zerolarity
+  black_concrete_powder:
+    found: true
+    name: Black Concrete Powder
+    player: dearliest
+  black_glazed_terracotta:
+    found: true
+    name: Black Glazed Terracotta
+    player: dearliest
+  black_shulker_box:
+    found: false
+    name: Black Shulker Box
+    player: ''
+  black_stained_glass:
+    found: true
+    name: Black Stained Glass
+    player: Xantev
+  black_stained_glass_pane:
+    found: true
+    name: Black Stained Glass Pane
+    player: Xantev
+  black_terracotta:
+    found: true
+    name: Black Terracotta
+    player: dearliest
+  black_wool:
+    found: true
+    name: Black Wool
+    player: Valicious15
+  blaze_powder:
+    found: true
+    name: Blaze Powder
+    player: Xantev
+  blaze_rod:
+    found: true
+    name: Blaze Rod
+    player: Xantev
+  blue_bed:
+    found: true
+    name: Blue Bed
+    player: AnimeIsASin
+  blue_carpet:
+    found: true
+    name: Blue Carpet
+    player: Xantev
+  blue_concrete:
+    found: true
+    name: Blue Concrete
+    player: dearliest
+  blue_concrete_powder:
+    found: true
+    name: Blue Concrete Powder
+    player: dearliest
+  blue_glazed_terracotta:
+    found: true
+    name: Blue Glazed Terracotta
+    player: dearliest
+  blue_ice:
+    found: false
+    name: Blue Ice
+    player: ''
+  blue_orchid:
+    found: true
+    name: Blue Orchid
+    player: Valicious15
+  blue_shulker_box:
+    found: false
+    name: Blue Shulker Box
+    player: ''
+  blue_stained_glass:
+    found: true
+    name: Blue Stained Glass
+    player: Xantev
+  blue_stained_glass_pane:
+    found: true
+    name: Blue Stained Glass Pane
+    player: Xantev
+  blue_terracotta:
+    found: true
+    name: Blue Terracotta
+    player: dearliest
+  blue_wool:
+    found: true
+    name: Blue Wool
+    player: Xantev
+  bone:
+    found: true
+    name: Bone
+    player: Zerolarity
+  bone_block:
+    found: true
+    name: Bone Block
+    player: dearliest
+  bone_meal:
+    found: true
+    name: Bone Meal
+    player: dearliest
+  book:
+    found: true
+    name: Book
+    player: JVMyhre
+  bookshelf:
+    found: true
+    name: Bookshelf
+    player: dearliest
+  bow:
+    found: true
+    name: Bow
+    player: Xantev
+  bowl:
+    found: true
+    name: Bowl
+    player: dearliest
+  brain_coral:
+    found: false
+    name: Brain Coral
+    player: ''
+  brain_coral_block:
+    found: false
+    name: Brain Coral Block
+    player: ''
+  brain_coral_fan:
+    found: false
+    name: Brain Coral Fan
+    player: ''
+  bread:
+    found: true
+    name: Bread
+    player: purpleabi
+  brewing_stand:
+    found: true
+    name: Brewing Stand
+    player: dearliest
+  brick:
+    found: true
+    name: Brick
+    player: Xantev
+  brick_slab:
+    found: true
+    name: Brick Slab
+    player: dearliest
+  brick_stairs:
+    found: true
+    name: Brick Stairs
+    player: dearliest
+  bricks:
+    found: true
+    name: Bricks
+    player: Xantev
+  brown_bed:
+    found: true
+    name: Brown Bed
+    player: FiskenPisk
+  brown_carpet:
+    found: true
+    name: Brown Carpet
+    player: dearliest
+  brown_concrete:
+    found: true
+    name: Brown Concrete
+    player: Zerolarity
+  brown_concrete_powder:
+    found: true
+    name: Brown Concrete Powder
+    player: dearliest
+  brown_glazed_terracotta:
+    found: true
+    name: Brown Glazed Terracotta
+    player: dearliest
+  brown_mushroom:
+    found: true
+    name: Brown Mushroom
+    player: lx_chix_xl
+  brown_mushroom_block:
+    found: false
+    name: Brown Mushroom Block
+    player: ''
+  brown_shulker_box:
+    found: false
+    name: Brown Shulker Box
+    player: ''
+  brown_stained_glass:
+    found: true
+    name: Brown Stained Glass
+    player: dearliest
+  brown_stained_glass_pane:
+    found: true
+    name: Brown Stained Glass Pane
+    player: dearliest
+  brown_terracotta:
+    found: true
+    name: Brown Terracotta
+    player: dearliest
+  brown_wool:
+    found: true
+    name: Brown Wool
+    player: TheAntiChris77
+  bubble_coral:
+    found: false
+    name: Bubble Coral
+    player: ''
+  bubble_coral_block:
+    found: false
+    name: Bubble Coral Block
+    player: ''
+  bubble_coral_fan:
+    found: false
+    name: Bubble Coral Fan
+    player: ''
+  bucket:
+    found: true
+    name: Bucket
+    player: dearliest
+  cactus:
+    found: true
+    name: Cactus
+    player: JVMyhre
+  cactus_green:
+    found: true
+    name: Cactus Green
+    player: BrizzleMFD
+  cake:
+    found: true
+    name: Cake
+    player: dearliest
+  carrot:
+    found: true
+    name: Carrot
+    player: JVMyhre
+  carrot_on_a_stick:
+    found: true
+    name: Carrot on a Stick
+    player: Xantev
+  carved_pumpkin:
+    found: true
+    name: Carved Pumpkin
+    player: Xantev
+  cauldron:
+    found: true
+    name: Cauldron
+    player: dearliest
+  chainmail_boots:
+    found: false
+    name: Chainmail Boots
+    player: ''
+  chainmail_chestplate:
+    found: false
+    name: Chainmail Chestplate
+    player: ''
+  chainmail_helmet:
+    found: false
+    name: Chainmail Helmet
+    player: ''
+  chainmail_leggings:
+    found: false
+    name: Chainmail Leggings
+    player: ''
+  charcoal:
+    found: true
+    name: Charcoal
+    player: _Eralys_
+  chest:
+    found: true
+    name: Chest
+    player: Indie_Gorilla
+  chest_minecart:
+    found: true
+    name: Minecart with Chest
+    player: BrizzleMFD
+  chicken:
+    found: true
+    name: Raw Chicken
+    player: Mystic_Nick
+  chiseled_quartz_block:
+    found: true
+    name: Chiseled Quartz Block
+    player: dearliest
+  chiseled_red_sandstone:
+    found: false
+    name: Chiseled Red Sandstone
+    player: ''
+  chiseled_sandstone:
+    found: true
+    name: Chiseled Sandstone
+    player: Xantev
+  chiseled_stone_bricks:
+    found: true
+    name: Chiseled Stone Bricks
+    player: Xantev
+  chorus_flower:
+    found: false
+    name: Chorus Flower
+    player: ''
+  chorus_fruit:
+    found: false
+    name: Chorus Fruit
+    player: ''
+  clay:
+    found: true
+    name: Clay
+    player: Xantev
+  clay_ball:
+    found: true
+    name: Clay
+    player: MissyTitch
+  clock:
+    found: true
+    name: Clock
+    player: Xantev
+  coal:
+    found: true
+    name: Coal
+    player: Xantev
+  coal_block:
+    found: true
+    name: Block of Coal
+    player: AnimeIsASin
+  coal_ore:
+    found: false
+    name: Coal Ore
+    player: ''
+  coarse_dirt:
+    found: true
+    name: Coarse Dirt
+    player: Xantev
+  cobblestone:
+    found: true
+    name: Cobblestone
+    player: Mattchow
+  cobblestone_slab:
+    found: true
+    name: Cobblestone Slab
+    player: JVMyhre
+  cobblestone_stairs:
+    found: true
+    name: Cobblestone Stairs
+    player: Xantev
+  cobblestone_wall:
+    found: true
+    name: Cobblestone Wall
+    player: Mattchow
+  cobweb:
+    found: false
+    name: Cobweb
+    player: ''
+  cocoa_beans:
+    found: true
+    name: Cocoa Beans
+    player: Xantev
+  cod:
+    found: true
+    name: Raw Cod
+    player: Zerolarity
+  cod_bucket:
+    found: true
+    name: Bucket of Cod
+    player: BrizzleMFD
+  comparator:
+    found: true
+    name: Redstone Comparator
+    player: dearliest
+  compass:
+    found: true
+    name: Compass
+    player: dearliest
+  conduit:
+    found: false
+    name: Conduit
+    player: ''
+  cooked_beef:
+    found: true
+    name: Steak
+    player: SmashTornado
+  cooked_chicken:
+    found: true
+    name: Cooked Chicken
+    player: _Eralys_
+  cooked_cod:
+    found: true
+    name: Cooked Cod
+    player: DrMacca
+  cooked_mutton:
+    found: true
+    name: Cooked Mutton
+    player: Valicious15
+  cooked_porkchop:
+    found: true
+    name: Cooked Porkchop
+    player: Indie_Gorilla
+  cooked_rabbit:
+    found: true
+    name: Cooked Rabbit
+    player: DrMacca
+  cooked_salmon:
+    found: true
+    name: Cooked Salmon
+    player: xShde
+  cookie:
+    found: true
+    name: Cookie
+    player: TheAntiChris77
+  cracked_stone_bricks:
+    found: true
+    name: Cracked Stone Bricks
+    player: _Eralys_
+  crafting_table:
+    found: true
+    name: Crafting Table
+    player: _Eralys_
+  creeper_head:
+    found: false
+    name: Creeper Head
+    player: ''
+  cyan_bed:
+    found: true
+    name: Cyan Bed
+    player: dearliest
+  cyan_carpet:
+    found: true
+    name: Cyan Carpet
+    player: dearliest
+  cyan_concrete:
+    found: true
+    name: Cyan Concrete
+    player: dearliest
+  cyan_concrete_powder:
+    found: true
+    name: Cyan Concrete Powder
+    player: dearliest
+  cyan_dye:
+    found: true
+    name: Cyan Dye
+    player: dearliest
+  cyan_glazed_terracotta:
+    found: true
+    name: Cyan Glazed Terracotta
+    player: dearliest
+  cyan_shulker_box:
+    found: false
+    name: Cyan Shulker Box
+    player: ''
+  cyan_stained_glass:
+    found: true
+    name: Cyan Stained Glass
+    player: dearliest
+  cyan_stained_glass_pane:
+    found: true
+    name: Cyan Stained Glass Pane
+    player: dearliest
+  cyan_terracotta:
+    found: true
+    name: Cyan Terracotta
+    player: dearliest
+  cyan_wool:
+    found: true
+    name: Cyan Wool
+    player: dearliest
+  dandelion:
+    found: true
+    name: Dandelion
+    player: AnimeIsASin
+  dandelion_yellow:
+    found: true
+    name: Dandelion Yellow
+    player: AnimeIsASin
+  dark_oak_boat:
+    found: true
+    name: Dark Oak Boat
+    player: dearliest
+  dark_oak_button:
+    found: true
+    name: Dark Oak Button
+    player: dearliest
+  dark_oak_door:
+    found: true
+    name: Dark Oak Door
+    player: dearliest
+  dark_oak_fence:
+    found: true
+    name: Dark Oak Fence
+    player: dearliest
+  dark_oak_fence_gate:
+    found: true
+    name: Dark Oak Fence Gate
+    player: dearliest
+  dark_oak_leaves:
+    found: true
+    name: Dark Oak Leaves
+    player: dearliest
+  dark_oak_log:
+    found: true
+    name: Dark Oak Log
+    player: JVMyhre
+  dark_oak_planks:
+    found: true
+    name: Dark Oak Planks
+    player: JVMyhre
+  dark_oak_pressure_plate:
+    found: true
+    name: Dark Oak Pressure Plate
+    player: dearliest
+  dark_oak_sapling:
+    found: true
+    name: Dark Oak Sapling
+    player: dearliest
+  dark_oak_slab:
+    found: true
+    name: Dark Oak Slab
+    player: Ava_457
+  dark_oak_stairs:
+    found: true
+    name: Dark Oak Stairs
+    player: dearliest
+  dark_oak_trapdoor:
+    found: true
+    name: Dark Oak Trapdoor
+    player: FiskenPisk
+  dark_oak_wood:
+    found: true
+    name: Dark Oak Wood
+    player: dearliest
+  dark_prismarine:
+    found: false
+    name: Dark Prismarine
+    player: ''
+  dark_prismarine_slab:
+    found: false
+    name: Dark Prismarine Slab
+    player: ''
+  dark_prismarine_stairs:
+    found: false
+    name: Dark Prismarine Stairs
+    player: ''
+  daylight_detector:
+    found: true
+    name: Daylight Detector
+    player: dearliest
+  dead_brain_coral_block:
+    found: true
+    name: Dead Brain Coral Block
+    player: JVMyhre
+  dead_bubble_coral_block:
+    found: true
+    name: Dead Bubble Coral Block
+    player: _Eralys_
+  dead_bush:
+    found: true
+    name: Dead Bush
+    player: dearliest
+  dead_fire_coral_block:
+    found: true
+    name: Dead Fire Coral Block
+    player: JVMyhre
+  dead_horn_coral_block:
+    found: true
+    name: Dead Horn Coral Block
+    player: JVMyhre
+  dead_tube_coral_block:
+    found: true
+    name: Dead Tube Coral Block
+    player: BrizzleMFD
+  detector_rail:
+    found: true
+    name: Detector Rail
+    player: dearliest
+  diamond:
+    found: true
+    name: Diamond
+    player: lx_chix_xl
+  diamond_axe:
+    found: true
+    name: Diamond Axe
+    player: SmashTornado
+  diamond_block:
+    found: true
+    name: Block of Diamond
+    player: xShde
+  diamond_boots:
+    found: true
+    name: Diamond Boots
+    player: Zerolarity
+  diamond_chestplate:
+    found: true
+    name: Diamond Chestplate
+    player: xShde
+  diamond_helmet:
+    found: true
+    name: Diamond Helmet
+    player: Zerolarity
+  diamond_hoe:
+    found: true
+    name: Diamond Hoe
+    player: SmashTornado
+  diamond_horse_armor:
+    found: true
+    name: Diamond Horse Armor
+    player: JVMyhre
+  diamond_leggings:
+    found: true
+    name: Diamond Leggings
+    player: xShde
+  diamond_ore:
+    found: false
+    name: Diamond Ore
+    player: ''
+  diamond_pickaxe:
+    found: true
+    name: Diamond Pickaxe
+    player: JVMyhre
+  diamond_shovel:
+    found: true
+    name: Diamond Shovel
+    player: JVMyhre
+  diamond_sword:
+    found: true
+    name: Diamond Sword
+    player: Zerolarity
+  diorite:
+    found: true
+    name: Diorite
+    player: Xantev
+  dirt:
+    found: true
+    name: Dirt
+    player: Mattchow
+  dispenser:
+    found: true
+    name: Dispenser
+    player: FiskenPisk
+  dragon_breath:
+    found: false
+    name: Dragon's Breath
+    player: ''
+  dragon_egg:
+    found: false
+    name: Dragon Egg
+    player: ''
+  dragon_head:
+    found: false
+    name: Dragon Head
+    player: ''
+  dried_kelp:
+    found: true
+    name: Dried Kelp
+    player: lx_chix_xl
+  dried_kelp_block:
+    found: true
+    name: Dried Kelp Block
+    player: Zerolarity
+  dropper:
+    found: true
+    name: Dropper
+    player: dearliest
+  egg:
+    found: true
+    name: Egg
+    player: DrMacca
+  elytra:
+    found: false
+    name: Elytra
+    player: ''
+  emerald:
+    found: true
+    name: Emerald
+    player: Indie_Gorilla
+  emerald_block:
+    found: true
+    name: Block of Emerald
+    player: xShde
+  emerald_ore:
+    found: false
+    name: Emerald Ore
+    player: ''
+  enchanted_book:
+    found: true
+    name: Enchanted Book
+    player: JVMyhre
+  enchanted_golden_apple:
+    found: false
+    name: Enchanted Golden Apple
+    player: ''
+  enchanting_table:
+    found: true
+    name: Enchanting Table
+    player: lx_chix_xl
+  end_crystal:
+    found: false
+    name: End Crystal
+    player: ''
+  end_rod:
+    found: false
+    name: End Rod
+    player: ''
+  end_stone:
+    found: false
+    name: End Stone
+    player: ''
+  end_stone_bricks:
+    found: false
+    name: End Stone Bricks
+    player: ''
+  ender_chest:
+    found: true
+    name: Ender Chest
+    player: xShde
+  ender_eye:
+    found: true
+    name: Eye of Ender
+    player: Xantev
+  ender_pearl:
+    found: true
+    name: Ender Pearl
+    player: JVMyhre
+  enderchest:
+    found: false
+    name: Ender Chest
+    player: ''
+  feather:
+    found: true
+    name: Feather
+    player: Xantev
+  fermented_spider_eye:
+    found: false
+    name: Fermented Spider Eye
+    player: ''
+  fern:
+    found: true
+    name: Fern
+    player: Emtntny1
+  filled_map:
+    found: true
+    name: Map
+    player: Indie_Gorilla
+  fire_charge:
+    found: true
+    name: Fire Charge
+    player: Xantev
+  fire_coral:
+    found: false
+    name: Fire Coral
+    player: ''
+  fire_coral_block:
+    found: false
+    name: Fire Coral Block
+    player: ''
+  fire_coral_fan:
+    found: false
+    name: Fire Coral Fan
+    player: ''
+  fishing_rod:
+    found: true
+    name: Fishing Rod
+    player: AnimeIsASin
+  flint:
+    found: true
+    name: Flint
+    player: FiskenPisk
+  flint_and_steel:
+    found: true
+    name: Flint and Steel
+    player: dearliest
+  flower_pot:
+    found: true
+    name: Flower Pot
+    player: Xantev
+  furnace:
+    found: true
+    name: Furnace
+    player: lx_chix_xl
+  furnace_minecart:
+    found: true
+    name: Minecart with Furnace
+    player: dearliest
+  ghast_tear:
+    found: true
+    name: Ghast Tear
+    player: TheAntiChris77
+  glass:
+    found: true
+    name: Glass
+    player: Xantev
+  glass_bottle:
+    found: true
+    name: Glass Bottle
+    player: Xantev
+  glass_pane:
+    found: true
+    name: Glass Pane
+    player: Xantev
+  glistering_melon_slice:
+    found: true
+    name: Glistering Melon Slice
+    player: Zerolarity
+  glowstone:
+    found: true
+    name: Glowstone
+    player: lx_chix_xl
+  glowstone_dust:
+    found: true
+    name: Glowstone Dust
+    player: lx_chix_xl
+  gold_block:
+    found: true
+    name: Block of Gold
+    player: Xantev
+  gold_ingot:
+    found: true
+    name: Gold Ingot
+    player: Indie_Gorilla
+  gold_nugget:
+    found: true
+    name: Gold Nugget
+    player: Mystic_Nick
+  gold_ore:
+    found: true
+    name: Gold Ore
+    player: Zerolarity
+  golden_apple:
+    found: true
+    name: Golden Apple
+    player: TheAntiChris77
+  golden_axe:
+    found: true
+    name: Golden Axe
+    player: Xantev
+  golden_boots:
+    found: true
+    name: Golden Boots
+    player: Xantev
+  golden_carrot:
+    found: true
+    name: Golden Carrot
+    player: Xantev
+  golden_chestplate:
+    found: true
+    name: Golden Chestplate
+    player: SmashTornado
+  golden_helmet:
+    found: true
+    name: Golden Helmet
+    player: Zerolarity
+  golden_hoe:
+    found: true
+    name: Golden Hoe
+    player: Xantev
+  golden_horse_armor:
+    found: false
+    name: Golden Horse Armor
+    player: ''
+  golden_leggings:
+    found: true
+    name: Golden Leggings
+    player: Zerolarity
+  golden_pickaxe:
+    found: true
+    name: Golden Pickaxe
+    player: Xantev
+  golden_shovel:
+    found: true
+    name: Golden Shovel
+    player: Xantev
+  golden_sword:
+    found: true
+    name: Golden Sword
+    player: Xantev
+  granite:
+    found: true
+    name: Granite
+    player: Zerolarity
+  grass:
+    found: true
+    name: Grass
+    player: Xantev
+  grass_block:
+    found: false
+    name: Grass Block
+    player: ''
+  gravel:
+    found: true
+    name: Gravel
+    player: Xantev
+  gray_bed:
+    found: true
+    name: Gray Bed
+    player: dearliest
+  gray_carpet:
+    found: true
+    name: Gray Carpet
+    player: Xantev
+  gray_concrete:
+    found: true
+    name: Gray Concrete
+    player: Zerolarity
+  gray_concrete_powder:
+    found: true
+    name: Gray Concrete Powder
+    player: dearliest
+  gray_dye:
+    found: true
+    name: Gray Dye
+    player: Xantev
+  gray_glazed_terracotta:
+    found: true
+    name: Gray Glazed Terracotta
+    player: dearliest
+  gray_shulker_box:
+    found: false
+    name: Gray Shulker Box
+    player: ''
+  gray_stained_glass:
+    found: true
+    name: Gray Stained Glass
+    player: Xantev
+  gray_stained_glass_pane:
+    found: true
+    name: Gray Stained Glass Pane
+    player: Xantev
+  gray_terracotta:
+    found: true
+    name: Gray Terracotta
+    player: dearliest
+  gray_wool:
+    found: true
+    name: Gray Wool
+    player: Mattchow
+  green_bed:
+    found: true
+    name: Green Bed
+    player: BrizzleMFD
+  green_carpet:
+    found: true
+    name: Green Carpet
+    player: Zerolarity
+  green_concrete:
+    found: true
+    name: Green Concrete
+    player: Zerolarity
+  green_concrete_powder:
+    found: true
+    name: Green Concrete Powder
+    player: Zerolarity
+  green_glazed_terracotta:
+    found: true
+    name: Green Glazed Terracotta
+    player: dearliest
+  green_shulker_box:
+    found: false
+    name: Green Shulker Box
+    player: ''
+  green_stained_glass:
+    found: true
+    name: Green Stained Glass
+    player: dearliest
+  green_stained_glass_pane:
+    found: true
+    name: Green Stained Glass Pane
+    player: dearliest
+  green_terracotta:
+    found: true
+    name: Green Terracotta
+    player: dearliest
+  green_wool:
+    found: true
+    name: Green Wool
+    player: Zerolarity
+  gunpowder:
+    found: true
+    name: Gunpowder
+    player: lx_chix_xl
+  hay_block:
+    found: true
+    name: Hay Bale
+    player: dearliest
+  heart_of_the_sea:
+    found: true
+    name: Heart of the Sea
+    player: AnimeIsASin
+  heavy_weighted_pressure_plate:
+    found: true
+    name: Heavy Weighted Pressure Plate
+    player: Xantev
+  hopper:
+    found: true
+    name: Hopper
+    player: JVMyhre
+  hopper_minecart:
+    found: true
+    name: Minecart with Hopper
+    player: Zerolarity
+  horn_coral:
+    found: false
+    name: Horn Coral
+    player: ''
+  horn_coral_block:
+    found: false
+    name: Horn Coral Block
+    player: ''
+  horn_coral_fan:
+    found: false
+    name: Horn Coral Fan
+    player: ''
+  ice:
+    found: false
+    name: Ice
+    player: ''
+  ink_sac:
+    found: true
+    name: Ink Sac
+    player: Mattchow
+  iron_axe:
+    found: true
+    name: Iron Axe
+    player: Xantev
+  iron_bars:
+    found: true
+    name: Iron Bars
+    player: JVMyhre
+  iron_block:
+    found: true
+    name: Block of Iron
+    player: Xantev
+  iron_boots:
+    found: true
+    name: Iron Boots
+    player: Zerolarity
+  iron_chestplate:
+    found: true
+    name: Iron Chestplate
+    player: Zerolarity
+  iron_door:
+    found: true
+    name: Iron Door
+    player: Mattchow
+  iron_helmet:
+    found: true
+    name: Iron Helmet
+    player: Xantev
+  iron_hoe:
+    found: true
+    name: Iron Hoe
+    player: dearliest
+  iron_horse_armor:
+    found: true
+    name: Iron Horse Armor
+    player: Ava_457
+  iron_ingot:
+    found: true
+    name: Iron Ingot
+    player: Indie_Gorilla
+  iron_leggings:
+    found: true
+    name: Iron Leggings
+    player: Zerolarity
+  iron_nugget:
+    found: true
+    name: Iron Nugget
+    player: Indie_Gorilla
+  iron_ore:
+    found: true
+    name: Iron Ore
+    player: MissyTitch
+  iron_pickaxe:
+    found: true
+    name: Iron Pickaxe
+    player: Xantev
+  iron_shovel:
+    found: true
+    name: Iron Shovel
+    player: Zerolarity
+  iron_sword:
+    found: true
+    name: Iron Sword
+    player: lx_chix_xl
+  iron_trapdoor:
+    found: true
+    name: Iron Trapdoor
+    player: dearliest
+  item_frame:
+    found: true
+    name: Item Frame
+    player: JVMyhre
+  jack_o_lantern:
+    found: true
+    name: Jack o'Lantern
+    player: dearliest
+  jukebox:
+    found: false
+    name: Jukebox
+    player: ''
+  jungle_boat:
+    found: true
+    name: Jungle Boat
+    player: dearliest
+  jungle_button:
+    found: true
+    name: Jungle Button
+    player: dearliest
+  jungle_door:
+    found: true
+    name: Jungle Door
+    player: dearliest
+  jungle_fence:
+    found: true
+    name: Jungle Fence
+    player: dearliest
+  jungle_fence_gate:
+    found: true
+    name: Jungle Fence Gate
+    player: dearliest
+  jungle_leaves:
+    found: true
+    name: Jungle Leaves
+    player: Emtntny1
+  jungle_log:
+    found: true
+    name: Jungle Log
+    player: dearliest
+  jungle_planks:
+    found: true
+    name: Jungle Planks
+    player: Indie_Gorilla
+  jungle_pressure_plate:
+    found: true
+    name: Jungle Pressure Plate
+    player: dearliest
+  jungle_sapling:
+    found: true
+    name: Jungle Sapling
+    player: Indie_Gorilla
+  jungle_slab:
+    found: true
+    name: Jungle Slab
+    player: lx_chix_xl
+  jungle_stairs:
+    found: true
+    name: Jungle Stairs
+    player: Xantev
+  jungle_trapdoor:
+    found: true
+    name: Jungle Trapdoor
+    player: Xantev
+  jungle_wood:
+    found: true
+    name: Jungle Wood
+    player: dearliest
+  kelp:
+    found: true
+    name: Kelp
+    player: Xantev
+  ladder:
+    found: true
+    name: Ladder
+    player: dearliest
+  lapis_block:
+    found: true
+    name: Lapis Lazuli Block
+    player: Xantev
+  lapis_lazuli:
+    found: true
+    name: Lapis Lazuli
+    player: Indie_Gorilla
+  lapis_ore:
+    found: false
+    name: Lapis Lazuli Ore
+    player: ''
+  lava_bucket:
+    found: true
+    name: Lava Bucket
+    player: DrMacca
+  lead:
+    found: false
+    name: Lead
+    player: ''
+  leather:
+    found: true
+    name: Leather
+    player: Xantev
+  leather_boots:
+    found: true
+    name: Leather Boots
+    player: Xantev
+  leather_chestplate:
+    found: true
+    name: Leather Tunic
+    player: _Eralys_
+  leather_helmet:
+    found: true
+    name: Leather Cap
+    player: JVMyhre
+  leather_leggings:
+    found: true
+    name: Leather Pants
+    player: BrizzleMFD
+  lever:
+    found: true
+    name: Lever
+    player: Xantev
+  light_blue_bed:
+    found: true
+    name: Light Blue Bed
+    player: Xantev
+  light_blue_carpet:
+    found: true
+    name: Light Blue Carpet
+    player: Xantev
+  light_blue_concrete:
+    found: true
+    name: Light Blue Concrete
+    player: dearliest
+  light_blue_concrete_powder:
+    found: true
+    name: Light Blue Concrete Powder
+    player: dearliest
+  light_blue_dye:
+    found: true
+    name: Light Blue Dye
+    player: Xantev
+  light_blue_glazed_terracotta:
+    found: true
+    name: Light Blue Glazed Terracotta
+    player: dearliest
+  light_blue_shulker_box:
+    found: false
+    name: Light Blue Shulker Box
+    player: ''
+  light_blue_stained_glass:
+    found: true
+    name: Light Blue Stained Glass
+    player: Xantev
+  light_blue_stained_glass_pane:
+    found: true
+    name: Light Blue Stained Glass Pane
+    player: Xantev
+  light_blue_terracotta:
+    found: true
+    name: Light Blue Terracotta
+    player: dearliest
+  light_blue_wool:
+    found: true
+    name: Light Blue Wool
+    player: Xantev
+  light_gray_bed:
+    found: true
+    name: Light Gray Bed
+    player: dearliest
+  light_gray_carpet:
+    found: true
+    name: Light Gray Carpet
+    player: lx_chix_xl
+  light_gray_concrete:
+    found: true
+    name: Light Gray Concrete
+    player: dearliest
+  light_gray_concrete_powder:
+    found: true
+    name: Light Gray Concrete Powder
+    player: dearliest
+  light_gray_dye:
+    found: true
+    name: Light Gray Dye
+    player: AnimeIsASin
+  light_gray_glazed_terracotta:
+    found: true
+    name: Light Gray Glazed Terracotta
+    player: dearliest
+  light_gray_shulker_box:
+    found: false
+    name: Light Gray Shulker Box
+    player: ''
+  light_gray_stained_glass:
+    found: true
+    name: Light Gray Stained Glass
+    player: Xantev
+  light_gray_stained_glass_pane:
+    found: true
+    name: Light Gray Stained Glass Pane
+    player: Xantev
+  light_gray_terracotta:
+    found: true
+    name: Light Gray Terracotta
+    player: dearliest
+  light_gray_wool:
+    found: true
+    name: Light Gray Wool
+    player: TheAntiChris77
+  light_weighted_pressure_plate:
+    found: true
+    name: Light Weighted Pressure Plate
+    player: Xantev
+  lilac:
+    found: true
+    name: Lilac
+    player: dearliest
+  lily_pad:
+    found: true
+    name: Lily Pad
+    player: JVMyhre
+  lime_bed:
+    found: true
+    name: Lime Bed
+    player: Zerolarity
+  lime_carpet:
+    found: true
+    name: Lime Carpet
+    player: Zerolarity
+  lime_concrete:
+    found: true
+    name: Lime Concrete
+    player: Zerolarity
+  lime_concrete_powder:
+    found: true
+    name: Lime Concrete Powder
+    player: Zerolarity
+  lime_dye:
+    found: true
+    name: Lime Dye
+    player: dearliest
+  lime_glazed_terracotta:
+    found: true
+    name: Lime Glazed Terracotta
+    player: dearliest
+  lime_shulker_box:
+    found: false
+    name: Lime Shulker Box
+    player: ''
+  lime_stained_glass:
+    found: true
+    name: Lime Stained Glass
+    player: dearliest
+  lime_stained_glass_pane:
+    found: true
+    name: Lime Stained Glass Pane
+    player: dearliest
+  lime_terracotta:
+    found: true
+    name: Lime Terracotta
+    player: dearliest
+  lime_wool:
+    found: true
+    name: Lime Wool
+    player: Zerolarity
+  magenta_bed:
+    found: true
+    name: Magenta Bed
+    player: Xantev
+  magenta_carpet:
+    found: true
+    name: Magenta Carpet
+    player: Xantev
+  magenta_concrete:
+    found: true
+    name: Magenta Concrete
+    player: dearliest
+  magenta_concrete_powder:
+    found: true
+    name: Magenta Concrete Powder
+    player: dearliest
+  magenta_dye:
+    found: true
+    name: Magenta Dye
+    player: dearliest
+  magenta_glazed_terracotta:
+    found: true
+    name: Magenta Glazed Terracotta
+    player: dearliest
+  magenta_shulker_box:
+    found: false
+    name: Magenta Shulker Box
+    player: ''
+  magenta_stained_glass:
+    found: true
+    name: Magenta Stained Glass
+    player: Xantev
+  magenta_stained_glass_pane:
+    found: true
+    name: Magenta Stained Glass Pane
+    player: Xantev
+  magenta_terracotta:
+    found: true
+    name: Magenta Terracotta
+    player: dearliest
+  magenta_wool:
+    found: true
+    name: Magenta Wool
+    player: Xantev
+  magma_block:
+    found: true
+    name: Magma Block
+    player: Xantev
+  magma_cream:
+    found: false
+    name: Magma Cream
+    player: ''
+  map:
+    found: true
+    name: Empty Map
+    player: dearliest
+  melon:
+    found: true
+    name: Melon
+    player: Xantev
+  melon_seeds:
+    found: true
+    name: Melon Seeds
+    player: lx_chix_xl
+  melon_slice:
+    found: true
+    name: Melon Slice
+    player: Mattchow
+  milk_bucket:
+    found: true
+    name: Milk Bucket
+    player: dearliest
+  minecart:
+    found: true
+    name: Minecart
+    player: TheAntiChris77
+  mossy_cobblestone:
+    found: true
+    name: Mossy Cobblestone
+    player: FiskenPisk
+  mossy_cobblestone_wall:
+    found: true
+    name: Mossy Cobblestone Wall
+    player: dearliest
+  mossy_stone_bricks:
+    found: true
+    name: Mossy Stone Bricks
+    player: Xantev
+  mushroom_stew:
+    found: true
+    name: Mushroom Stew
+    player: dearliest
+  mutton:
+    found: true
+    name: Raw Mutton
+    player: lx_chix_xl
+  mycelium:
+    found: false
+    name: Mycelium
+    player: ''
+  name_tag:
+    found: true
+    name: Name Tag
+    player: _Eralys_
+  nautilus_shell:
+    found: true
+    name: Nautilus Shell
+    player: JVMyhre
+  nether_brick:
+    found: true
+    name: Nether Brick
+    player: Xantev
+  nether_brick_fence:
+    found: true
+    name: Nether Brick Fence
+    player: _Eralys_
+  nether_brick_slab:
+    found: true
+    name: Nether Brick Slab
+    player: Xantev
+  nether_brick_stairs:
+    found: true
+    name: Nether Brick Stairs
+    player: xShde
+  nether_bricks:
+    found: true
+    name: Nether Bricks
+    player: _Eralys_
+  nether_quartz_ore:
+    found: false
+    name: Nether Quartz Ore
+    player: ''
+  nether_star:
+    found: false
+    name: Nether Star
+    player: ''
+  nether_wart:
+    found: true
+    name: Nether Wart
+    player: xShde
+  nether_wart_block:
+    found: false
+    name: Nether Wart Block
+    player: ''
+  netherrack:
+    found: true
+    name: Netherrack
+    player: lx_chix_xl
+  note_block:
+    found: true
+    name: Note Block
+    player: Xantev
+  oak_boat:
+    found: true
+    name: Oak Boat
+    player: MissyTitch
+  oak_button:
+    found: true
+    name: Oak Button
+    player: Xantev
+  oak_door:
+    found: true
+    name: Oak Door
+    player: Mattchow
+  oak_fence:
+    found: true
+    name: Oak Fence
+    player: Xantev
+  oak_fence_gate:
+    found: true
+    name: Oak Fence Gate
+    player: dearliest
+  oak_leaves:
+    found: true
+    name: Oak Leaves
+    player: Emtntny1
+  oak_log:
+    found: true
+    name: Oak Log
+    player: Indie_Gorilla
+  oak_planks:
+    found: true
+    name: Oak Planks
+    player: Xantev
+  oak_pressure_plate:
+    found: true
+    name: Oak Pressure Plate
+    player: Xantev
+  oak_sapling:
+    found: true
+    name: Oak Sapling
+    player: Mattchow
+  oak_slab:
+    found: true
+    name: Oak Slab
+    player: Xantev
+  oak_stairs:
+    found: true
+    name: Oak Stairs
+    player: Xantev
+  oak_trapdoor:
+    found: true
+    name: Oak Trapdoor
+    player: dearliest
+  oak_wood:
+    found: true
+    name: Oak Wood
+    player: Xantev
+  observer:
+    found: true
+    name: Observer
+    player: dearliest
+  obsidian:
+    found: true
+    name: Obsidian
+    player: lx_chix_xl
+  orange_bed:
+    found: true
+    name: Orange Bed
+    player: dearliest
+  orange_carpet:
+    found: true
+    name: Orange Carpet
+    player: Xantev
+  orange_concrete:
+    found: true
+    name: Orange Concrete
+    player: dearliest
+  orange_concrete_powder:
+    found: true
+    name: Orange Concrete Powder
+    player: dearliest
+  orange_dye:
+    found: true
+    name: Orange Dye
+    player: AnimeIsASin
+  orange_glazed_terracotta:
+    found: true
+    name: Orange Glazed Terracotta
+    player: dearliest
+  orange_shulker_box:
+    found: false
+    name: Orange Shulker Box
+    player: ''
+  orange_stained_glass:
+    found: true
+    name: Orange Stained Glass
+    player: Xantev
+  orange_stained_glass_pane:
+    found: true
+    name: Orange Stained Glass Pane
+    player: Xantev
+  orange_terracotta:
+    found: true
+    name: Orange Terracotta
+    player: dearliest
+  orange_tulip:
+    found: true
+    name: Orange Tulip
+    player: Valicious15
+  orange_wool:
+    found: true
+    name: Orange Wool
+    player: Xantev
+  oxeye_daisy:
+    found: true
+    name: Oxeye Daisy
+    player: Mattchow
+  packed_ice:
+    found: false
+    name: Packed Ice
+    player: ''
+  painting:
+    found: true
+    name: Painting
+    player: dearliest
+  paper:
+    found: true
+    name: Paper
+    player: Indie_Gorilla
+  peony:
+    found: true
+    name: Peony
+    player: MissyTitch
+  phantom_membrane:
+    found: true
+    name: Phantom Membrane
+    player: FiskenPisk
+  pink_bed:
+    found: true
+    name: Pink Bed
+    player: dearliest
+  pink_carpet:
+    found: true
+    name: Pink Carpet
+    player: Xantev
+  pink_concrete:
+    found: true
+    name: Pink Concrete
+    player: dearliest
+  pink_concrete_powder:
+    found: true
+    name: Pink Concrete Powder
+    player: dearliest
+  pink_dye:
+    found: true
+    name: Pink Dye
+    player: Xantev
+  pink_glazed_terracotta:
+    found: true
+    name: Pink Glazed Terracotta
+    player: dearliest
+  pink_shulker_box:
+    found: false
+    name: Pink Shulker Box
+    player: ''
+  pink_stained_glass:
+    found: true
+    name: Pink Stained Glass
+    player: Xantev
+  pink_stained_glass_pane:
+    found: true
+    name: Pink Stained Glass Pane
+    player: Xantev
+  pink_terracotta:
+    found: true
+    name: Pink Terracotta
+    player: dearliest
+  pink_tulip:
+    found: true
+    name: Pink Tulip
+    player: _Eralys_
+  pink_wool:
+    found: true
+    name: Pink Wool
+    player: Xantev
+  piston:
+    found: true
+    name: Piston
+    player: JVMyhre
+  podzol:
+    found: false
+    name: Podzol
+    player: ''
+  poisonous_potato:
+    found: true
+    name: Poisonous Potato
+    player: JVMyhre
+  polished_andesite:
+    found: true
+    name: Polished Andesite
+    player: Xantev
+  polished_diorite:
+    found: true
+    name: Polished Diorite
+    player: Xantev
+  polished_granite:
+    found: true
+    name: Polished Granite
+    player: Xantev
+  popped_chorus_fruit:
+    found: false
+    name: Popped Chorus Fruit
+    player: ''
+  poppy:
+    found: true
+    name: Poppy
+    player: FiskenPisk
+  porkchop:
+    found: true
+    name: Raw Porkchop
+    player: _Eralys_
+  potato:
+    found: true
+    name: Potato
+    player: JVMyhre
+  powered_rail:
+    found: true
+    name: Powered Rail
+    player: xShde
+  prismarine:
+    found: false
+    name: Prismarine
+    player: ''
+  prismarine_brick_slab:
+    found: false
+    name: Prismarine Brick Slab
+    player: ''
+  prismarine_brick_stairs:
+    found: false
+    name: Prismarine Brick Stairs
+    player: ''
+  prismarine_bricks:
+    found: false
+    name: Prismarine Bricks
+    player: ''
+  prismarine_crystals:
+    found: true
+    name: Prismarine Crystals
+    player: Xantev
+  prismarine_shard:
+    found: false
+    name: Prismarine Shard
+    player: ''
+  prismarine_slab:
+    found: false
+    name: Prismarine Slab
+    player: ''
+  prismarine_stairs:
+    found: false
+    name: Prismarine Stairs
+    player: ''
+  pufferfish:
+    found: true
+    name: Pufferfish
+    player: BrizzleMFD
+  pufferfish_bucket:
+    found: true
+    name: Bucket of Pufferfish
+    player: BrizzleMFD
+  pumpkin:
+    found: true
+    name: Pumpkin
+    player: Indie_Gorilla
+  pumpkin_pie:
+    found: true
+    name: Pumpkin Pie
+    player: dearliest
+  pumpkin_seeds:
+    found: true
+    name: Pumpkin Seeds
+    player: Xantev
+  purple_bed:
+    found: true
+    name: Purple Bed
+    player: dearliest
+  purple_carpet:
+    found: true
+    name: Purple Carpet
+    player: dearliest
+  purple_concrete:
+    found: true
+    name: Purple Concrete
+    player: dearliest
+  purple_concrete_powder:
+    found: true
+    name: Purple Concrete Powder
+    player: dearliest
+  purple_dye:
+    found: true
+    name: Purple Dye
+    player: Xantev
+  purple_glazed_terracotta:
+    found: true
+    name: Purple Glazed Terracotta
+    player: _Eralys_
+  purple_shulker_box:
+    found: false
+    name: Purple Shulker Box
+    player: ''
+  purple_stained_glass:
+    found: true
+    name: Purple Stained Glass
+    player: Xantev
+  purple_stained_glass_pane:
+    found: true
+    name: Purple Stained Glass Pane
+    player: Xantev
+  purple_terracotta:
+    found: true
+    name: Purple Terracotta
+    player: dearliest
+  purple_wool:
+    found: true
+    name: Purple Wool
+    player: Xantev
+  purpur_block:
+    found: false
+    name: Purpur Block
+    player: ''
+  purpur_pillar:
+    found: false
+    name: Purpur Pillar
+    player: ''
+  purpur_slab:
+    found: false
+    name: Purpur Slab
+    player: ''
+  purpur_stairs:
+    found: false
+    name: Purpur Stairs
+    player: ''
+  quartz:
+    found: true
+    name: Nether Quartz
+    player: _Eralys_
+  quartz_block:
+    found: true
+    name: Block of Quartz
+    player: dearliest
+  quartz_pillar:
+    found: true
+    name: Quartz Pillar
+    player: dearliest
+  quartz_slab:
+    found: true
+    name: Quartz Slab
+    player: dearliest
+  quartz_stairs:
+    found: true
+    name: Quartz Stairs
+    player: dearliest
+  rabbit:
+    found: true
+    name: Raw Rabbit
+    player: JVMyhre
+  rabbit_foot:
+    found: true
+    name: Rabbit's Foot
+    player: lx_chix_xl
+  rabbit_hide:
+    found: true
+    name: Rabbit Hide
+    player: lx_chix_xl
+  rabbit_stew:
+    found: false
+    name: Rabbit Stew
+    player: ''
+  rail:
+    found: true
+    name: Rail
+    player: Xantev
+  red_bed:
+    found: true
+    name: Red Bed
+    player: lx_chix_xl
+  red_carpet:
+    found: true
+    name: Red Carpet
+    player: Xantev
+  red_concrete:
+    found: true
+    name: Red Concrete
+    player: dearliest
+  red_concrete_powder:
+    found: true
+    name: Red Concrete Powder
+    player: dearliest
+  red_glazed_terracotta:
+    found: true
+    name: Red Glazed Terracotta
+    player: dearliest
+  red_mushroom:
+    found: true
+    name: Red Mushroom
+    player: MissyTitch
+  red_mushroom_block:
+    found: false
+    name: Red Mushroom Block
+    player: ''
+  red_nether_bricks:
+    found: false
+    name: Red Nether Bricks
+    player: ''
+  red_sand:
+    found: false
+    name: Red Sand
+    player: ''
+  red_sandstone:
+    found: false
+    name: Red Sandstone
+    player: ''
+  red_sandstone_slab:
+    found: false
+    name: Red Sandstone Slab
+    player: ''
+  red_sandstone_stairs:
+    found: false
+    name: Red Sandstone Stairs
+    player: ''
+  red_shulker_box:
+    found: false
+    name: Red Shulker Box
+    player: ''
+  red_stained_glass:
+    found: true
+    name: Red Stained Glass
+    player: Xantev
+  red_stained_glass_pane:
+    found: true
+    name: Red Stained Glass Pane
+    player: Xantev
+  red_terracotta:
+    found: true
+    name: Red Terracotta
+    player: dearliest
+  red_tulip:
+    found: true
+    name: Red Tulip
+    player: Valicious15
+  red_wool:
+    found: true
+    name: Red Wool
+    player: Zerolarity
+  redstone:
+    found: true
+    name: Redstone
+    player: FiskenPisk
+  redstone_block:
+    found: true
+    name: Block of Redstone
+    player: Xantev
+  redstone_lamp:
+    found: true
+    name: Redstone Lamp
+    player: Xantev
+  redstone_ore:
+    found: false
+    name: Redstone Ore
+    player: ''
+  redstone_torch:
+    found: true
+    name: Redstone Torch
+    player: dearliest
+  redstone_wire:
+    found: false
+    name: Redstone Dust
+    player: ''
+  repeater:
+    found: true
+    name: Redstone Repeater
+    player: Xantev
+  rose_bush:
+    found: true
+    name: Rose Bush
+    player: dearliest
+  rose_red:
+    found: true
+    name: Rose Red
+    player: AnimeIsASin
+  rotten_flesh:
+    found: true
+    name: Rotten Flesh
+    player: Xantev
+  saddle:
+    found: true
+    name: Saddle
+    player: SmashTornado
+  salmon:
+    found: true
+    name: Raw Salmon
+    player: SmashTornado
+  salmon_bucket:
+    found: true
+    name: Bucket of Salmon
+    player: BrizzleMFD
+  sand:
+    found: true
+    name: Sand
+    player: Xantev
+  sandstone:
+    found: true
+    name: Sandstone
+    player: MissyTitch
+  sandstone_slab:
+    found: true
+    name: Sandstone Slab
+    player: Xantev
+  sandstone_stairs:
+    found: true
+    name: Sandstone Stairs
+    player: purpleabi
+  scute:
+    found: false
+    name: Scute
+    player: ''
+  sea_lantern:
+    found: false
+    name: Sea Lantern
+    player: ''
+  sea_pickle:
+    found: true
+    name: Sea Pickle
+    player: Mattchow
+  seagrass:
+    found: true
+    name: Seagrass
+    player: Indie_Gorilla
+  shears:
+    found: true
+    name: Shears
+    player: Emtntny1
+  shield:
+    found: true
+    name: Shield
+    player: Zerolarity
+  shulker_box:
+    found: false
+    name: Shulker Box
+    player: ''
+  shulker_shell:
+    found: false
+    name: Shulker Shell
+    player: ''
+  shulkerBox:
+    found: false
+    name: Shulker Box
+    player: ''
+  sign:
+    found: true
+    name: Sign
+    player: Mystic_Nick
+  skeleton_skull:
+    found: false
+    name: Skeleton Skull
+    player: ''
+  slime_ball:
+    found: false
+    name: Slimeball
+    player: ''
+  slime_block:
+    found: false
+    name: Slime Block
+    player: ''
+  smooth_quartz:
+    found: false
+    name: Smooth Quartz
+    player: ''
+  smooth_red_sandstone:
+    found: false
+    name: Smooth Red Sandstone
+    player: ''
+  smooth_sandstone:
+    found: false
+    name: Smooth Sandstone
+    player: ''
+  smooth_stone:
+    found: false
+    name: Smooth Stone
+    player: ''
+  snow:
+    found: true
+    name: Snow
+    player: BrizzleMFD
+  snow_block:
+    found: true
+    name: Snow Block
+    player: AnimeIsASin
+  snowball:
+    found: true
+    name: Snowball
+    player: AnimeIsASin
+  soul_sand:
+    found: true
+    name: Soul Sand
+    player: _Eralys_
+  spider_eye:
+    found: true
+    name: Spider Eye
+    player: Xantev
+  sponge:
+    found: false
+    name: Sponge
+    player: ''
+  spruce_boat:
+    found: true
+    name: Spruce Boat
+    player: FiskenPisk
+  spruce_button:
+    found: true
+    name: Spruce Button
+    player: AnimeIsASin
+  spruce_door:
+    found: true
+    name: Spruce Door
+    player: FiskenPisk
+  spruce_fence:
+    found: true
+    name: Spruce Fence
+    player: xShde
+  spruce_fence_gate:
+    found: true
+    name: Spruce Fence Gate
+    player: AnimeIsASin
+  spruce_leaves:
+    found: true
+    name: Spruce Leaves
+    player: Xantev
+  spruce_log:
+    found: true
+    name: Spruce Log
+    player: lx_chix_xl
+  spruce_planks:
+    found: true
+    name: Spruce Planks
+    player: Indie_Gorilla
+  spruce_pressure_plate:
+    found: true
+    name: Spruce Pressure Plate
+    player: AnimeIsASin
+  spruce_sapling:
+    found: true
+    name: Spruce Sapling
+    player: lx_chix_xl
+  spruce_slab:
+    found: true
+    name: Spruce Slab
+    player: MissyTitch
+  spruce_stairs:
+    found: true
+    name: Spruce Stairs
+    player: Xantev
+  spruce_trapdoor:
+    found: true
+    name: Spruce Trapdoor
+    player: dearliest
+  spruce_wood:
+    found: true
+    name: Spruce Wood
+    player: Xantev
+  stick:
+    found: true
+    name: Stick
+    player: Xantev
+  sticky_piston:
+    found: true
+    name: Sticky Piston
+    player: FiskenPisk
+  stone:
+    found: true
+    name: Stone
+    player: purpleabi
+  stone_axe:
+    found: true
+    name: Stone Axe
+    player: lx_chix_xl
+  stone_brick_slab:
+    found: true
+    name: Stone Brick Slab
+    player: Xantev
+  stone_brick_stairs:
+    found: true
+    name: Stone Brick Stairs
+    player: JVMyhre
+  stone_bricks:
+    found: true
+    name: Stone Bricks
+    player: Xantev
+  stone_button:
+    found: true
+    name: Stone Button
+    player: dearliest
+  stone_hoe:
+    found: true
+    name: Stone Hoe
+    player: lx_chix_xl
+  stone_pickaxe:
+    found: true
+    name: Stone Pickaxe
+    player: Xantev
+  stone_pressure_plate:
+    found: true
+    name: Stone Pressure Plate
+    player: dearliest
+  stone_shovel:
+    found: true
+    name: Stone Shovel
+    player: BrizzleMFD
+  stone_slab:
+    found: true
+    name: Stone Slab
+    player: JVMyhre
+  stone_sword:
+    found: true
+    name: Stone Sword
+    player: Xantev
+  string:
+    found: true
+    name: String
+    player: Xantev
+  stripped_acacia_log:
+    found: true
+    name: Stripped Acacia Log
+    player: dearliest
+  stripped_acacia_wood:
+    found: false
+    name: Stripped Acacia Wood
+    player: ''
+  stripped_birch_log:
+    found: true
+    name: Stripped Birch Log
+    player: Xantev
+  stripped_birch_wood:
+    found: true
+    name: Stripped Birch Wood
+    player: Xantev
+  stripped_dark_oak_log:
+    found: true
+    name: Stripped Dark Oak Log
+    player: dearliest
+  stripped_dark_oak_wood:
+    found: true
+    name: Stripped Dark Oak Wood
+    player: Xantev
+  stripped_jungle_log:
+    found: true
+    name: Stripped Jungle Log
+    player: _Eralys_
+  stripped_jungle_wood:
+    found: false
+    name: Stripped Jungle Wood
+    player: ''
+  stripped_oak_log:
+    found: true
+    name: Stripped Oak Log
+    player: Xantev
+  stripped_oak_wood:
+    found: true
+    name: Stripped Oak Wood
+    player: Xantev
+  stripped_spruce_log:
+    found: true
+    name: Stripped Spruce Log
+    player: Xantev
+  stripped_spruce_wood:
+    found: true
+    name: Stripped Spruce Wood
+    player: Xantev
+  sugar:
+    found: true
+    name: Sugar
+    player: dearliest
+  sugar_cane:
+    found: true
+    name: Sugar Cane
+    player: lx_chix_xl
+  sunflower:
+    found: true
+    name: Sunflower
+    player: _Eralys_
+  terracotta:
+    found: true
+    name: Terracotta
+    player: Xantev
+  tnt:
+    found: true
+    name: TNT
+    player: JVMyhre
+  tnt_minecart:
+    found: true
+    name: Minecart with TNT
+    player: dearliest
+  torch:
+    found: true
+    name: Torch
+    player: Xantev
+  totem_of_undying:
+    found: false
+    name: Totem of Undying
+    player: ''
+  trapped_chest:
+    found: true
+    name: Trapped Chest
+    player: dearliest
+  trident:
+    found: false
+    name: Trident
+    player: ''
+  tripwire:
+    found: false
+    name: Tripwire
+    player: ''
+  tripwire_hook:
+    found: true
+    name: Tripwire Hook
+    player: FiskenPisk
+  tropical_fish:
+    found: true
+    name: Tropical Fish
+    player: MissyTitch
+  tropical_fish_bucket:
+    found: true
+    name: Bucket of Tropical Fish
+    player: BrizzleMFD
+  tube_coral:
+    found: false
+    name: Tube Coral
+    player: ''
+  tube_coral_block:
+    found: false
+    name: Tube Coral Block
+    player: ''
+  tube_coral_fan:
+    found: false
+    name: Tube Coral Fan
+    player: ''
+  turtle_egg:
+    found: false
+    name: Turtle Egg
+    player: ''
+  turtle_helmet:
+    found: false
+    name: Turtle Shell
+    player: ''
+  vine:
+    found: true
+    name: Vines
+    player: Emtntny1
+  water:
+    found: false
+    name: Water Bottle
+    player: ''
+  water_bucket:
+    found: true
+    name: Water Bucket
+    player: BrizzleMFD
+  wet_sponge:
+    found: false
+    name: Wet Sponge
+    player: ''
+  wheat:
+    found: true
+    name: Wheat
+    player: Indie_Gorilla
+  wheat_seeds:
+    found: true
+    name: Wheat Seeds
+    player: _Eralys_
+  white_bed:
+    found: true
+    name: White Bed
+    player: Emtntny1
+  white_carpet:
+    found: true
+    name: White Carpet
+    player: lx_chix_xl
+  white_concrete:
+    found: true
+    name: White Concrete
+    player: Zerolarity
+  white_concrete_powder:
+    found: true
+    name: White Concrete Powder
+    player: Zerolarity
+  white_glazed_terracotta:
+    found: true
+    name: White Glazed Terracotta
+    player: dearliest
+  white_shulker_box:
+    found: false
+    name: White Shulker Box
+    player: ''
+  white_stained_glass:
+    found: true
+    name: White Stained Glass
+    player: Xantev
+  white_stained_glass_pane:
+    found: true
+    name: White Stained Glass Pane
+    player: Xantev
+  white_terracotta:
+    found: true
+    name: White Terracotta
+    player: dearliest
+  white_tulip:
+    found: true
+    name: White Tulip
+    player: _Eralys_
+  white_wool:
+    found: true
+    name: White Wool
+    player: Emtntny1
+  wither_skeleton_skull:
+    found: true
+    name: Wither Skeleton Skull
+    player: _Eralys_
+  wooden_axe:
+    found: true
+    name: Wooden Axe
+    player: JVMyhre
+  wooden_hoe:
+    found: true
+    name: Wooden Hoe
+    player: dearliest
+  wooden_pickaxe:
+    found: true
+    name: Wooden Pickaxe
+    player: Mattchow
+  wooden_shovel:
+    found: true
+    name: Wooden Shovel
+    player: dearliest
+  wooden_sword:
+    found: true
+    name: Wooden Sword
+    player: Emtntny1
+  writable_book:
+    found: true
+    name: Book and Quill
+    player: dearliest
+  written_book:
+    found: true
+    name: Written Book
+    player: dearliest
+  yellow_bed:
+    found: true
+    name: Yellow Bed
+    player: Mattchow
+  yellow_carpet:
+    found: true
+    name: Yellow Carpet
+    player: dearliest
+  yellow_concrete:
+    found: true
+    name: Yellow Concrete
+    player: dearliest
+  yellow_concrete_powder:
+    found: true
+    name: Yellow Concrete Powder
+    player: dearliest
+  yellow_glazed_terracotta:
+    found: true
+    name: Yellow Glazed Terracotta
+    player: dearliest
+  yellow_shulker_box:
+    found: false
+    name: Yellow Shulker Box
+    player: ''
+  yellow_stained_glass:
+    found: true
+    name: Yellow Stained Glass
+    player: Xantev
+  yellow_stained_glass_pane:
+    found: true
+    name: Yellow Stained Glass Pane
+    player: Xantev
+  yellow_terracotta:
+    found: true
+    name: Yellow Terracotta
+    player: dearliest
+  yellow_wool:
+    found: true
+    name: Yellow Wool
+    player: Xantev
+  zombie_head:
+    found: false
+    name: Zombie Head
+    player: ''
+players:
+  81ff8676-d78e-4d0f-894b-80d524ba12a5:
+    name: Mystic_Nick
+    uuid: 81ff8676-d78e-4d0f-894b-80d524ba12a5
+    found: 3
+  70c4092a-7dbb-4d5d-a924-3367f5daf8ad:
+    name: _Eralys_
+    uuid: 70c4092a-7dbb-4d5d-a924-3367f5daf8ad
+    found: 20
+  90cd8b99-43a5-4743-b617-a6443e1410fb:
+    name: lx_chix_xl
+    uuid: 90cd8b99-43a5-4743-b617-a6443e1410fb
+    found: 24
+  d7cee27f-403e-44fe-81b8-8fb9260312e0:
+    name: MissyTitch
+    uuid: d7cee27f-403e-44fe-81b8-8fb9260312e0
+    found: 8
+  631a80f2-ac55-41f5-b638-4d60ff663d04:
+    name: Mattchow
+    uuid: 631a80f2-ac55-41f5-b638-4d60ff663d04
+    found: 14
+  d321a212-f39e-4428-8521-82f8433aac5e:
+    name: Xantev
+    uuid: d321a212-f39e-4428-8521-82f8433aac5e
+    found: 143
+  efa6c9cc-5c55-46da-88c6-01276bf65c09:
+    name: Zerolarity
+    uuid: efa6c9cc-5c55-46da-88c6-01276bf65c09
+    found: 34
+  e16222d4-f3c4-4800-8339-31fd86245a0f:
+    name: Indie_Gorilla
+    uuid: e16222d4-f3c4-4800-8339-31fd86245a0f
+    found: 17
+  70a7291c-18fa-4ec0-bc6d-015a0a716df2:
+    name: FiskenPisk
+    uuid: 70a7291c-18fa-4ec0-bc6d-015a0a716df2
+    found: 12
+  c6e069a8-bbba-4e8c-bd07-1613b6a2b6d4:
+    name: Emtntny1
+    uuid: c6e069a8-bbba-4e8c-bd07-1613b6a2b6d4
+    found: 8
+  fdb76ccf-edbb-43a0-8b00-3eb144af45eb:
+    name: TheAntiChris77
+    uuid: fdb76ccf-edbb-43a0-8b00-3eb144af45eb
+    found: 9
+  8c04161b-b40a-4eb1-b71a-953ca52cb7d0:
+    name: JVMyhre
+    uuid: 8c04161b-b40a-4eb1-b71a-953ca52cb7d0
+    found: 31
+  d6287b50-2928-4eef-8f42-96bad13bd39f:
+    name: dearliest
+    uuid: d6287b50-2928-4eef-8f42-96bad13bd39f
+    found: 165
+  fde272c3-0f3d-4b15-871c-156be9e51468:
+    name: AnimeIsASin
+    uuid: fde272c3-0f3d-4b15-871c-156be9e51468
+    found: 14
+  ade43d3c-e8b1-4896-8337-fb51369447a7:
+    name: DrMacca
+    uuid: ade43d3c-e8b1-4896-8337-fb51369447a7
+    found: 4
+  cb8e30b6-f8f9-46e8-850e-7e1121ddca4d:
+    name: SmashTornado
+    uuid: cb8e30b6-f8f9-46e8-850e-7e1121ddca4d
+    found: 6
+  cc4de4f7-ce05-4683-a94a-f5526ab9c292:
+    name: purpleabi
+    uuid: cc4de4f7-ce05-4683-a94a-f5526ab9c292
+    found: 4
+  8d96e150-7706-4759-8165-12cf7dc900de:
+    name: Ava_457
+    uuid: 8d96e150-7706-4759-8165-12cf7dc900de
+    found: 3
+  9bb8f432-8bb1-440f-93e4-fdc2dea4a652:
+    name: Valicious15
+    uuid: 9bb8f432-8bb1-440f-93e4-fdc2dea4a652
+    found: 5
+  ab7ec078-dbf3-473a-8016-534597957b49:
+    name: BrizzleMFD
+    uuid: ab7ec078-dbf3-473a-8016-534597957b49
+    found: 14
+  f8d0b79c-8a04-43cb-b0cd-ec8e493cfc7d:
+    name: xShde
+    uuid: f8d0b79c-8a04-43cb-b0cd-ec8e493cfc7d
+    found: 10
