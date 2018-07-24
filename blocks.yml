@@ -28,7 +28,6 @@ beef:Raw Beef
 beetroot:Beetroot
 beetroot_seeds:Beetroot Seeds
 beetroot_soup:Beetroot Soup
-beetroots:Beetroots
 birch_boat:Birch Boat
 birch_button:Birch Button
 birch_door:Birch Door
@@ -532,12 +531,11 @@ red_stained_glass_pane:Red Stained Glass Pane
 red_terracotta:Red Terracotta
 red_tulip:Red Tulip
 red_wool:Red Wool
-redstone:Redstone
+redstone:Redstone Dust
 redstone_block:Block of Redstone
 redstone_lamp:Redstone Lamp
 redstone_ore:Redstone Ore
 redstone_torch:Redstone Torch
-redstone_wire:Redstone Dust
 repeater:Redstone Repeater
 rose_bush:Rose Bush
 rose_red:Rose Red
@@ -564,7 +562,7 @@ slime_ball:Slimeball
 slime_block:Slime Block
 smooth_quartz:Smooth Quartz
 smooth_red_sandstone:Smooth Red Sandstone
-smooth_sandstone:Smooth Sandstone
+cut_sandstone:Cut Sandstone
 smooth_stone:Smooth Stone
 snow:Snow
 snow_block:Snow Block

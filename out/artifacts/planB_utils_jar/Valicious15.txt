@@ -1,0 +1,153 @@
+20:00:29.018
+Location{world=CraftWorld{name=world},x=206.0,y=63.0,z=-31.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=203.0,y=63.0,z=-32.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=208.0,y=63.0,z=-28.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=202.0,y=63.0,z=-28.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=202.0,y=63.0,z=-24.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=205.0,y=63.0,z=-25.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=207.0,y=63.0,z=-24.0,pitch=0.0,yaw=0.0}
+20:02:31.921
+ItemStack{TNT x 1}
+ItemStack{BEDROCK x 1}
+ItemStack{DARK_OAK_TRAPDOOR x 64}
+ItemStack{SPRUCE_BUTTON x 1}
+ItemStack{OAK_LOG x 1}
+ItemStack{LAVA_BUCKET x 1}
+ItemStack{REDSTONE_BLOCK x 64}
+ItemStack{LIGHT_GRAY_WOOL x 1}
+ItemStack{ANVIL x 1}
+ItemStack{IRON_ORE x 1}
+ItemStack{STRIPPED_BIRCH_WOOD x 1}
+ItemStack{BIRCH_FENCE_GATE x 64}
+ItemStack{STRIPPED_SPRUCE_WOOD x 1}
+ItemStack{STICKY_PISTON x 64}
+ItemStack{STRIPPED_ACACIA_LOG x 1}
+ItemStack{SAND x 1}
+ItemStack{DARK_OAK_PRESSURE_PLATE x 1}
+ItemStack{STRIPPED_ACACIA_WOOD x 1}
+ItemStack{JUNGLE_FENCE_GATE x 64}
+ItemStack{JUNGLE_PLANKS x 1}
+20:03:31.968
+ItemStack{TNT x 1}
+ItemStack{BEDROCK x 1}
+ItemStack{DARK_OAK_TRAPDOOR x 64}
+ItemStack{SPRUCE_BUTTON x 1}
+ItemStack{OAK_LOG x 1}
+ItemStack{LAVA_BUCKET x 1}
+ItemStack{REDSTONE_BLOCK x 64}
+ItemStack{LIGHT_GRAY_WOOL x 1}
+ItemStack{ANVIL x 1}
+ItemStack{IRON_ORE x 1}
+ItemStack{STRIPPED_BIRCH_WOOD x 1}
+ItemStack{BIRCH_FENCE_GATE x 64}
+ItemStack{STRIPPED_SPRUCE_WOOD x 1}
+ItemStack{STICKY_PISTON x 64}
+ItemStack{STRIPPED_ACACIA_LOG x 1}
+ItemStack{SAND x 1}
+ItemStack{DARK_OAK_PRESSURE_PLATE x 1}
+ItemStack{STRIPPED_ACACIA_WOOD x 1}
+ItemStack{JUNGLE_FENCE_GATE x 64}
+ItemStack{JUNGLE_PLANKS x 1}
+20:04:31.979
+ItemStack{TNT x 1}
+ItemStack{BEDROCK x 1}
+ItemStack{DARK_OAK_TRAPDOOR x 64}
+ItemStack{SPRUCE_BUTTON x 1}
+ItemStack{OAK_LOG x 1}
+ItemStack{LAVA_BUCKET x 1}
+ItemStack{REDSTONE_BLOCK x 64}
+ItemStack{LIGHT_GRAY_WOOL x 1}
+ItemStack{ANVIL x 1}
+ItemStack{IRON_ORE x 1}
+ItemStack{STRIPPED_BIRCH_WOOD x 1}
+ItemStack{BIRCH_FENCE_GATE x 64}
+ItemStack{STRIPPED_SPRUCE_WOOD x 1}
+ItemStack{STICKY_PISTON x 64}
+ItemStack{STRIPPED_ACACIA_LOG x 1}
+ItemStack{SAND x 1}
+ItemStack{DARK_OAK_PRESSURE_PLATE x 1}
+ItemStack{STRIPPED_ACACIA_WOOD x 1}
+ItemStack{JUNGLE_FENCE_GATE x 64}
+ItemStack{JUNGLE_PLANKS x 1}
+20:05:31.989
+ItemStack{TNT x 1}
+ItemStack{BEDROCK x 1}
+ItemStack{DARK_OAK_TRAPDOOR x 64}
+ItemStack{SPRUCE_BUTTON x 1}
+ItemStack{OAK_LOG x 1}
+ItemStack{LAVA_BUCKET x 1}
+ItemStack{REDSTONE_BLOCK x 64}
+ItemStack{LIGHT_GRAY_WOOL x 1}
+ItemStack{ANVIL x 1}
+ItemStack{IRON_ORE x 1}
+ItemStack{STRIPPED_BIRCH_WOOD x 1}
+ItemStack{BIRCH_FENCE_GATE x 64}
+ItemStack{STRIPPED_SPRUCE_WOOD x 1}
+ItemStack{STICKY_PISTON x 64}
+ItemStack{STRIPPED_ACACIA_LOG x 1}
+ItemStack{SAND x 1}
+ItemStack{DARK_OAK_PRESSURE_PLATE x 1}
+ItemStack{STRIPPED_ACACIA_WOOD x 1}
+ItemStack{JUNGLE_FENCE_GATE x 64}
+ItemStack{JUNGLE_PLANKS x 1}
+20:05:31.990
+Location{world=CraftWorld{name=world},x=206.0,y=63.0,z=-31.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=203.0,y=63.0,z=-32.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=208.0,y=63.0,z=-28.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=205.0,y=63.0,z=-25.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=207.0,y=63.0,z=-24.0,pitch=0.0,yaw=0.0}
+20:06:32.047
+ItemStack{TNT x 1}
+ItemStack{BEDROCK x 1}
+ItemStack{DARK_OAK_TRAPDOOR x 64}
+ItemStack{SPRUCE_BUTTON x 1}
+ItemStack{OAK_LOG x 1}
+ItemStack{LAVA_BUCKET x 1}
+ItemStack{REDSTONE_BLOCK x 64}
+ItemStack{LIGHT_GRAY_WOOL x 1}
+ItemStack{ANVIL x 1}
+ItemStack{IRON_ORE x 1}
+ItemStack{STRIPPED_BIRCH_WOOD x 1}
+ItemStack{BIRCH_FENCE_GATE x 64}
+ItemStack{STRIPPED_SPRUCE_WOOD x 1}
+ItemStack{STICKY_PISTON x 64}
+ItemStack{STRIPPED_ACACIA_LOG x 1}
+ItemStack{SAND x 1}
+ItemStack{DARK_OAK_PRESSURE_PLATE x 1}
+ItemStack{STRIPPED_ACACIA_WOOD x 1}
+ItemStack{JUNGLE_FENCE_GATE x 64}
+ItemStack{JUNGLE_PLANKS x 1}
+20:06:32.047
+Location{world=CraftWorld{name=world},x=206.0,y=63.0,z=-31.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=203.0,y=63.0,z=-32.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=208.0,y=63.0,z=-28.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=205.0,y=63.0,z=-25.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=207.0,y=63.0,z=-24.0,pitch=0.0,yaw=0.0}
+20:07:32.062
+ItemStack{TNT x 1}
+ItemStack{BEDROCK x 1}
+ItemStack{DARK_OAK_TRAPDOOR x 64}
+ItemStack{SPRUCE_BUTTON x 1}
+ItemStack{OAK_LOG x 1}
+ItemStack{LAVA_BUCKET x 1}
+ItemStack{REDSTONE_BLOCK x 64}
+ItemStack{LIGHT_GRAY_WOOL x 1}
+ItemStack{ANVIL x 1}
+ItemStack{IRON_ORE x 1}
+ItemStack{STRIPPED_BIRCH_WOOD x 1}
+ItemStack{BIRCH_FENCE_GATE x 64}
+ItemStack{STRIPPED_SPRUCE_WOOD x 1}
+ItemStack{STICKY_PISTON x 64}
+ItemStack{STRIPPED_ACACIA_LOG x 1}
+ItemStack{SAND x 1}
+ItemStack{DARK_OAK_PRESSURE_PLATE x 1}
+ItemStack{STRIPPED_ACACIA_WOOD x 1}
+ItemStack{JUNGLE_FENCE_GATE x 64}
+ItemStack{JUNGLE_PLANKS x 1}
+20:07:32.062
+Location{world=CraftWorld{name=world},x=206.0,y=63.0,z=-31.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=203.0,y=63.0,z=-32.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=208.0,y=63.0,z=-28.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=202.0,y=63.0,z=-24.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=205.0,y=63.0,z=-25.0,pitch=0.0,yaw=0.0}
+Location{world=CraftWorld{name=world},x=207.0,y=63.0,z=-24.0,pitch=0.0,yaw=0.0}
