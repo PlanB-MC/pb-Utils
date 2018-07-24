@@ -17,13 +17,12 @@ allium:Allium
 andesite:Andesite
 anvil:Anvil
 apple:Apple
+light_gray_banner:Random Banner
 armor_stand:Armor Stand
 arrow:Arrow
 azure_bluet:Azure Bluet
 baked_potato:Baked Potato
-banner:Banner
 beacon:Beacon
-bed:Bed
 beef:Raw Beef
 beetroot:Beetroot
 beetroot_seeds:Beetroot Seeds
@@ -223,7 +222,6 @@ end_stone_bricks:End Stone Bricks
 ender_chest:Ender Chest
 ender_eye:Eye of Ender
 ender_pearl:Ender Pearl
-enderchest:Ender Chest
 feather:Feather
 fermented_spider_eye:Fermented Spider Eye
 fern:Fern
@@ -560,8 +558,7 @@ sign:Sign
 skeleton_skull:Skeleton Skull
 slime_ball:Slimeball
 slime_block:Slime Block
-smooth_quartz:Smooth Quartz
-smooth_red_sandstone:Smooth Red Sandstone
+cut_red_sandstone:Smooth Red Sandstone
 cut_sandstone:Cut Sandstone
 smooth_stone:Smooth Stone
 snow:Snow
@@ -621,7 +618,6 @@ torch:Torch
 totem_of_undying:Totem of Undying
 trapped_chest:Trapped Chest
 trident:Trident
-tripwire:Tripwire
 tripwire_hook:Tripwire Hook
 tropical_fish:Tropical Fish
 tropical_fish_bucket:Bucket of Tropical Fish
@@ -631,7 +627,7 @@ tube_coral_fan:Tube Coral Fan
 turtle_egg:Turtle Egg
 turtle_helmet:Turtle Shell
 vine:Vines
-water:Water Bottle
+potion:Water Bottle
 water_bucket:Water Bucket
 wet_sponge:Wet Sponge
 wheat:Wheat

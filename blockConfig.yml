@@ -94,17 +94,13 @@ blocks:
     found: true
     name: Baked Potato
     player: BrizzleMFD
-  banner:
+  light_gray_banner:
     found: false
-    name: Banner
+    name: Random Banner
     player: ''
   beacon:
     found: false
     name: Beacon
-    player: ''
-  bed:
-    found: false
-    name: Bed
     player: ''
   beef:
     found: true
@@ -121,10 +117,6 @@ blocks:
   beetroot_soup:
     found: false
     name: Beetroot Soup
-    player: ''
-  beetroots:
-    found: false
-    name: Beetroots
     player: ''
   birch_boat:
     found: true
@@ -906,10 +898,6 @@ blocks:
     found: true
     name: Ender Pearl
     player: JVMyhre
-  enderchest:
-    found: false
-    name: Ender Chest
-    player: ''
   feather:
     found: true
     name: Feather
@@ -2158,10 +2146,6 @@ blocks:
     found: true
     name: Redstone Torch
     player: dearliest
-  redstone_wire:
-    found: false
-    name: Redstone Dust
-    player: ''
   repeater:
     found: true
     name: Redstone Repeater
@@ -2258,15 +2242,11 @@ blocks:
     found: false
     name: Slime Block
     player: ''
-  smooth_quartz:
-    found: false
-    name: Smooth Quartz
-    player: ''
-  smooth_red_sandstone:
+  cut_red_sandstone:
     found: false
     name: Smooth Red Sandstone
     player: ''
-  smooth_sandstone:
+  cut_sandstone:
     found: false
     name: Smooth Sandstone
     player: ''
@@ -2502,10 +2482,6 @@ blocks:
     found: false
     name: Trident
     player: ''
-  tripwire:
-    found: false
-    name: Tripwire
-    player: ''
   tripwire_hook:
     found: true
     name: Tripwire Hook
@@ -2542,7 +2518,7 @@ blocks:
     found: true
     name: Vines
     player: Emtntny1
-  water:
+  potion:
     found: false
     name: Water Bottle
     player: ''

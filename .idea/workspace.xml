@@ -9,10 +9,8 @@
     <list id="f91251b8-62ee-4db6-811e-14a14fc72a3d" name="Default" comment="" />
     <list default="true" id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="updated some methods.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blockConfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blockConfig.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blocks.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +75,8 @@
       <file leaf-file-name="pbBarrier.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+            <state relative-caret-position="440">
+              <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
               <folding>
                 <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
               </folding>
@@ -446,7 +444,7 @@
       <workItem from="1532188440902" duration="17554000" />
       <workItem from="1532266969154" duration="17488000" />
       <workItem from="1532344516288" duration="20083000" />
-      <workItem from="1532457024616" duration="3628000" />
+      <workItem from="1532457024616" duration="4737000" />
     </task>
     <task id="LOCAL-00001" summary="Debugg">
       <changelist id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="" />
@@ -475,7 +473,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="361969000" />
+    <option name="totallyTimeSpent" value="363078000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,7 +485,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="215" y="116" width="1582" height="702" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32897604" />
@@ -504,8 +503,8 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.27529567" />
-      <window_info active="true" anchor="right" id="Database" order="7" visible="true" weight="0.14454664" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.22334754" />
+      <window_info active="true" anchor="right" id="Database" order="7" visible="true" weight="0.11727079" />
       <window_info anchor="right" id="SciView" order="10" weight="0.32995737" />
       <window_info id="Structure" order="0" sideWeight="0.6459695" side_tool="true" weight="0.18017058" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -904,8 +903,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+        <state relative-caret-position="440">
+          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
           <folding>
             <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
           </folding>
@@ -931,7 +930,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -943,7 +942,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Python 3.6 interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
