@@ -40,7 +40,7 @@ public class pbCrafting {
         stairs.put(Material.PRISMARINE, new ItemStack(Material.PRISMARINE_STAIRS, 8));
 
         //initialize Wool
-        HashMap<Material, ItemStack> wool = new HashMap<>();
+       /* HashMap<Material, ItemStack> wool = new HashMap<>();
         stairs.put(Material.INK_SAC, new ItemStack(Material.BLACK_WOOL, 8));
         stairs.put(Material.LAPIS_LAZULI, new ItemStack(Material.BLUE_WOOL, 8));
         stairs.put(Material.COCOA_BEANS, new ItemStack(Material.BROWN_WOOL, 8));
@@ -55,7 +55,7 @@ public class pbCrafting {
         stairs.put(Material.PINK_DYE, new ItemStack(Material.PINK_WOOL, 8));
         stairs.put(Material.PURPLE_DYE, new ItemStack(Material.PURPLE_WOOL, 8));
         stairs.put(Material.ROSE_RED, new ItemStack(Material.RED_WOOL, 8));
-        stairs.put(Material.DANDELION_YELLOW, new ItemStack(Material.YELLOW_WOOL, 8));
+        stairs.put(Material.DANDELION_YELLOW, new ItemStack(Material.YELLOW_WOOL, 8));*/
 
         //remove all recipes
         plugin.getServer().recipeIterator().forEachRemaining(cur -> {
@@ -157,7 +157,7 @@ public class pbCrafting {
 
     private NamespacedKey getKey() {
         NamespacedKey key = new NamespacedKey(plugin, "key_val_" + count);
-        System.out.println("[pbUtils]@recipe " + count);
+       // System.out.println("[pbUtils]@recipe " + count);
         count++;
         return key;
     }

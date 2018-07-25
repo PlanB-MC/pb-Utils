@@ -1,0 +1,73 @@
+planB:
+  enablePlugin: true
+pbShulker:
+  enablePlugin: true
+  shulkers:
+    need: 1000
+    found: 0
+pbBarrier:
+  enablePlugin: true
+  enableGlassPlace: true
+  enableBarriePlace: false
+  amount: 792
+  goal: 10000
+  players:
+    d321a212-f39e-4428-8521-82f8433aac5e:
+      name: Xantev
+      uuid: d321a212-f39e-4428-8521-82f8433aac5e
+      score: 77
+    efa6c9cc-5c55-46da-88c6-01276bf65c09:
+      name: Zerolarity
+      uuid: efa6c9cc-5c55-46da-88c6-01276bf65c09
+      score: 3
+    8d96e150-7706-4759-8165-12cf7dc900de:
+      name: Ava_457
+      uuid: 8d96e150-7706-4759-8165-12cf7dc900de
+      score: 20
+    8c04161b-b40a-4eb1-b71a-953ca52cb7d0:
+      name: JVMyhre
+      uuid: 8c04161b-b40a-4eb1-b71a-953ca52cb7d0
+      score: 9
+    70c4092a-7dbb-4d5d-a924-3367f5daf8ad:
+      name: _Eralys_
+      uuid: 70c4092a-7dbb-4d5d-a924-3367f5daf8ad
+      score: 54
+    b169a00c-de92-499c-b600-ffd452eb5d30:
+      name: Moochi19
+      uuid: b169a00c-de92-499c-b600-ffd452eb5d30
+      score: 2
+    cc4de4f7-ce05-4683-a94a-f5526ab9c292:
+      name: purpleabi
+      uuid: cc4de4f7-ce05-4683-a94a-f5526ab9c292
+      score: 493
+    46b02cc3-9c48-47ea-a6f3-88c7b4014ee3:
+      name: Mystic_Eagle115
+      uuid: 46b02cc3-9c48-47ea-a6f3-88c7b4014ee3
+      score: 93
+    efa6c9cc-5c55-46da-88c6-01276bf65c09:
+      name: Zerolarity
+      uuid: efa6c9cc-5c55-46da-88c6-01276bf65c09
+      score: 1
+    9bb8f432-8bb1-440f-93e4-fdc2dea4a652:
+      name: Valicious15
+      uuid: 9bb8f432-8bb1-440f-93e4-fdc2dea4a652
+      score: 3
+	0c291d62-f6c9-4eb6-acce-98522e5a01e3:
+      name: Wolf_Goddess_
+      uuid: 0c291d62-f6c9-4eb6-acce-98522e5a01e3
+      score: 4
+	f8d0b79c-8a04-43cb-b0cd-ec8e493cfc7d:
+      name: xShde
+      uuid: f8d0b79c-8a04-43cb-b0cd-ec8e493cfc7d
+      score: 33
+pbAdvancements:
+  data:
+    blocksListSet: true
+    blocksDone: false
+    enablePlugin: true
+pbZHorse:
+  enablePlugin: false
+pbGriefer:
+  data:
+    time: 10
+    enablePlugin: true

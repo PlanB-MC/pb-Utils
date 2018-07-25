@@ -40,7 +40,7 @@ public class Main extends JavaPlugin {
             pbUtils.log('C', "[PlanB-Utils]");
             return;
         }
-        pbCrafting = new pbCrafting(this);
+        //pbCrafting = new pbCrafting(this);
         pbListenersEars = new pbListeners(this);
         random = new SecureRandom();
 

@@ -10,7 +10,11 @@
     <list default="true" id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="updated some methods.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blockConfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blockConfig.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blocks.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/planB_utils_jar/Valicious15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/planB_utils_jar/planB-utils.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbCrafting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/planB-utils/planB/mc/val/pbUtils/pbCrafting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +46,20 @@
       <file leaf-file-name="pbCrafting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
+            <state relative-caret-position="722">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -60,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="onGlassDetect.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="onGlassDetect.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+            <state relative-caret-position="352">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pbBarrier.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pbBarrier.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+              <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
               <folding>
                 <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
               </folding>
@@ -192,12 +205,12 @@
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/Block.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbShowodmere/onZHorse.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbPlayerLogger/pbGriefLogger.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/pbAdvancements/onAdvancementsShop.java" />
-        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java" />
         <option value="$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java" />
+        <option value="$PROJECT_DIR$/src/planB/mc/val/Main.java" />
       </list>
     </option>
   </component>
@@ -444,7 +457,7 @@
       <workItem from="1532188440902" duration="17554000" />
       <workItem from="1532266969154" duration="17488000" />
       <workItem from="1532344516288" duration="20083000" />
-      <workItem from="1532457024616" duration="4737000" />
+      <workItem from="1532457024616" duration="8676000" />
     </task>
     <task id="LOCAL-00001" summary="Debugg">
       <changelist id="76c74108-39e8-454b-9306-f028fde7c764" name="Debugg" comment="" />
@@ -473,7 +486,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363078000" />
+    <option name="totallyTimeSpent" value="367017000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -489,36 +502,36 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32897604" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.11727079" />
+      <window_info id="Structure" order="0" sideWeight="0.6459695" side_tool="true" weight="0.18017058" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39978212" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32897604" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32897604" />
       <window_info anchor="bottom" id="Floobits" order="12" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.22334754" />
-      <window_info active="true" anchor="right" id="Database" order="7" visible="true" weight="0.11727079" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.3540305" visible="true" weight="0.22334754" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="SciView" order="10" weight="0.32995737" />
-      <window_info id="Structure" order="0" sideWeight="0.6459695" side_tool="true" weight="0.18017058" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="4" sideWeight="0.50108933" side_tool="true" weight="0.17697228" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39978212" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="0" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32897604" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -743,13 +756,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/ExtraOutputs/onPoopable.java" />
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="37" column="54" lean-forward="true" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/CommandList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
@@ -874,16 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onBarrierDetect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
@@ -891,22 +887,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java">
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        <state relative-caret-position="440">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+          <folding>
+            <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/pbUtils/pbCrafting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/pbBarrier.java">
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+        <state relative-caret-position="436">
+          <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planB/mc/val/barrier/onGlassDetect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
-            <element signature="method#setupHeadVision#0;class#pbBarrier#0" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
